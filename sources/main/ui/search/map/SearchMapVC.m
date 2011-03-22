@@ -160,7 +160,7 @@
 	
 	SimpleAnnotation *ann = (SimpleAnnotation *)annotation;
 	
-	debug(@"annotation color = %d", ann.color);
+	//debug(@"annotation color = %d", ann.color);
     MKPinAnnotationView *view = (MKPinAnnotationView*)[self.mapView dequeueReusableAnnotationViewWithIdentifier:@"PIN_ANNOTATION"];
 	
     if(!view) {  // create one if view is nil

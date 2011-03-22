@@ -200,8 +200,6 @@
 	[mapView setShowsUserLocation:NO];
 	
 	geocoding = [[Geocoding alloc] init];
-
-	warn(@"FUUUUUUUCK !");
     
 	// back button
 	UIButton *back = [UIButton buttonWithType:UIButtonTypeCustom];  
@@ -212,6 +210,7 @@
     UIBarButtonItem *backbi = [[[UIBarButtonItem alloc] initWithCustomView:back] autorelease];  
 	self.navigationItem.leftBarButtonItem = backbi;
     
+    /*
     // init the arkit controller, and add a button to the toolbar to push it
     //self.arKitVC = [[arKitVC alloc] init];
     
@@ -221,6 +220,7 @@
     [ar autorelease];
     ar.title=@"AR";
 	self.navigationItem.rightBarButtonItem = ar;
+     */
 }
 
 
