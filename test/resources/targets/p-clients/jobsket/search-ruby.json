@@ -1,0 +1,27 @@
+{
+    "results":
+    {
+        "jobs":
+        [
+            {
+                "region":"Madrid",
+                "id":85,
+                "category":"Information Technology",
+                "title":"Analista Programador para Departamento de Tecnologías Semánticas",
+                "companyName":"Paradigma Tecnológico S.L.",
+                "city":"Pozuelo de Alarcón"
+            },
+            {
+                "region":"Guipúzcoa",
+                "id":13,
+                "category":"Information Technology",
+                "title":"Ruby on Rails Developer",
+                "companyName":"Breaking Molds ",
+                "city":"San Sebastián"
+            }
+        ]
+    },
+    "page":"1",
+    "pages":1,
+    "itemsPerPage":25
+}

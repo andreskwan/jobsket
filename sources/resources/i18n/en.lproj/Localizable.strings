@@ -1,0 +1,184 @@
+ // NSLocalizedString(@"", nil)
+
+/* hud warning: JobsketAppDelegate */
+"hud.warning.no.connection" = "No connectivity.";
+
+/* Advanced search screen: SearchAdvancedTVC.h */
+"picker.placeholder.category"   = "Category";
+"picker.placeholder.location"   = "Location";
+"picker.placeholder.experience" = "Experience";
+"picker.placeholder.salary"     = "Salary";
+"picker.placeholder.keywords"   = "Keywords";
+"advancedsearch.button.search"  = "Search";
+"advancedsearch.button.clear"   = "Clear";
+"picker.pickerTitle.category"   = "Category";
+"picker.pickerTitle.location"   = "Location";
+"picker.pickerTitle.experience" = "Experience";
+"picker.pickerTitle.salary"     = "Salary";
+
+/* Main search screen: SearchListTVC.m */
+"empty.favorites.cell"      = "Set the checkbox to favorite";
+"empty.recents.cell"        = "Type a new search";
+"section.title.favorites"   = "Favorite Searches";
+"section.title.recents"     = "Recent Searches";
+"search.title.noparameters" = "No parameters";
+
+/* TabBarController.m */
+"tab.search.title"    = "Search";
+"tab.favorites.title" = "Favorites";
+"tab.account.title"   = "Web";
+
+/* SearchJobsTVC.m */
+"job.status.manyJobs" = "%d jobs found";
+"job.status.oneJob" = "%d job found";
+"job.status.noJobs" = "No jobs found";
+
+/* FavoritesListTVC.m */
+"favorites.bar.title" = "Favorites";
+"favoriteJob.status.many" = "%d favorites";
+"favoriteJob.status.one"  = "%d favorite";
+"favoriteJob.status.none" = "No favorites";
+
+/* job detail: SearchJobsDetailTVC.m */
+"job.detail.ltCompany"    = "Company";
+"job.detail.ltExperience" = "Experience";
+"job.detail.ltLocation"   = "Location";
+"job.detail.ltCategory"   = "Category";
+"job.detail.requirements" = "Requisites";
+"job.detail.description"  = "Description";
+"job.detail.other"        = "Other";
+"job.detail.published"    = "published on";
+
+/* experience picker */
+"picker.experience.any"         = "Any";
+"picker.experience.one"         = "1 year or less";
+"picker.experience.oneTwo"      = "1-2 years";
+"picker.experience.twoThree"    = "2-3 years";
+"picker.experience.threeFive"   = "3-5 years";
+"picker.experience.fiveTen"     = "5-10 years";
+"picker.experience.moreThanTen" = "More than 10 years";
+"picker.experience.none"        = "No experience";
+
+"picker.novalue.key" = "Any";
+
+
+"category" = "Category";
+"experience" = "Experience";
+"location" = "Location";
+"salary" = "Salary";
+"minimum" = "maximum";
+
+"SavedSearches" = "Saved Searches";
+"Search" = "Search";
+"NewSearch" = "New Search";
+"NoLimit" = "No Limit";
+"undefined" = "Undefined";
+"years" = "years of experience";
+
+"cancel" = "Cancel";
+"ok" = "OK";
+
+"salaryPickerTitle" = "Min and Max Salary";
+"locationPickerTitle" = "Location";
+"categoryPickerTitle" = "Category";
+"experiencePickerTitle" = "Experience";
+
+"noExperience" = "No experience";
+
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+// ShareKit stuff
+
+"Email" = "Email";
+"Username" = "Username";
+"Password" = "Password";
+"Follow %@" = "Follow %@";
+"Continue" = "Continue";
+"Share" = "Share";
+"More..." = "More...";
+"Cancel" = "Cancel";
+"Slug" = "Slug";
+"Private" = "Private";
+"Public" = "Public";
+"Caption" = "Caption";
+"Title" = "Title";
+"Tags" = "Tags";
+"Close" = "Close";
+"Notes" = "Notes";
+"Note" = "Note";
+"Share" = "Share";
+"Shared" = "Shared";
+"Edit" = "Edit";
+"Actions" = "Actions";
+"Services" = "Services";
+"Send to %@" = "Send to %@";
+"Copy" = "Copy";
+"Copied!" = "Copied!";
+"Saving to %@" = "Saving to %@";
+"Saved!" = "Saved!";
+"Offline" = "Offline";
+"Error" = "Error";
+"Login" = "Login";
+"Logging In..." = "Logging In...";
+"Login Error" = "Login Error";
+"Connecting..." = "Connecting...";
+
+"Shortening URL..." = "Shortening URL...";
+"Shorten URL Error" = "Shorten URL Error";
+"We could not shorten the URL." = "We could not shorten the URL.";
+
+"Create a free account at %@" = "Create a free account at %@";
+"Create an account at %@" = "Create an account at %@";
+
+"Send to Twitter" = "Send to Twitter";
+
+"Message is too long" = "Message is too long";
+"Twitter posts can only be 140 characters in length." = "Twitter posts can only be 140 characters in length.";
+"Message is empty" = "Message is empty";
+"You must enter a message in order to post." = "You must enter a message in order to post.";
+
+"Enter your message:" = "Enter your message:";
+
+"Invalid email or password." = "Invalid email or password.";
+"The service encountered an error. Please try again later." = "The service encountered an error. Please try again later.";
+"There was a sending your post to Tumblr." = "There was a sending your post to Tumblr.";
+
+"There was an error saving to Pinboard" = "There was an error saving to Pinboard";
+
+"Sorry, Instapaper did not accept your credentials. Please try again." = "Sorry, Instapaper did not accept your credentials. Please try again.";
+"Sorry, Instapaper encountered an error. Please try again." = "Sorry, Instapaper encountered an error. Please try again.";
+"There was a problem saving to Instapaper." = "There was a problem saving to Instapaper.";
+
+"Incorrect username and password" = "Incorrect username and password";
+"There was an error logging into Google Reader" = "There was an error logging into Google Reader";
+"There was a problem authenticating your account." = "There was a problem authenticating your account.";
+"There was a problem saving your note." = "There was a problem saving your note.";
+
+"There was a problem saving to Delicious." = "There was a problem saving to Delicious.";
+
+"Open in Safari" = "Open in Safari";
+"Attached: %@" = "Attached: %@";
+
+"You must be online to login to %@" = "You must be online to login to %@";
+
+"Auto Share" = "Auto Share";
+"Enable auto share to skip this step in the future." = "Enable auto share to skip this step in the future.";
+
+"You must be online in order to share with %@" = "You must be online in order to share with %@";
+"There was an error while sharing" = "There was an error while sharing";
+
+"Could not authenticate you. Please relogin." = "Could not authenticate you. Please relogin.";
+"There was a problem requesting authorization from %@" = "There was a problem requesting authorization from %@";
+"Request Error" = "Request Error";
+"There was an error while sharing" = "There was an error while sharing";
+
+"Authorize Error" = "Authorize Error";
+"There was an error while authorizing" = "There was an error while authorizing";
+
+"Authenticating..." = "Authenticating...";
+"There was a problem requesting access from %@" = "There was a problem requesting access from %@";
+
+"Access Error" = "Access Error";
+"There was an error while sharing" = "There was an error while sharing";

@@ -1,0 +1,13 @@
+
+#import <CoreData/CoreData.h>
+#import <UIKit/UIKit.h>
+#import "XPathQuery.h"
+#import "JobMo.h"
+#import "CoreDataMemoryManager.h"
+
+
+@interface HtmlSearchParser : NSObject
+	
+-(NSMutableSet*) parseJobs:(NSData *)data;
+
+@end

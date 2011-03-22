@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>category</key>
+	<dict>
+		<key>Administración</key>
+		<string>3</string>
+		<key>Arquitectura y Diseño</key>
+		<string>4</string>
+		<key>Atención al Cliente</key>
+		<string>5</string>
+		<key>Comercial</key>
+		<string>16</string>
+		<key>Construcción y Ingeniería</key>
+		<string>6</string>
+		<key>Construcción y Inmobiliaria</key>
+		<string>14</string>
+		<key>Any</key>
+		<string>0</string>
+		<key>Finanzas y Banca</key>
+		<string>7</string>
+		<key>Hostelería</key>
+		<string>9</string>
+		<key>Legal</key>
+		<string>11</string>
+		<key>Logística y Almacén</key>
+		<string>17</string>
+		<key>Marketing</key>
+		<string>13</string>
+		<key>Oficios</key>
+		<string>12</string>
+		<key>Otros</key>
+		<string>18</string>
+		<key>Recursos Humanos</key>
+		<string>10</string>
+		<key>Sanidad y Salud</key>
+		<string>8</string>
+		<key>Tecnologías de la Información</key>
+		<string>2</string>
+		<key>Venta al Detalle</key>
+		<string>15</string>
+	</dict>
+	<key>experience</key>
+	<dict>
+		<key>1 or less years in experience</key>
+		<string>1 or less years in experience</string>
+		<key>1-2 years in experience</key>
+		<string>1-2 years in experience</string>
+		<key>2-3 years in experience</key>
+		<string>2-3 years in experience</string>
+		<key>3-5 years in experience</key>
+		<string>3-5 years in experience</string>
+		<key>5-10 years in experience</key>
+		<string>5-10 years in experience</string>
+		<key>Any</key>
+		<string>Any</string>
+		<key>More than 10 years in experience</key>
+		<string>More than 10 years in experience</string>
+		<key>Without experience</key>
+		<string>Without experience</string>
+	</dict>
+	<key>place</key>
+	<dict>
+		<key>Albacete</key>
+		<string>3</string>
+		<key>Alicante</key>
+		<string>4</string>
+		<key>Almería</key>
+		<string>5</string>
+		<key>Asturias</key>
+		<string>6</string>
+		<key>Álava</key>
+		<string>2</string>
+		<key>Ávila</key>
+		<string>7</string>
+		<key>Badajoz</key>
+		<string>8</string>
+		<key>Balears (Illes)</key>
+		<string>9</string>
+		<key>Barcelona</key>
+		<string>10</string>
+		<key>Burgos</key>
+		<string>11</string>
+		<key>Cantabria</key>
+		<string>14</string>
+		<key>Castellón</key>
+		<string>15</string>
+		<key>Cáceres</key>
+		<string>12</string>
+		<key>Cádiz</key>
+		<string>13</string>
+		<key>Ceuta</key>
+		<string>16</string>
+		<key>Ciudad Real</key>
+		<string>17</string>
+		<key>Coruña (A)</key>
+		<string>19</string>
+		<key>Córdoba</key>
+		<string>18</string>
+		<key>Any</key>
+		<string>0</string>
+		<key>Cuenca</key>
+		<string>20</string>
+		<key>Girona</key>
+		<string>21</string>
+		<key>Granada</key>
+		<string>22</string>
+		<key>Guadalajara</key>
+		<string>23</string>
+		<key>Guipúzcoa</key>
+		<string>24</string>
+		<key>Huelva</key>
+		<string>25</string>
+		<key>Huesca</key>
+		<string>26</string>
+		<key>Jaén</key>
+		<string>27</string>
+		<key>León</key>
+		<string>38</string>
+		<key>Lleida</key>
+		<string>29</string>
+		<key>Lugo</key>
+		<string>30</string>
+		<key>Madrid</key>
+		<string>31</string>
+		<key>Málaga</key>
+		<string>32</string>
+		<key>Melilla</key>
+		<string>33</string>
+		<key>Murcia</key>
+		<string>34</string>
+		<key>Navarra</key>
+		<string>35</string>
+		<key>Ourense</key>
+		<string>36</string>
+		<key>Palencia</key>
+		<string>37</string>
+		<key>Palmas (Las)</key>
+		<string>38</string>
+		<key>Pontevedra</key>
+		<string>39</string>
+		<key>Rioja (La)</key>
+		<string>40</string>
+		<key>Salamanca</key>
+		<string>41</string>
+		<key>Santa Cruz de Tenerife</key>
+		<string>42</string>
+		<key>Segovia</key>
+		<string>43</string>
+		<key>Sevilla</key>
+		<string>44</string>
+		<key>Soria</key>
+		<string>45</string>
+		<key>Spain</key>
+		<string>1</string>
+		<key>Tarragona</key>
+		<string>46</string>
+		<key>Teruel</key>
+		<string>47</string>
+		<key>Toledo</key>
+		<string>48</string>
+		<key>Valencia</key>
+		<string>49</string>
+		<key>Valladolid</key>
+		<string>50</string>
+		<key>Vizcaya</key>
+		<string>51</string>
+		<key>Zamora</key>
+		<string>52</string>
+		<key>Zaragoza</key>
+		<string>53</string>
+	</dict>
+	<key>salary</key>
+	<dict>
+		<key>10000</key>
+		<string>10000</string>
+		<key>100000</key>
+		<string>100000</string>
+		<key>11000</key>
+		<string>11000</string>
+		<key>12000</key>
+		<string>12000</string>
+		<key>13000</key>
+		<string>13000</string>
+		<key>14000</key>
+		<string>14000</string>
+		<key>15000</key>
+		<string>15000</string>
+		<key>16000</key>
+		<string>16000</string>
+		<key>17000</key>
+		<string>17000</string>
+		<key>18000</key>
+		<string>18000</string>
+		<key>19000</key>
+		<string>19000</string>
+		<key>20000</key>
+		<string>20000</string>
+		<key>21000</key>
+		<string>21000</string>
+		<key>22000</key>
+		<string>22000</string>
+		<key>23000</key>
+		<string>23000</string>
+		<key>24000</key>
+		<string>24000</string>
+		<key>25000</key>
+		<string>25000</string>
+		<key>26000</key>
+		<string>26000</string>
+		<key>27000</key>
+		<string>27000</string>
+		<key>28000</key>
+		<string>28000</string>
+		<key>29000</key>
+		<string>29000</string>
+		<key>30000</key>
+		<string>30000</string>
+		<key>31000</key>
+		<string>31000</string>
+		<key>32000</key>
+		<string>32000</string>
+		<key>33000</key>
+		<string>33000</string>
+		<key>34000</key>
+		<string>34000</string>
+		<key>35000</key>
+		<string>35000</string>
+		<key>36000</key>
+		<string>36000</string>
+		<key>37000</key>
+		<string>37000</string>
+		<key>38000</key>
+		<string>38000</string>
+		<key>39000</key>
+		<string>39000</string>
+		<key>40000</key>
+		<string>40000</string>
+		<key>41000</key>
+		<string>41000</string>
+		<key>42000</key>
+		<string>42000</string>
+		<key>43000</key>
+		<string>43000</string>
+		<key>44000</key>
+		<string>44000</string>
+		<key>45000</key>
+		<string>45000</string>
+		<key>46000</key>
+		<string>46000</string>
+		<key>47000</key>
+		<string>47000</string>
+		<key>48000</key>
+		<string>48000</string>
+		<key>49000</key>
+		<string>49000</string>
+		<key>50000</key>
+		<string>50000</string>
+		<key>55000</key>
+		<string>55000</string>
+		<key>60000</key>
+		<string>60000</string>
+		<key>65000</key>
+		<string>65000</string>
+		<key>70000</key>
+		<string>70000</string>
+		<key>75000</key>
+		<string>75000</string>
+		<key>80000</key>
+		<string>80000</string>
+		<key>85000</key>
+		<string>85000</string>
+		<key>9000</key>
+		<string>9000</string>
+		<key>90000</key>
+		<string>90000</string>
+		<key>95000</key>
+		<string>95000</string>
+		<key>Any</key>
+		<string>0</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,8 @@
+ 
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <GHUnitIOS/GHUnitIOS.h>
+    #import <Foundation/Foundation.h>
+
+    #import "DebugLog.h"
+#endif

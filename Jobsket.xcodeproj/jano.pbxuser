@@ -1,0 +1,747 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Jobsket */ = {
+		activeExec = 0;
+		executables = (
+			3A24D1F1125C176E0067A8D7 /* Jobsket */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3A24D1F1125C176E0067A8D7 /* Jobsket */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Jobsket */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Jobsket */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 3A24D213125C17840067A8D7 /* Code sense */;
+		executables = (
+			3A24D1F1125C176E0067A8D7 /* Jobsket */,
+			3A770123125EDB790010DF5A /* Jobsket3 */,
+			3A6186FB12E079AF00AF9B6A /* GHUnit */,
+			3A381FEB1336CBC500A561B6 /* Jobsket debug */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					180,
+					20,
+					81,
+					81,
+					11,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					151,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					229,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					341,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					355,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					317,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322359803;
+			PBXWorkspaceStateSaveDate = 322359803;
+		};
+		sourceControlManager = 3A24D212125C17840067A8D7 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3A1FFA2B1286199300589B82 /* JsonParserTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1061, 783}}";
+			sepNavSelRange = "{468, 0}";
+			sepNavVisRange = "{0, 660}";
+			sepNavWindowFrame = "{{607, 323}, {1120, 855}}";
+		};
+	};
+	3A1FFA2E128619ED00589B82 /* jobs.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2580, 7123}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2140}";
+			sepNavWindowFrame = "{{88, 123}, {1214, 987}}";
+		};
+	};
+	3A24D1F1125C176E0067A8D7 /* Jobsket */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Jobsket;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3A24D212125C17840067A8D7 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3A24D213125C17840067A8D7 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	3A2BFD87127DBE91004E022A /* search-3jobs.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 1070}}";
+			sepNavSelRange = "{2064, 8}";
+			sepNavVisRange = "{0, 2073}";
+			sepNavWindowFrame = "{{211, 36}, {1030, 1142}}";
+		};
+	};
+	3A2F0F1112D81FF000C8B49A /* Json2MoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {929, 1326}}";
+			sepNavSelRange = "{1026, 0}";
+			sepNavVisRange = "{328, 1718}";
+			sepNavWindowFrame = "{{930, 138}, {988, 1040}}";
+		};
+	};
+	3A2F0F3312D823D100C8B49A /* job310.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1042, 600}}";
+			sepNavSelRange = "{487, 1}";
+			sepNavVisRange = "{0, 693}";
+			sepNavWindowFrame = "{{652, 506}, {1101, 672}}";
+		};
+	};
+	3A2F552512DFB89200697F45 /* search-ruby.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1545, 459}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 372}";
+			sepNavWindowFrame = "{{77, 133}, {988, 1040}}";
+		};
+	};
+	3A36ADD11286F90900399465 /* README.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1111, 1496}}";
+			sepNavSelRange = "{1085, 0}";
+			sepNavVisRange = "{0, 1600}";
+			sepNavWindowFrame = "{{369, 126}, {1170, 1052}}";
+		};
+	};
+	3A36ADFE1286FE5D00399465 /* search-java1.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2908, 10438}}";
+			sepNavSelRange = "{22566, 0}";
+			sepNavVisRange = "{21617, 3138}";
+			sepNavWindowFrame = "{{77, 20}, {900, 1153}}";
+		};
+	};
+	3A381FEB1336CBC500A561B6 /* Jobsket debug */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Jobsket debug";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3A387D9812888FA50038B590 /* DiskFileTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {900, 1258}}";
+			sepNavSelRange = "{496, 37}";
+			sepNavVisRange = "{0, 1009}";
+			sepNavWindowFrame = "{{905, 359}, {959, 819}}";
+		};
+	};
+	3A3D4A7812E7417800C3357A /* NSString+LevenshteinTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1227, 1039}}";
+			sepNavSelRange = "{1, 32}";
+			sepNavVisRange = "{0, 1317}";
+			sepNavWindowFrame = "{{464, 67}, {1286, 1111}}";
+		};
+	};
+	3A3DB05212C025C2008DF7EA /* ThemesTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1115, 663}}";
+			sepNavSelRange = "{269, 0}";
+			sepNavVisRange = "{163, 147}";
+			sepNavWindowFrame = "{{696, 416}, {1000, 762}}";
+		};
+	};
+	3A4423FA128225B900FABE0E /* BundleLookupTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {962, 936}}";
+			sepNavSelRange = "{448, 0}";
+			sepNavVisRange = "{0, 455}";
+			sepNavWindowFrame = "{{180, 18}, {1021, 1008}}";
+		};
+	};
+	3A4424011282263F00FABE0E /* AppleReachabilityTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 1530}}";
+			sepNavSelRange = "{2555, 0}";
+			sepNavVisRange = "{706, 2272}";
+			sepNavWindowFrame = "{{495, 44}, {1030, 1134}}";
+		};
+	};
+	3A480980128E0AC50037F25F /* HtmlToJson2Test.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 986}}";
+			sepNavSelRange = "{582, 0}";
+			sepNavVisRange = "{154, 1020}";
+			sepNavWindowFrame = "{{327, 260}, {893, 918}}";
+		};
+	};
+	3A48A85612732F1800E6C118 /* PickersDataTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {910, 962}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRange = "{0, 793}";
+			sepNavWindowFrame = "{{133, 144}, {969, 1034}}";
+		};
+	};
+	3A585B6512E30E4F00544F14 /* HousekeepingTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1021, 1071}}";
+			sepNavSelRange = "{382, 0}";
+			sepNavVisRange = "{174, 1506}";
+			sepNavWindowFrame = "{{647, 222}, {1080, 956}}";
+		};
+	};
+	3A585C6212E3282D00544F14 /* GeocodingTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {6220, 1921}}";
+			sepNavSelRange = "{1680, 0}";
+			sepNavVisRange = "{1071, 2801}";
+			sepNavWindowFrame = "{{174, 79}, {958, 1099}}";
+		};
+	};
+	3A6079E31298DA64009DE59A /* SearchMoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1421, 833}}";
+			sepNavSelRange = "{831, 0}";
+			sepNavVisRange = "{0, 1124}";
+			sepNavWindowFrame = "{{358, 252}, {1480, 926}}";
+		};
+	};
+	3A61118012DB0B5400A6AFA4 /* search-madrid.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {925, 981}}";
+			sepNavSelRange = "{584, 0}";
+			sepNavVisRange = "{0, 584}";
+			sepNavWindowFrame = "{{88, 34}, {984, 1076}}";
+		};
+	};
+	3A6186FB12E079AF00AF9B6A /* GHUnit */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = GHUnit;
+		savedGlobals = {
+		};
+		showTypeColumn = 1;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	3A61871812E07AC100AF9B6A /* GHUnit-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{77, 256}, {1231, 917}}";
+		};
+	};
+	3A61875812E07E3B00AF9B6A /* GHUnit_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {879, 249}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 152}";
+			sepNavWindowFrame = "{{77, 162}, {1198, 1011}}";
+		};
+	};
+	3A64C3BB12D28EA800DC95B6 /* jobsket API.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 2108}}";
+			sepNavSelRange = "{454, 34}";
+			sepNavVisRange = "{0, 1644}";
+			sepNavWindowFrame = "{{449, 97}, {1034, 1081}}";
+		};
+	};
+	3A770119125EDA6E0010DF5A /* GHUnitIOSTestMain.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1196, 1394}}";
+			sepNavSelRange = "{1864, 0}";
+			sepNavVisRange = "{0, 2499}";
+			sepNavWindowFrame = "{{146, 8}, {1255, 1102}}";
+		};
+	};
+	3A770123125EDB790010DF5A /* Jobsket3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+			{
+				active = NO;
+				name = NSDebugEnabled;
+				value = YES;
+			},
+			{
+				active = YES;
+				name = NSZombieEnabled;
+				value = YES;
+			},
+			{
+				active = NO;
+				name = NSDeallocateZombies;
+				value = YES;
+			},
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Jobsket3;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3A77019A125EE02C0010DF5A /* Jobsket3-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{255, 76}, {1255, 1102}}";
+		};
+	};
+	3A787D9E125EA96700F4E68E /* JobsketSearchTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {802, 2159}}";
+			sepNavSelRange = "{2678, 0}";
+			sepNavVisRange = "{1551, 1778}";
+			sepNavWindowFrame = "{{617, 90}, {861, 1088}}";
+		};
+	};
+	3A8B37B9128650E50072944C /* search-java1.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {972, 10608}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1629}";
+			sepNavWindowFrame = "{{146, 332}, {916, 778}}";
+		};
+	};
+	3AA951861262E53700378046 /* Jobsket3_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 361}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{0, 152}";
+			sepNavWindowFrame = "{{146, 621}, {762, 489}}";
+		};
+	};
+	3AAA68C51284D9AA00F6CEDB /* SearchManagerTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {852, 1190}}";
+			sepNavSelRange = "{1199, 0}";
+			sepNavVisRange = "{0, 1416}";
+			sepNavWindowFrame = "{{998, 120}, {864, 1058}}";
+		};
+	};
+	3AB2C84912A111C100EFBF2D /* ComLocLookupTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {820, 778}}";
+			sepNavSelRange = "{459, 0}";
+			sepNavVisRange = "{0, 504}";
+			sepNavWindowFrame = "{{329, 328}, {879, 850}}";
+		};
+	};
+	3ABA35D212835A9B00DB3CDD /* NSString+ExtensionTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 756}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 499}";
+			sepNavWindowFrame = "{{532, 350}, {960, 828}}";
+		};
+	};
+	3ABA35E612836C3400DB3CDD /* p-generic-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{123, 483}, {785, 648}}";
+		};
+	};
+	3ABA36411283709900DB3CDD /* p-clients-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{157, 259}, {1328, 788}}";
+		};
+	};
+	3ABA36461283713700DB3CDD /* HtmlToJsonTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {841, 2363}}";
+			sepNavSelRange = "{3282, 0}";
+			sepNavVisRange = "{2162, 1665}";
+			sepNavWindowFrame = "{{699, 25}, {900, 1153}}";
+		};
+	};
+	3ABA371B12839EEE00DB3CDD /* CoreDataMemoryManagerTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1010, 1072}}";
+			sepNavSelRange = "{911, 8}";
+			sepNavVisRange = "{0, 1178}";
+			sepNavWindowFrame = "{{735, 34}, {1069, 1144}}";
+		};
+	};
+	3ABA371D12839EEE00DB3CDD /* CoreDataTesting.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {962, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 351}";
+			sepNavWindowFrame = "{{351, 155}, {1021, 1008}}";
+		};
+	};
+	3ABA371E12839EEE00DB3CDD /* CoreDataTesting.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {962, 1581}}";
+			sepNavSelRange = "{609, 0}";
+			sepNavVisRange = "{0, 1470}";
+			sepNavWindowFrame = "{{643, 170}, {1021, 1008}}";
+		};
+	};
+	3AC836EF12E848AD00B10074 /* JsonMoBuilderTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1044, 1972}}";
+			sepNavSelRange = "{1, 31}";
+			sepNavVisRange = "{1166, 3254}";
+			sepNavWindowFrame = "{{644, 21}, {1045, 1157}}";
+		};
+	};
+	3ACBA77B12D99E020016CDCB /* 68-companies.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 10472}}";
+			sepNavSelRange = "{431, 0}";
+			sepNavVisRange = "{0, 1699}";
+			sepNavWindowFrame = "{{831, 182}, {1065, 996}}";
+		};
+	};
+	3ACBA85612D9F0F80016CDCB /* company.json */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {992, 1078}}";
+			sepNavSelRange = "{397, 0}";
+			sepNavVisRange = "{0, 397}";
+			sepNavWindowFrame = "{{77, 23}, {1051, 1150}}";
+		};
+	};
+	3ACD03221290C8A6004929A7 /* QueryTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1259, 898}}";
+			sepNavSelRange = "{215, 5}";
+			sepNavVisRange = "{0, 569}";
+			sepNavWindowFrame = "{{392, 41}, {1318, 970}}";
+		};
+	};
+	3ACDA544125D99AC006F0DDE /* ASIHTTPRequestTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 1207}}";
+			sepNavSelRange = "{357, 0}";
+			sepNavVisRange = "{0, 1135}";
+			sepNavWindowFrame = "{{626, 269}, {1034, 909}}";
+		};
+	};
+	3ACDA54A125D99AC006F0DDE /* JobSearchParserTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1058, 877}}";
+			sepNavSelRange = "{438, 0}";
+			sepNavVisRange = "{0, 825}";
+			sepNavWindowFrame = "{{95, 229}, {1117, 949}}";
+		};
+	};
+	3ACDA551125D99AC006F0DDE /* jobsket-search.html */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3324, 23171}}";
+			sepNavSelRange = "{0, 77557}";
+			sepNavVisRange = "{75753, 1804}";
+			sepNavWindowFrame = "{{192, 203}, {1402, 865}}";
+		};
+	};
+	3ACDA5A3125D9F7D006F0DDE /* JobsketTest_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 417}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 151}";
+			sepNavWindowFrame = "{{570, 367}, {762, 489}}";
+		};
+	};
+	3ACDA7C2125DAEFD006F0DDE /* JobsketTest-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{123, 353}, {827, 778}}";
+		};
+	};
+	3AD5210B1319ED1700800D18 /* Jobsket debug */ = {
+		activeExec = 0;
+		executables = (
+			3A381FEB1336CBC500A561B6 /* Jobsket debug */,
+		);
+	};
+	3ADBC2041279D8650047E873 /* CompanyDaoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1084, 886}}";
+			sepNavSelRange = "{509, 0}";
+			sepNavVisRange = "{0, 541}";
+			sepNavWindowFrame = "{{697, 103}, {1030, 981}}";
+		};
+	};
+	3ADBC2051279D8650047E873 /* GenericDaoTest.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 952}}";
+			sepNavSelRange = "{765, 0}";
+			sepNavVisRange = "{347, 1117}";
+			sepNavWindowFrame = "{{657, 90}, {861, 1088}}";
+		};
+	};
+	3ADBC2061279D8650047E873 /* GenericDaoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {838, 1700}}";
+			sepNavSelRange = "{184, 42}";
+			sepNavVisRange = "{0, 922}";
+			sepNavWindowFrame = "{{307, 420}, {897, 758}}";
+		};
+	};
+	3ADBC2071279D8650047E873 /* JobDaoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1108, 973}}";
+			sepNavSelRange = "{620, 0}";
+			sepNavVisRange = "{0, 620}";
+			sepNavWindowFrame = "{{728, 110}, {1167, 1068}}";
+		};
+	};
+	3ADBC2091279D8650047E873 /* SearchDaoTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1139, 4692}}";
+			sepNavSelRange = "{6646, 0}";
+			sepNavVisRange = "{6410, 518}";
+			sepNavWindowFrame = "{{604, 57}, {1274, 1121}}";
+		};
+	};
+	3ADBC20C1279D8650047E873 /* JsonManagerTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {871, 950}}";
+			sepNavSelRange = "{579, 0}";
+			sepNavVisRange = "{0, 1341}";
+			sepNavWindowFrame = "{{218, 156}, {930, 1022}}";
+		};
+	};
+	3AF4489812862D790076A9D2 /* singleTest-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{655, 106}, {1131, 1072}}";
+		};
+	};
+	3AF4489912862D790076A9D2 /* singleTest_prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1072, 1000}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 115}";
+			sepNavWindowFrame = "{{65, 59}, {1131, 1072}}";
+		};
+	};
+	3AF448D0128631070076A9D2 /* JsonEscapeTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {866, 653}}";
+			sepNavSelRange = "{466, 0}";
+			sepNavVisRange = "{0, 507}";
+			sepNavWindowFrame = "{{593, 453}, {925, 725}}";
+		};
+	};
+	3AF8676A128748E200FFACA4 /* HttpDownloadTest.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1283, 391}}";
+			sepNavSelRange = "{479, 62}";
+			sepNavVisRange = "{140, 405}";
+			sepNavWindowFrame = "{{542, 244}, {1051, 934}}";
+		};
+	};
+}

@@ -1,0 +1,583 @@
+
+/*  
+    #f1f1f1  pale white
+       #0d0  green
+    #aae0fe  light blue link
+    #3464cb  blue visited link
+    
+    doxygen 
+      #e8eef2  bluish white
+
+ */
+
+
+/* FONT ******************************************************************** */
+
+body, table, div, p, dl {
+	font-family: Lucida Grande, Verdana, Geneva, Arial, sans-serif;
+	font-size: 14px;
+}
+
+.directory-alt h3 {
+	font-size: 11pt;
+}
+
+
+/* COLORS ****************************************************************** */
+
+h1    { color:#f9f592 }
+h2    { color:#f1f1f1 } 
+h3,h4 { color:#fcc984 }
+
+table {
+	background-color: #2e2e30 !important;
+}
+
+
+/* LINKS */
+
+a { color: #aae0fe; }
+
+a.code    { color: #3030f0; }
+a.codeRef { color: #3030f0; }
+
+.contents a:visited          { color: #62baeb; }
+.contents a.qindexHL:visited { color: #ffffff; }
+
+a.qindexHL {
+	color: #ffffff;
+	border-color: #9295C2;
+	background-color: #6666cc;
+}
+
+
+body {
+	background-color: #000 !important;
+	color: #0d0;
+}
+
+table.doxtable th {
+	background-color: #254798;
+	color: #FFFFFF;
+}
+
+table.doxtable td, table.doxtable th {
+	border: 1px solid #153788;
+}
+
+address      { color: #333;}
+	
+.paramname   { background-color: #2e2e30; color: #0d0; }
+
+.memdoc      { color: #f1f1f1; background-color: #2e2e30; }
+
+.memproto    { background-color: #2e2e30; }
+
+.memtemplate { color: #606060; }
+
+.memproto, .memdoc { border-color: #84b0c7; }
+
+.memnav {
+	background-color: #e8eef2;
+	border-color: #84b0c7;
+}
+
+.memTemplParams { color: #606060; }
+
+.memItemLeft, .memItemRight, .memTemplParams { border-color: #ccc; }
+
+.mdescLeft, .mdescRight { color: #f1f1f1; }
+
+.mdescLeft, .mdescRight,
+.memItemLeft, .memItemRight,
+.memTemplItemLeft, .memTemplItemRight, .memTemplParams {
+	background-color: #2e2e30;
+}
+
+hr { border-color: #666; }
+
+div.qindex, div.navtab{
+	background-color: #e8eef2;
+	border-color: #84b0c7;
+}
+
+tr.memlist {
+	background-color: #2e2e30;
+}
+
+div.ah { color: #ffffff; }
+
+th.dirtab { background: #e8eef2; }
+
+.dirtab { border-color: #84b0c7; } /* */
+
+.search { color: #003399; }
+
+pre.fragment {
+	background-color: #f5f5f5;
+	border-color: #f7d0d0;
+}
+
+input.search {
+	color: #000080;
+	background-color: #e8eef2;
+}
+
+
+/** class list table */
+td.indexvalue, td.indexkey {
+	color: #f1f1f1;
+	background-color: #2e2e30; /*#e8eef2;*/
+	border-color: #f7d0d0;     /* #CCCCCC */
+}
+
+
+/* @group Code Colorization */
+
+span.keyword       { color: #008000 }
+span.keywordtype   { color: #604020 }
+span.keywordflow   { color: #e08000 }
+span.comment       { color: #800000 }
+span.preprocessor  { color: #806020 }
+span.stringliteral { color: #002080 }
+span.charliteral   { color: #008080 }
+span.vhdldigit     { color: #ff00ff }
+span.vhdlchar      { color: #000000 }
+span.vhdlkeyword   { color: #700070 }
+span.vhdllogic     { color: #ff0000 }
+
+
+/* ************************************************************************* */
+
+
+/* @group Link Styling */
+
+a {
+	font-weight: normal;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a.qindex {
+	font-weight: bold;
+}
+
+a.qindexHL {
+	font-weight: bold;
+	border: 1px double;
+}
+
+a.el {
+	font-weight: bold;
+}
+
+a.elRef {
+}
+
+
+/* @group Heading Levels */
+
+h1 {
+	text-align: center;
+	font-size: 150%;
+}
+
+h2 {
+	font-size: 120%;
+}
+
+h3 {
+	font-size: 100%;
+}
+
+dt {
+	font-weight: bold;
+}
+
+div.multicol {
+	-moz-column-gap: 1em;
+	-webkit-column-gap: 1em;
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+}
+
+p.startli, p.startdd, p.starttd {
+	margin-top: 2px;
+}
+
+p.endli {
+	margin-bottom: 0px;
+}
+
+p.enddd {
+	margin-bottom: 4px;
+}
+
+p.endtd {
+	margin-bottom: 2px;
+}
+
+/* @end */
+
+caption {
+	font-weight: bold;
+}
+
+span.legend {
+        font-size: 70%;
+        text-align: center;
+}
+
+h3.version {
+        font-size: 90%;
+        text-align: center;
+}
+
+div.qindex, div.navtab{
+	border: 1px solid;
+	text-align: center;
+	margin: 2px;
+	padding: 2px;
+}
+
+div.qindex, div.navpath {
+	width: 100%;
+	line-height: 140%;
+}
+
+div.navtab {
+	margin-right: 15px;
+}
+
+
+dl.el {
+	margin-left: -1cm;
+}
+
+.fragment {
+	font-family: monospace, fixed;
+	font-size: 105%;
+}
+
+pre.fragment {
+	border: 1px solid;
+	padding: 4px 6px;
+	margin: 4px 8px 4px 2px;
+	overflow: auto;
+	word-wrap: break-word;
+	font-size:  9pt;
+	line-height: 125%;
+}
+
+div.ah {
+	background-color: black;
+	font-weight: bold;
+	margin-bottom: 3px;
+	margin-top: 3px
+}
+
+div.groupHeader {
+	margin-left: 16px;
+	margin-top: 12px;
+	margin-bottom: 6px;
+	font-weight: bold;
+}
+
+div.groupText {
+	margin-left: 16px;
+	font-style: italic;
+}
+
+body {
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+td.indexkey {
+	font-weight: bold;
+	border: 1px solid;
+	margin: 2px 0px 2px 0;
+	padding: 2px 10px;
+}
+
+td.indexvalue {
+	border: 1px solid;
+	padding: 2px 10px;
+	margin: 2px 0px;
+}
+
+p.formulaDsp {
+	text-align: center;
+}
+
+img.formulaDsp {
+	
+}
+
+img.formulaInl {
+	vertical-align: middle;
+}
+
+div.center {
+	text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+
+div.center img {
+	border: 0px;
+}
+
+img.footer {
+	border: 0px;
+	vertical-align: middle;
+}
+
+.search {
+	font-weight: bold;
+}
+
+form.search {
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+input.search {
+	font-size: 75%;
+	font-weight: normal;
+}
+
+td.tiny {
+	font-size: 75%;
+}
+
+.dirtab {
+	padding: 4px;
+	border-collapse: collapse;
+	border: 1px solid;
+}
+
+th.dirtab {
+	font-weight: bold;
+}
+
+hr {
+	height: 0;
+	border: none;
+	border-top: 1px solid;
+}
+
+/* @group Member Descriptions */
+
+.mdescLeft, .mdescRight,
+.memItemLeft, .memItemRight,
+.memTemplItemLeft, .memTemplItemRight, .memTemplParams {
+	border: none;
+	margin: 4px;
+	padding: 1px 0 0 8px;
+}
+
+.mdescLeft, .mdescRight {
+	padding: 0px 8px 4px 8px;
+}
+
+.memItemLeft, .memItemRight, .memTemplParams {
+	border-top: 1px solid;
+}
+
+.memItemLeft, .memTemplItemLeft {
+        white-space: nowrap;
+}
+
+.memTemplParams {
+    white-space: nowrap;
+}
+
+/* @end */
+
+/* @group Member Details */
+
+/* Styles for detailed member documentation */
+
+.memtemplate {
+	font-size: 80%;
+	font-weight: normal;
+	margin-left: 3px;
+}
+
+.memnav {
+	border: 1px solid;
+	text-align: center;
+	margin: 2px;
+	margin-right: 15px;
+	padding: 2px;
+}
+
+.memitem {
+	padding: 0;
+	margin-bottom: 10px;
+}
+
+.memname {
+	white-space: nowrap;
+	font-weight: bold;
+}
+
+.memproto, .memdoc {
+	border: 1px solid;	
+}
+
+.memproto {
+	padding: 0;
+	font-weight: bold;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+    -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+	-moz-border-radius-topleft: 8px;
+	-moz-border-radius-topright: 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 5px;
+}
+
+.memdoc {
+	padding: 2px 5px;
+	border-top-width: 0;
+	-webkit-border-bottom-left-radius: 8px;
+	-webkit-border-bottom-right-radius: 8px;
+    -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+	-moz-border-radius-bottomleft: 8px;
+	-moz-border-radius-bottomright: 8px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.15) 5px 5px 5px;
+}
+
+.paramkey {
+	text-align: right;
+}
+
+.paramtype {
+	white-space: nowrap;
+}
+
+.paramname {
+	white-space: nowrap;
+}
+.paramname em {
+	font-style: normal;
+}
+
+/* @end */
+
+/* @group Directory (tree) */
+
+/* for the tree view */
+
+.ftvtree {
+	font-family: sans-serif;
+	margin: 0.5em;
+}
+
+/* these are for tree view when used as main index */
+
+.directory {
+	font-size: 9pt;
+	font-weight: bold;
+}
+
+.directory h3 {
+	margin: 0px;
+	margin-top: 1em;
+	font-size: 11pt;
+}
+
+/*
+The following two styles can be used to replace the root node title
+with an image of your choice.  Simply uncomment the next two styles,
+specify the name of your image and be sure to set 'height' to the
+proper pixel height of your image.
+*/
+
+/*
+.directory h3.swap {
+	height: 61px;
+	background-repeat: no-repeat;
+	background-image: url("yourimage.gif");
+}
+.directory h3.swap span {
+	display: none;
+}
+*/
+
+.directory > h3 {
+	margin-top: 0;
+}
+
+.directory p {
+	margin: 0px;
+	white-space: nowrap;
+}
+
+.directory div {
+	display: none;
+	margin: 0px;
+}
+
+.directory img {
+	vertical-align: -30%;
+}
+
+
+/* these are for tree view when not used as main index */
+
+.directory-alt {
+	font-size: 100%;
+	font-weight: bold;
+}
+
+.directory-alt h3 {
+	margin: 0px;
+	margin-top: 1em;
+}
+
+.directory-alt > h3 {
+	margin-top: 0;
+}
+
+.directory-alt p {
+	margin: 0px;
+	white-space: nowrap;
+}
+
+.directory-alt div {
+	display: none;
+	margin: 0px;
+}
+
+.directory-alt img {
+	vertical-align: -30%;
+}
+
+/* @end */
+
+
+address {
+	font-style: normal;
+}
+
+table.doxtable {
+	border-collapse:collapse;
+}
+
+table.doxtable td, table.doxtable th {
+	padding: 3px 7px 2px;
+}
+
+table.doxtable th {
+	font-size:      110%;
+	padding-bottom: 4px;
+	padding-top:    5px;
+	text-align:     left;
+}
+

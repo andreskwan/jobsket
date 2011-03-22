@@ -1,0 +1,30 @@
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "DebugLog.h"
+    #import "Localization.h" // so we can use the localize macro
+#endif
+
+// next two lines are from the PF classes at main/generic/ui/button
+#define PFAssert(condition,msg,...)
+#define SafeRelease(obj) [obj release]; obj = nil
+
+// return value from the preferred bundle or a fallback bundle defined in Localization.m
+#define localize(key) [[Localization sharedLocalization]localizedStringForKey:key]
+
+// color from hex value. Example: UIColorFromRGB(0x0001FF);
+#define UIColorFromRGB(rgbValue) [UIColor colorWithRed:( (float) ((rgbValue & 0xFF0000) >> 16) ) / 0xFF \
+                                                 green:( (float) ((rgbValue &   0xFF00) >> 8)  ) / 0xFF \
+                                                  blue:( (float)  (rgbValue &     0xFF)        ) / 0xFF \
+                                                 alpha:1.0]
+
+// are we running on the device or the simulator?
+#if defined __arm__ || defined __thumb__
+	#undef MYTARGET_SIMULATOR
+	#define MYTARGET_DEVICE 1
+#else
+	#define MYTARGET_SIMULATOR 1
+	#undef MYTARGET_DEVICE
+#endif
+

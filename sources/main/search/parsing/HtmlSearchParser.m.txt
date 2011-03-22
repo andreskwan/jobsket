@@ -1,0 +1,110 @@
+
+#import "JobSearchParser.h"
+
+// See http://cocoawithlove.com/2008/10/using-libxml2-for-parsing-and-xpath.html
+@implementation HtmlSearchParser
+
+
+/**
+ * Parse jobs from a search.
+ * @param html
+ */
+-(NSMutableSet*) parseJobs:(NSData *)data {
+	
+	NSMutableSet *jobs = [NSMutableSet setWithCapacity:25]; // result
+	
+	debug(@"Parsing jobs from %d bytes of data", [data length]);
+	
+    CoreDataMemoryManager *manager = [CoreDataMemoryManager sharedInstance];
+	
+	// check number of jobs to extract
+	NSString *xpath = @"//div[@class='jobs']/div";
+	NSArray *nodes = PerformHTMLXPathQuery(data, xpath);
+	int jobNumber = [nodes count];
+	debug(@"Got %d nodes from %@", jobNumber, xpath);
+	
+	NSString *xpathTitle = @"//div[@class='jobs']/div[@class='job'][%d]/div[@class='title']/a/text()";
+	NSString *xpathSummary = @"//div[@class='jobs']/div[@class='job'][%d]/div[@class='content']/text()";
+	NSString *xpathPlace = @"//div[@class='jobs']/div[@class='job'][%d]/div[@class='jobinfo']/span[@class='place']/text()";
+	
+	NSString *tmpPlace ;
+	NSString *tmpDate;
+	
+	NSString *title;
+	NSString *summary;
+	NSString *location;
+	NSDate *date;
+	
+	int i;
+	for (i=1; i<=jobNumber; i++) {
+		
+		//debug(@"PARSING JOB %d --------------------------", i);
+		
+		/*
+		Each result in the array of nodes returned will be an NSDictionary with the following structure:		
+		* nodeName — an NSString containing the name of the node
+		* nodeContent — an NSString containing the textual content of the node
+		* nodeAttributeArray — an NSArray of NSDictionary where each dictionary has two keys: 
+		                       attributeName (NSString) and nodeContent (NSString)
+		* nodeChildArray — an NSArray of child nodes (same structure as this node)
+		*/
+		
+		// title
+        xpath = [NSString stringWithFormat:xpathTitle,i];
+		//debug(@"Running %@", xpath);
+		nodes = PerformHTMLXPathQuery(data, xpath);
+		title = [[nodes objectAtIndex:0] objectForKey:@"nodeContent"];
+		
+		// summary
+        xpath = [NSString stringWithFormat:xpathSummary,i];
+		nodes = PerformHTMLXPathQuery(data, xpath);
+		summary = [[[nodes objectAtIndex:0] objectForKey:@"nodeContent"] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceAndNewlineCharacterSet]];
+		
+		// tmp place
+        xpath = [NSString stringWithFormat:xpathPlace,i];
+		nodes = PerformHTMLXPathQuery(data, xpath);
+		tmpPlace = [[nodes objectAtIndex:0] objectForKey:@"nodeContent"];
+		
+		// location
+		NSArray *split = [tmpPlace componentsSeparatedByString:@"-"];
+		location = [[split objectAtIndex:0] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
+		
+		// tmp date
+		tmpDate = [[split objectAtIndex:1] stringByTrimmingCharactersInSet:[NSCharacterSet whitespaceCharacterSet]];
+		
+		// date
+		NSDateFormatter *dateFormat = [NSDateFormatter new];
+		[dateFormat setDateFormat:@"dd/MM/yyyy"];
+        date = [dateFormat dateFromString:tmpDate];
+		
+		debug(@"node %d", i);
+		
+		/*
+		debug(@"title %@", title);
+		debug(@"summary %@", summary);
+		debug(@"place %@", tmpPlace);
+		debug(@"date as string %@", tmpDate);
+		debug(@"location %@", location);
+		debug(@"date as NSDate: %@", date);
+		*/
+		
+		// skipping non valid jobs (those with nil on mandatory properties), 
+		// otherwise save will fail with "Cocoa error 1570"		
+		if (title!=nil){
+			JobMo *job = (JobMo*) [NSEntityDescription insertNewObjectForEntityForName: NSStringFromClass([JobMo class])
+																inManagedObjectContext: [manager context]];
+			job.title = title;
+			job.summary = summary;
+			job.location = location;
+			job.date = date;
+			[jobs addObject:job];
+		} else {
+			debug(@"Discarding job #%d because title is nil.", i);
+		}
+	}
+	
+	return jobs;
+}
+
+
+@end

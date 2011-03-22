@@ -1,0 +1,190 @@
+
+{
+    "results":
+    {
+        "jobs":
+        [
+            {
+                "region":"Madrid",
+                "id":312,
+                "category":"Healthcare and Hospital",
+                "title":"Director Médico y de Desarrollo de Negocio",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":309,
+                "category":"Sales",
+                "title":"RESPONSABLE DE TIENDA Y SHOWROOM",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":306,
+                "category":"Healthcare and Hospital",
+                "title":"Director Médico Regional",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":305,
+                "category":"Marketing",
+                "title":"Planner",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":303,
+                "category":"Information Technology",
+                "title":"Programadores Java y .Net",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":296,
+                "category":"Legal",
+                "title":"Gerente de Fiscalidad Internacional",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":295,
+                "category":"Marketing",
+                "title":"DIRECTOR COMPRAS",
+                "city":"MADRID"
+            },
+            {
+                "region":"Madrid",
+                "id":294,
+                "category":"Finance",
+                "title":"Asociado de M&A",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":292,
+                "category":"Legal",
+                "title":"Fiscalista Senior Sector Seguros",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":291,
+                "category":"Legal",
+                "title":"Gerente Senior del Área Fiscal",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":288,
+                "category":"Property and Auctioneering",
+                "title":"Director de Inversiones",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":286,
+                "category":"Legal",
+                "title":"Asociado Senior Derecho Mercantil",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":263,
+                "category":"Information Technology",
+                "title":"Analistas COBOL CICS DB2- Sector Seguros",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":256,
+                "category":"Information Technology",
+                "title":"Informático Junior- Plan de Carrera",
+                "city":"Tres Cantos"
+            },
+            {
+                "region":"Madrid",
+                "id":248,
+                "category":"Architecture and Design",
+                "title":"Programador y diseñador WEB con Flash,
+                 Javascript,
+                 PHP  y diseñador gráfico con Photoshop",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":240,
+                "category":"Information Technology",
+                "title":"Becario Técnico de almacenamiento",
+                "city":"Tres Cantos"
+            },
+            {
+                "region":"Madrid",
+                "id":239,
+                "category":"Information Technology",
+                "title":"Técnicos de Almacenamiento Sr y Jr",
+                "city":"Tres Cantos"
+            },
+            {
+                "region":"Madrid",
+                "id":238,
+                "category":"Information Technology",
+                "title":"Analista Orgánico COBOL CICS DB2",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":233,
+                "category":"Information Technology",
+                "title":"Analista Programador Java",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":10,
+                "category":"Information Technology",
+                "title":"Publica tus ofertas en Jobsket",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":214,
+                "category":"Information Technology",
+                "title":"Programador LAMP",
+                "city":"Leganés (Madrid)"
+            },
+            {
+                "region":"Madrid",
+                "id":211,
+                "category":"Information Technology",
+                "title":"BUSINESS DEVELOPEMENT MANAGER HW PRODUCTOS SUN",
+                "city":"MADRID"
+            },
+            {
+                "region":"Madrid",
+                "id":210,
+                "category":"Information Technology",
+                "title":"TECHNICAL PRESALES DE TECNOLOGÍA ORACLE",
+                "city":"MADRID"
+            },
+            {
+                "region":"Madrid",
+                "id":209,
+                "category":"Warehouse and Logistics",
+                "title":"Supply Chain",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":206,
+                "category":"Information Technology",
+                "title":"AO,
+                 AP Y P de Java J2EE Crital Rprt",
+                "city":"MADRID"
+            }
+        ]
+    },
+    "page":"1",
+    "pages":2,
+    "itemsPerPage":25
+}
