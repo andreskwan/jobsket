@@ -1,0 +1,18 @@
+
+
+#import <UIKit/UIKit.h>
+#import <MapKit/MapKit.h>
+#import <CoreLocation/CoreLocation.h>
+
+
+@interface MapVC : UIViewController <CLLocationManagerDelegate, MKMapViewDelegate> {
+    MKMapView *_mapView;
+	CLLocationManager *locationManager;
+	SearchMo *searchMo;
+}
+
+@property(nonatomic, retain) SearchMo *searchMo;
+@property(nonatomic, retain) IBOutlet MKMapView *mapView;
+@property(nonatomic, retain) CLLocationManager *locationManager;
+
+@end

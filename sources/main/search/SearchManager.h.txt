@@ -1,0 +1,10 @@
+
+#import <Foundation/Foundation.h>
+
+@interface SearchManager : NSObject {
+}
+
+-(void) runQueryWithUrl: (NSURL *) query;
+-(void) runQueryWithString: (NSString *) query;
+
+@end

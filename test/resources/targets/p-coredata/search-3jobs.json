@@ -1,0 +1,57 @@
+
+{
+     "SearchMo":
+    {
+         "url":"http://www.jobsket.es/search?keywords=java",
+         "favorite":0,
+         "keywords":"java",
+         "maxSalary":0,
+         "minSalary":0,
+        "jobs":
+        {
+            "JobMo1":
+            {
+                 "url":"http://www.jobsket.es/trabajo/original-zone-of-market-sl/analista_programador_en_java",
+                 "summary":"Summary for the erd job.",
+                 "name":"Third job",
+                "CompanyMo":
+                {
+                     "url":"http://www.jobsket.es/trabajos/enxendra-technologies",
+                     "name":"Acme Inc.",
+                     "address":"Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399",
+                     "latitude":37.33169,
+                     "longitude":-122.0307
+                }
+            },
+            "JobMo2":
+            {
+                 "url":"http://www.jobsket.es/trabajo/amplia-soluciones-sl/analista_programador_java",
+                 "summary":"Summary for the 1st job.",
+                 "name":"First job",
+                "CompanyMo":
+                {
+                     "url":"http://www.jobsket.es/trabajos/amplia-soluciones-sl",
+                     "name":"Acme Inc.",
+                     "address":"1 Infinite Loop, Cupertino, CA 95014",
+                     "latitude":37.33169,
+                     "longitude":-122.0307
+                }
+            },
+            "JobMo3":
+            {
+                 "url":"http://www.jobsket.es/trabajo/original-zone-of-market-sl/jefe_de_proyecto_en_java",
+                 "summary":"Summary for the 2nd job.",
+                 "name":"Second job",
+                "CompanyMo":
+                {
+                     "url":"http://www.jobsket.es/trabajos/enxendra-technologies",
+                     "name":"Acme Inc.",
+                     "address":"Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399",
+                     "latitude":37.33169,
+                     "longitude":-122.0307
+                }
+            }
+        }
+    }
+}
+

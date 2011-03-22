@@ -1,0 +1,4081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+	<key>Athlone</key><string>53.42493550,-7.94494000</string>
+	<key>Bray</key><string>53.20441820,-6.10918520</string>
+	<key>Carlow</key><string>52.83597500,-6.92454960</string>
+	<key>Clonmel</key><string>52.35561360,-7.69842160</string>
+	<key>Cork</key><string>51.89787190,-8.47108740</string>
+	<key>Drogheda</key><string>53.71677180,-6.35435360</string>
+	<key>Dublin</key><string>53.34410400,-6.26749370</string>
+	<key>Dundalk</key><string>53.99997720,-6.40373540</string>
+	<key>Ennis</key><string>52.84434980,-8.98299450</string>
+	<key>Galway</key><string>53.27379690,-9.05177990</string>
+	<key>Kilkenny</key><string>52.65375410,-7.24798330</string>
+	<key>Limerick</key><string>52.66385710,-8.62677260</string>
+	<key>Naas</key><string>53.21926150,-6.66150990</string>
+	<key>Navan</key><string>53.65460190,-6.68881710</string>
+	<key>Newbridge</key><string>53.18047340,-6.79592520</string>
+	<key>Sligo</key><string>54.27060690,-8.47152790</string>
+	<key>Swords</key><string>53.45734360,-6.21936880</string>
+	<key>Tralee</key><string>52.26961060,-9.70010020</string>
+	<key>Waterford</key><string>52.25678680,-7.12920440</string>
+	<key>Wexford</key><string>52.33916090,-6.46012470</string>
+
+	<key>Abbeydorney</key>
+	<string>52.3466281,-9.6878341</string>
+
+	<key>Abbeyfeale</key>
+	<string>52.384381,-9.305027000000001</string>
+
+	<key>Abbeylara</key>
+	<string>53.7651126,-7.4489363</string>
+
+	<key>Abbeyleix</key>
+	<string>52.9138642,-7.3487407</string>
+
+	<key>Abbeyshrule</key>
+	<string>53.5825581,-7.6564367</string>
+
+	<key>Abbeyside</key>
+	<string>52.09271,-7.612737</string>
+
+	<key>Achill Island</key>
+	<string>53.9525385,-9.9965613</string>
+
+	<key>Achonry</key>
+	<string>54.0774661,-8.6537443</string>
+
+	<key>Aclare</key>
+	<string>54.0364692,-8.8992159</string>
+
+	<key>Acton</key>
+	<string>42.485,-71.433333</string>
+
+	<key>Adamstown</key>
+	<string>52.3941142,-6.7156689</string>
+
+	<key>Adare</key>
+	<string>52.5642698,-8.7903512</string>
+
+	<key>Adrigole</key>
+	<string>51.6950632,-9.7217758</string>
+
+	<key>Affane</key>
+	<string>52.1393076,-7.8322031</string>
+
+	<key>Aghaboe</key>
+	<string>52.9219917,-7.5131712</string>
+
+	<key>Aghabullogue</key>
+	<string>51.9450942,-8.8070801</string>
+
+	<key>Aghada</key>
+	<string>51.8380954,-8.206066999999999</string>
+
+	<key>Aghamore</key>
+	<string>53.8283366,-8.825492000000001</string>
+
+	<key>Aghavannagh</key>
+	<string>52.9166667,-6.4166667</string>
+
+	<key>Aglish</key>
+	<string>52.0711222,-7.8211265</string>
+
+	<key>Ahakista</key>
+	<string>51.599966,-9.6299884</string>
+
+	<key>Ahascragh</key>
+	<string>53.3998911,-8.334955000000001</string>
+
+	<key>Aherla</key>
+	<string>51.8547397,-8.735296200000001</string>
+
+	<key>Allen</key>
+	<string>53.2357558,-6.8578872</string>
+
+	<key>Allenwood</key>
+	<string>53.2839821,-6.8609084</string>
+
+	<key>Allihies</key>
+	<string>51.6389943,-10.0423363</string>
+
+	<key>Altmore</key>
+	<string>53.2730325,-7.4951234</string>
+
+	<key>An Fheothanach</key>
+	<string>52.384068,-8.974504100000001</string>
+
+	<key>An Rinn</key>
+	<string>52.0470587,-7.571282</string>
+
+	<key>Annabella</key>
+	<string>52.1402846,-8.663878499999999</string>
+
+	<key>Annacotty</key>
+	<string>52.6685717,-8.5290529</string>
+
+	<key>Annagassan</key>
+	<string>53.8813314,-6.3437424</string>
+
+	<key>Annaghmore</key>
+	<string>53.623946,-8.0474581</string>
+
+	<key>Annagry</key>
+	<string>55.0188589,-8.311597300000001</string>
+
+	<key>Annamoe</key>
+	<string>53.14298,-7.237986</string>
+
+	<key>Annascaul</key>
+	<string>52.152977,-10.051289</string>
+
+	<key>Annestown</key>
+	<string>52.1413278,-7.2766923</string>
+
+	<key>Annsborough</key>
+	<string>53.267084,-6.8186841</string>
+
+	<key>Antrim</key>
+	<string>53.8593439,-9.298160599999999</string>
+
+	<key>Ardagh</key>
+	<string>52.4937032,-9.0592658</string>
+
+	<key>Ardara</key>
+	<string>54.7619984,-8.4131789</string>
+
+	<key>Ardclough</key>
+	<string>53.2914049,-6.5736112</string>
+
+	<key>Ardee</key>
+	<string>53.8588036,-6.5407651</string>
+
+	<key>Ardfert</key>
+	<string>52.3276992,-9.7859082</string>
+
+	<key>Ardfield</key>
+	<string>51.5667702,-8.909449499999999</string>
+
+	<key>Ardglass</key>
+	<string>52.012756,-8.1559978</string>
+
+	<key>Ardgroom</key>
+	<string>51.7354474,-9.895726</string>
+
+	<key>Ardmore</key>
+	<string>51.9510079,-7.7230372</string>
+
+	<key>Ardpatrick</key>
+	<string>52.3403092,-8.522358000000001</string>
+
+	<key>Ardrahan</key>
+	<string>53.156087,-8.8076452</string>
+
+	<key>Arigna</key>
+	<string>54.0826344,-8.109307599999999</string>
+
+	<key>Arklow</key>
+	<string>52.7963581,-6.1571926</string>
+
+	<key>Arles</key>
+	<string>52.8928309,-7.0208464</string>
+
+	<key>Armagh </key>
+	<string>54.3478166,-6.6562014</string>
+
+	<key>Artane</key>
+	<string>53.388241,-6.2159986</string>
+
+	<key>Arthurstown</key>
+	<string>52.2422754,-6.951773</string>
+
+	<key>Arvagh</key>
+	<string>53.9219644,-7.5839557</string>
+
+	<key>Ashbourne</key>
+	<string>53.5121488,-6.3964326</string>
+
+	<key>Ashford</key>
+	<string>53.0110181,-6.1083344</string>
+
+	<key>Ashtown</key>
+	<string>52.2266066,-7.4847314</string>
+
+	<key>Askeaton</key>
+	<string>52.6010303,-8.977177599999999</string>
+
+	<key>Askill</key>
+	<string>54.4547854,-8.174370100000001</string>
+
+	<key>Athboy</key>
+	<string>53.6233687,-6.9207671</string>
+
+	<key>Athea</key>
+	<string>52.4619366,-9.2901025</string>
+
+	<key>Athenry</key>
+	<string>53.3007661,-8.7454901</string>
+
+	<key>Athlacca</key>
+	<string>52.4598587,-8.6491527</string>
+
+	<key>Athleague</key>
+	<string>53.5678482,-8.255989100000001</string>
+
+	<key>Athlone</key>
+	<string>53.4249355,-7.94494</string>
+
+	<key>Athy</key>
+	<string>52.9919671,-6.9869824</string>
+
+	<key>Attymass</key>
+	<string>54.0512845,-9.083394200000001</string>
+
+	<key>Aughnacliffe</key>
+	<string>53.8475266,-7.6058424</string>
+
+	<key>Aughnacloy</key>
+	<string>54.2356601,-7.1156547</string>
+
+	<key>Aughrim</key>
+	<string>52.8564775,-6.3316605</string>
+
+	<key>Avoca</key>
+	<string>52.8571816,-6.2129438</string>
+
+	<key>Baile an Fheirtéaraigh</key>
+	<string>52.1675739,-10.4022376</string>
+
+	<key>Bailieborough</key>
+	<string>53.9156824,-6.9715398</string>
+
+	<key>Balbriggan</key>
+	<string>53.6076835,-6.184122</string>
+
+	<key>Baldoyle</key>
+	<string>53.394973,-6.13324</string>
+
+	<key>Balgriffin</key>
+	<string>53.408265,-6.174338</string>
+
+	<key>Balla</key>
+	<string>53.8014173,-9.1324109</string>
+
+	<key>Ballacolla</key>
+	<string>52.9096552,-7.3596579</string>
+
+	<key>Ballaghaderreen</key>
+	<string>53.900085,-8.581443699999999</string>
+
+	<key>Ballaghmore</key>
+	<string>52.9535719,-7.6966313</string>
+
+	<key>Ballickmoyler</key>
+	<string>52.8782427,-7.0144422</string>
+
+	<key>Ballina</key>
+	<string>54.1118998,-9.1573265</string>
+
+	<key>Ballinabrackey</key>
+	<string>52.9842425,-6.0901779</string>
+
+	<key>Ballinaclash</key>
+	<string>52.9083406,-6.2651103</string>
+
+	<key>Ballinacourty</key>
+	<string>52.6878681,-8.4990062</string>
+
+	<key>Ballinacurra</key>
+	<string>51.8967518,-8.1639988</string>
+
+	<key>Ballinadee</key>
+	<string>51.7118371,-8.6247296</string>
+
+	<key>Ballinafad</key>
+	<string>54.0269896,-8.3353641</string>
+
+	<key>Ballinagar</key>
+	<string>53.266632,-7.3379926</string>
+
+	<key>Ballinagh</key>
+	<string>53.9338822,-7.4090206</string>
+
+	<key>Ballinaglera</key>
+	<string>54.1447216,-8.0153461</string>
+
+	<key>Ballinagree</key>
+	<string>51.9725112,-8.932039899999999</string>
+
+	<key>Ballinakil</key>
+	<string>52.8736831,-7.3101802</string>
+
+	<key>Ballinakill</key>
+	<string>52.8736831,-7.3101802</string>
+
+	<key>Ballinamore</key>
+	<string>54.0515373,-7.7979113</string>
+
+	<key>Ballinamuck</key>
+	<string>53.863875,-7.7140588</string>
+
+	<key>Ballinamult</key>
+	<string>52.2106658,-7.7335426</string>
+
+	<key>Ballinasloe</key>
+	<string>53.333273,-8.206958999999999</string>
+
+	<key>Ballincollig</key>
+	<string>51.8877138,-8.5871937</string>
+
+	<key>Ballinderreen</key>
+	<string>53.1816333,-8.9126622</string>
+
+	<key>Ballineen</key>
+	<string>51.7342738,-8.952593500000001</string>
+
+	<key>Ballingarry</key>
+	<string>52.4738299,-8.8668844</string>
+
+	<key>Ballingeary</key>
+	<string>51.8488206,-9.233089</string>
+
+	<key>Ballinhassig</key>
+	<string>51.8114836,-8.539168699999999</string>
+
+	<key>Ballinkillen</key>
+	<string>52.6479588,-6.9286615</string>
+
+	<key>Ballinlough</key>
+	<string>53.7416685,-8.633502699999999</string>
+
+	<key>Ballinode</key>
+	<string>54.2692265,-7.0339729</string>
+
+	<key>Ballinora</key>
+	<string>51.8622691,-8.575627600000001</string>
+
+	<key>Ballinroad</key>
+	<string>52.1042659,-7.5727962</string>
+
+	<key>Ballinrobe</key>
+	<string>53.621881,-9.221856499999999</string>
+
+	<key>Ballinskelligs</key>
+	<string>51.8230327,-10.2808419</string>
+
+	<key>Ballinspittle</key>
+	<string>51.6656582,-8.5921211</string>
+
+	<key>Ballinteer</key>
+	<string>53.2768387,-6.2496158</string>
+
+	<key>Ballintemple</key>
+	<string>52.734817,-6.693666</string>
+
+	<key>Ballintober</key>
+	<string>53.7563924,-9.2796065</string>
+
+	<key>Ballintogher</key>
+	<string>54.20104,-8.3671703</string>
+
+	<key>Ballintra</key>
+	<string>54.5770433,-8.126200799999999</string>
+
+	<key>Ballintubber</key>
+	<string>53.7563924,-9.2796065</string>
+
+	<key>Ballitore</key>
+	<string>53.00854,-6.817989</string>
+
+	<key>Ballivor</key>
+	<string>53.5306841,-6.9606192</string>
+
+	<key>Ballon</key>
+	<string>52.739176,-6.7721891</string>
+
+	<key>Ballsbridge</key>
+	<string>53.3302,-6.23168</string>
+
+	<key>Ballyagran</key>
+	<string>52.4035806,-8.781128199999999</string>
+
+	<key>Ballybay</key>
+	<string>54.1305763,-6.9030398</string>
+
+	<key>Ballybeg</key>
+	<string>52.8231339,-8.997787600000001</string>
+
+	<key>Ballyboden</key>
+	<string>53.2830351,-6.316284</string>
+
+	<key>Ballybofey</key>
+	<string>54.799329,-7.7828109</string>
+
+	<key>Ballybough</key>
+	<string>53.356641,-6.250576</string>
+
+	<key>Ballyboy</key>
+	<string>53.1737095,-7.6970859</string>
+
+	<key>Ballybrack</key>
+	<string>51.8178354,-10.1652065</string>
+
+	<key>Ballybricken</key>
+	<string>52.5631182,-8.524320400000001</string>
+
+	<key>Ballybrittas</key>
+	<string>53.1081913,-7.1362783</string>
+
+	<key>Ballybrophy</key>
+	<string>52.8986762,-7.6075518</string>
+
+	<key>Ballybunion</key>
+	<string>52.5098642,-9.6719449</string>
+
+	<key>Ballycanew</key>
+	<string>52.6086857,-6.3035545</string>
+
+	<key>Ballycastle</key>
+	<string>54.2800903,-9.3707923</string>
+
+	<key>Ballyclare</key>
+	<string>53.4544361,-6.8477158</string>
+
+	<key>Ballyconneely</key>
+	<string>53.428641,-10.0728834</string>
+
+	<key>Ballyconnell</key>
+	<string>54.1162647,-7.5839795</string>
+
+	<key>Ballycotton</key>
+	<string>51.8289688,-8.0087326</string>
+
+	<key>Ballycullane</key>
+	<string>52.2785487,-6.8409099</string>
+
+	<key>Ballydehob</key>
+	<string>51.5621064,-9.466935700000001</string>
+
+	<key>Ballydesmond</key>
+	<string>52.1796093,-9.234878800000001</string>
+
+	<key>Ballyduff</key>
+	<string>52.148589,-8.0555483</string>
+
+	<key>Ballyduff Lower</key>
+	<string>53.034733,-6.105387</string>
+
+	<key>Ballyduff Upper</key>
+	<string>52.1308744,-8.0440112</string>
+
+	<key>Ballydurn</key>
+	<string>52.2596205,-7.4000983</string>
+
+	<key>Ballyedmond</key>
+	<string>52.5438779,-6.3402057</string>
+
+	<key>Ballyfadd</key>
+	<string>53.3537744,-7.5561523</string>
+
+	<key>Ballyfarnon</key>
+	<string>54.0726795,-8.202204800000001</string>
+
+	<key>Ballyfermot</key>
+	<string>53.3302,-6.29876</string>
+
+	<key>Ballyfin</key>
+	<string>52.5954837,-6.3445178</string>
+
+	<key>Ballyforan</key>
+	<string>53.4701991,-8.269195</string>
+
+	<key>Ballygall</key>
+	<string>53.385903,-6.2921712</string>
+
+	<key>Ballygalley</key>
+	<string>52.1357626,-8.0231206</string>
+
+	<key>Ballygar</key>
+	<string>53.5213286,-8.329781799999999</string>
+
+	<key>Ballygarrett</key>
+	<string>52.5730052,-6.2299817</string>
+
+	<key>Ballygarvan</key>
+	<string>51.824576,-8.4642538</string>
+
+	<key>Ballygawley</key>
+	<string>54.1917242,-8.448504399999999</string>
+
+	<key>Ballyglass</key>
+	<string>53.8372421,-9.0014352</string>
+
+	<key>Ballygowan</key>
+	<string>53.8494928,-6.5894003</string>
+
+	<key>Ballygunner</key>
+	<string>52.2353686,-7.0597472</string>
+
+	<key>Ballyhack</key>
+	<string>52.2483747,-6.9644677</string>
+
+	<key>Ballyhahill</key>
+	<string>52.5608673,-9.192497100000001</string>
+
+	<key>Ballyhaise</key>
+	<string>54.0473357,-7.3155695</string>
+
+	<key>Ballyhale</key>
+	<string>52.4652767,-7.2022325</string>
+
+	<key>Ballyhaunis</key>
+	<string>53.7640131,-8.7635858</string>
+
+	<key>Ballyhide</key>
+	<string>52.8131466,-6.9607355</string>
+
+	<key>Ballyjamesduff</key>
+	<string>53.8626531,-7.2075766</string>
+
+	<key>Ballykelly</key>
+	<string>52.4437876,-6.4676961</string>
+
+	<key>Ballylanders</key>
+	<string>52.372409,-8.346890399999999</string>
+
+	<key>Ballylaneen</key>
+	<string>52.1742346,-7.3934662</string>
+
+	<key>Ballyleague</key>
+	<string>53.6930963,-8.298511100000001</string>
+
+	<key>Ballylickey</key>
+	<string>51.7214698,-9.437723399999999</string>
+
+	<key>Ballyliffin</key>
+	<string>55.2806535,-7.3927195</string>
+
+	<key>Ballylinan</key>
+	<string>52.9450535,-7.0408225</string>
+
+	<key>Ballylongford</key>
+	<string>52.545606,-9.4782361</string>
+
+	<key>Ballymacarbry</key>
+	<string>52.2690095,-7.7243325</string>
+
+	<key>Ballymacart</key>
+	<string>51.981469,-7.639255</string>
+
+	<key>Ballymacelligott</key>
+	<string>52.2559122,-9.5782097</string>
+
+	<key>Ballymacward</key>
+	<string>53.3791648,-8.489945799999999</string>
+
+	<key>Ballymagauran</key>
+	<string>54.6316369,-8.349143</string>
+
+	<key>Ballymahon</key>
+	<string>53.5626438,-7.7641428</string>
+
+	<key>Ballymakeera</key>
+	<string>51.9358549,-9.142273400000001</string>
+
+	<key>Ballymartin</key>
+	<string>52.8194939,-7.2926707</string>
+
+	<key>Ballymena</key>
+	<string>55.3224719,-7.1841857</string>
+
+	<key>Ballymoe</key>
+	<string>53.6953234,-8.4645014</string>
+
+	<key>Ballymoney</key>
+	<string>52.6722406,-6.2149541</string>
+
+	<key>Ballymore</key>
+	<string>53.4908496,-7.68038</string>
+
+	<key>Ballymore Eustace</key>
+	<string>53.1337326,-6.6143839</string>
+
+	<key>Ballymote</key>
+	<string>54.0873787,-8.5167705</string>
+
+	<key>Ballymount</key>
+	<string>53.0593361,-6.7732366</string>
+
+	<key>Ballymun</key>
+	<string>53.3962985,-6.2662156</string>
+
+	<key>Ballymurphy</key>
+	<string>53.496121,-6.528496</string>
+
+	<key>Ballynacally</key>
+	<string>52.7191126,-9.0683176</string>
+
+	<key>Ballynahinch</key>
+	<string>52.8791479,-8.666896599999999</string>
+
+	<key>Ballynaneashagh</key>
+	<string>52.242899,-7.157261</string>
+
+	<key>Ballyneety</key>
+	<string>52.5962847,-8.5497408</string>
+
+	<key>Ballynure</key>
+	<string>54.166417,-7.1810455</string>
+
+	<key>Ballyragget</key>
+	<string>52.7884474,-7.3349152</string>
+
+	<key>Ballyroan</key>
+	<string>52.9494707,-7.3074383</string>
+
+	<key>Ballyronan</key>
+	<string>52.4009414,-9.804149600000001</string>
+
+	<key>Ballysadare</key>
+	<string>54.2112711,-8.509665399999999</string>
+
+	<key>Ballysaggart</key>
+	<string>54.595472,-8.395571</string>
+
+	<key>Ballyshannon</key>
+	<string>54.5013087,-8.190066399999999</string>
+
+	<key>Ballysteen</key>
+	<string>52.6463285,-8.948721000000001</string>
+
+	<key>Ballytruckle</key>
+	<string>52.2519033,-7.1168705</string>
+
+	<key>Ballyvary</key>
+	<string>53.8942202,-9.153696099999999</string>
+
+	<key>Ballyvaughan</key>
+	<string>53.1176149,-9.1479187</string>
+
+	<key>Ballyvourney</key>
+	<string>51.9454537,-9.166414100000001</string>
+
+	<key>Ballywalter</key>
+	<string>53.65212,-7.632374</string>
+
+	<key>Ballywilliam</key>
+	<string>52.4484516,-6.8638396</string>
+
+	<key>Balrothery</key>
+	<string>53.5861835,-6.1903233</string>
+
+	<key>Baltimore</key>
+	<string>51.4835113,-9.3733434</string>
+
+	<key>Baltinglass</key>
+	<string>52.9419044,-6.7099586</string>
+
+	<key>Baltray</key>
+	<string>53.7405928,-6.2733132</string>
+
+	<key>Banagher</key>
+	<string>53.1896236,-7.9839066</string>
+
+	<key>Banbridge</key>
+	<string>38.4147739,-86.9994454</string>
+
+	<key>Bandon</key>
+	<string>51.7486503,-8.736735299999999</string>
+
+	<key>Bangor</key>
+	<string>54.1439487,-9.7451746</string>
+
+	<key>Bangor Erris</key>
+	<string>54.1447755,-9.7396732</string>
+
+	<key>Bannow</key>
+	<string>53.3708086,-6.2947689</string>
+
+	<key>Bansha</key>
+	<string>52.4488692,-8.065106999999999</string>
+
+	<key>Banteer</key>
+	<string>52.1305272,-8.8964117</string>
+
+	<key>Bantry</key>
+	<string>51.6809979,-9.4503702</string>
+
+	<key>Barefield</key>
+	<string>52.8877327,-8.949407300000001</string>
+
+	<key>Barna</key>
+	<string>53.2507964,-9.147164500000001</string>
+
+	<key>Batterstown</key>
+	<string>53.4697283,-6.5323743</string>
+
+	<key>Bawnboy</key>
+	<string>54.1208239,-7.6739285</string>
+
+	<key>Bayside</key>
+	<string>53.3914867,-6.136905</string>
+
+	<key>Bealadangan</key>
+	<string>53.3182365,-9.612618700000001</string>
+
+	<key>Beaumont</key>
+	<string>53.3868035,-6.2258007</string>
+
+	<key>Bective</key>
+	<string>53.5877517,-6.7137486</string>
+
+	<key>Belcarra</key>
+	<string>53.7997239,-9.218829100000001</string>
+
+	<key>Belcoo</key>
+	<string>54.2930673,-7.8742734</string>
+
+	<key>Belfast</key>
+	<string>54.6050348,-5.8320874</string>
+
+	<key>Belfield</key>
+	<string>53.3095702,-6.2174678</string>
+
+	<key>Belgooly</key>
+	<string>51.7378316,-8.481167599999999</string>
+
+	<key>Bellanagare</key>
+	<string>53.8368599,-8.3810485</string>
+
+	<key>Bellanamullia</key>
+	<string>53.422636,-8.024148</string>
+
+	<key>Belleek</key>
+	<string>53.7171991,-7.1371237</string>
+
+	<key>Belleeks</key>
+	<string>54.1264753,-9.1466668</string>
+
+	<key>Bellewstown</key>
+	<string>53.6417922,-6.3498782</string>
+
+	<key>Belmullet</key>
+	<string>54.2246858,-9.991002099999999</string>
+
+	<key>Beltra</key>
+	<string>54.2878929,-9.2613279</string>
+
+	<key>Belturbet</key>
+	<string>54.099154,-7.4462911</string>
+
+	<key>Belvelly</key>
+	<string>51.8865201,-8.3047279</string>
+
+	<key>Bennettsbridge</key>
+	<string>52.5923328,-7.1843596</string>
+
+	<key>Bessbrook</key>
+	<string>54.0745976,-7.4184453</string>
+
+	<key>Bettystown</key>
+	<string>53.6981638,-6.2424075</string>
+
+	<key>Bilberry</key>
+	<string>54.066563,-7.5937747</string>
+
+	<key>Birr</key>
+	<string>53.0966767,-7.909358</string>
+
+	<key>Blacklion</key>
+	<string>54.2907137,-7.8783443</string>
+
+	<key>Blackrock</key>
+	<string>54.6586546,-8.6298707</string>
+
+	<key>Blackwater</key>
+	<string>52.4464456,-6.3468476</string>
+
+	<key>Blanchardstown</key>
+	<string>53.3860272,-6.3786721</string>
+
+	<key>Blarney</key>
+	<string>51.930793,-8.5670079</string>
+
+	<key>Blennerville</key>
+	<string>52.2538704,-9.7379842</string>
+
+	<key>Blessington</key>
+	<string>53.1703745,-6.5340745</string>
+
+	<key>Bluebell</key>
+	<string>53.197354,-6.671801</string>
+
+	<key>Boherbue</key>
+	<string>52.1569484,-9.070359099999999</string>
+
+	<key>Bohola</key>
+	<string>53.9002229,-9.055650399999999</string>
+
+	<key>Bonniconlon</key>
+	<string>54.1088106,-9.0267719</string>
+
+	<key>Booterstown</key>
+	<string>53.3087798,-6.1963597</string>
+
+	<key>Borris</key>
+	<string>52.6017027,-6.9251135</string>
+
+	<key>Borris-in-Ossory</key>
+	<string>52.9371457,-7.6346447</string>
+
+	<key>Borrisokane</key>
+	<string>52.994373,-8.127777099999999</string>
+
+	<key>Borrisoleigh</key>
+	<string>52.7529887,-7.9573637</string>
+
+	<key>Boyle</key>
+	<string>53.9726748,-8.300458000000001</string>
+
+	<key>Bray</key>
+	<string>53.2044182,-6.1091852</string>
+
+	<key>Bree</key>
+	<string>52.4334281,-6.6074773</string>
+
+	<key>Bridgend</key>
+	<string>51.5072638,-3.5810425</string>
+
+	<key>Bridgetown</key>
+	<string>52.2301288,-6.5477139</string>
+
+	<key>Brittas</key>
+	<string>53.2354952,-6.452475</string>
+
+	<key>Brittas Bay</key>
+	<string>52.8782034,-6.0697338</string>
+
+	<key>Broadford</key>
+	<string>52.8056733,-8.634623299999999</string>
+
+	<key>Broadstone</key>
+	<string>53.3550469,-6.2734938</string>
+
+	<key>Broadway</key>
+	<string>52.2217338,-6.3929596</string>
+
+	<key>Broomhill</key>
+	<string>52.2592529,-8.319929500000001</string>
+
+	<key>Brosna</key>
+	<string>52.3139409,-9.2660073</string>
+
+	<key>Bruff</key>
+	<string>52.4759344,-8.5465328</string>
+
+	<key>Bruree</key>
+	<string>52.4224766,-8.658900600000001</string>
+
+	<key>Buckode</key>
+	<string>54.4259688,-8.1947647</string>
+
+	<key>Bullaun</key>
+	<string>53.2483305,-8.554494</string>
+
+	<key>Bunclody</key>
+	<string>52.6568694,-6.6616581</string>
+
+	<key>Buncrana</key>
+	<string>55.1328257,-7.4527449</string>
+
+	<key>Bundoran</key>
+	<string>54.4775593,-8.281439900000001</string>
+
+	<key>Bunmahon</key>
+	<string>52.1401964,-7.3680752</string>
+
+	<key>Bunninadden</key>
+	<string>54.0523283,-8.6048644</string>
+
+	<key>Burren</key>
+	<string>51.9588888,-8.9063888</string>
+
+	<key>Burtonport</key>
+	<string>54.9822829,-8.4352412</string>
+
+	<key>Bushmills</key>
+	<string>55.2334017,-6.5133569</string>
+
+	<key>Butlersbridge</key>
+	<string>54.0445312,-7.3780228</string>
+
+	<key>Butlerstown</key>
+	<string>51.5986227,-8.7261591</string>
+
+	<key>Buttevant</key>
+	<string>52.2330511,-8.671076299999999</string>
+
+	<key>Cabinteely</key>
+	<string>53.267523,-6.149068</string>
+
+	<key>Cabra</key>
+	<string>52.6582138,-7.8323021</string>
+
+	<key>Cabra, County Down</key>
+	<string>37.4743664,-4.4259306</string>
+
+	<key>Cadamstown</key>
+	<string>53.1260857,-7.659989</string>
+
+	<key>Caherconlish</key>
+	<string>52.594468,-8.470755799999999</string>
+
+	<key>Caherdaniel</key>
+	<string>51.767962,-10.097627</string>
+
+	<key>Cahersiveen</key>
+	<string>51.9477635,-10.224143</string>
+
+	<key>Cahir</key>
+	<string>52.3760233,-7.9255093</string>
+
+	<key>Caledon</key>
+	<string>53.3540097,-6.2348715</string>
+
+	<key>Callan</key>
+	<string>52.5455537,-7.396338</string>
+
+	<key>Calverstown</key>
+	<string>53.082152,-6.7962767</string>
+
+	<key>Camlough</key>
+	<string>54.1658333,-6.3936111</string>
+
+	<key>Camolin</key>
+	<string>52.6158149,-6.4259419</string>
+
+	<key>Campile</key>
+	<string>52.2900738,-6.9416346</string>
+
+	<key>Camus</key>
+	<string>53.3726335,-9.551922899999999</string>
+
+	<key>Cappamore</key>
+	<string>52.6120802,-8.337375700000001</string>
+
+	<key>Cappoquin</key>
+	<string>52.1474677,-7.8517027</string>
+
+	<key>Caragh</key>
+	<string>53.2186293,-6.6775934</string>
+
+	<key>Carbury</key>
+	<string>53.35518,-6.9664172</string>
+
+	<key>Carigeen</key>
+	<string>52.362375,-7.6889062</string>
+
+	<key>Carlingford</key>
+	<string>54.0429373,-6.1860932</string>
+
+	<key>Carlow</key>
+	<string>52.835975,-6.9245496</string>
+
+	<key>Carnaross</key>
+	<string>53.7516866,-6.9598673</string>
+
+	<key>Carndonagh</key>
+	<string>55.2540981,-7.2641644</string>
+
+	<key>Carnew</key>
+	<string>52.7102636,-6.4949015</string>
+
+	<key>Carney</key>
+	<string>54.3379074,-8.527174799999999</string>
+
+	<key>Carnlough</key>
+	<string>53.3656495,-6.2934797</string>
+
+	<key>Carnmore</key>
+	<string>53.315099,-8.897433599999999</string>
+
+	<key>Carracastle</key>
+	<string>53.9511373,-8.697009899999999</string>
+
+	<key>Carraroe</key>
+	<string>53.2661183,-9.596329600000001</string>
+
+	<key>Carrick On Shannon</key>
+	<string>53.9435508,-8.095492800000001</string>
+
+	<key>Carrick-on-Suir</key>
+	<string>52.347191,-7.422205</string>
+
+	<key>Carrickbeg</key>
+	<string>52.3391175,-7.4138329</string>
+
+	<key>Carrickfergus</key>
+	<string>54.7210869,-5.7912053</string>
+
+	<key>Carrickmacross</key>
+	<string>53.9777441,-6.7195786</string>
+
+	<key>Carrickmines</key>
+	<string>53.2493911,-6.1827434</string>
+
+	<key>Carrickmore</key>
+	<string>54.0592379,-7.3161867</string>
+
+	<key>Carrigadrohid</key>
+	<string>51.9029973,-8.852779</string>
+
+	<key>Carrigaholt</key>
+	<string>52.6030155,-9.7107493</string>
+
+	<key>Carrigaline</key>
+	<string>51.8131886,-8.393962999999999</string>
+
+	<key>Carrigallen</key>
+	<string>53.9780558,-7.6447029</string>
+
+	<key>Carriganimmy</key>
+	<string>51.9789889,-9.036197599999999</string>
+
+	<key>Carrigans</key>
+	<string>54.95117,-7.4291166</string>
+
+	<key>Carrigart</key>
+	<string>55.1776968,-7.7934854</string>
+
+	<key>Carrigkerry</key>
+	<string>52.4934607,-9.150387</string>
+
+	<key>Carriglea</key>
+	<string>52.2425496,-7.0171816</string>
+
+	<key>Carrigtwohill</key>
+	<string>51.9089796,-8.258961599999999</string>
+
+	<key>Carron</key>
+	<string>52.4749505,-7.8922184</string>
+
+	<key>Carrowteige</key>
+	<string>54.3144405,-9.8139717</string>
+
+	<key>Cashel</key>
+	<string>52.51684,-7.8911709</string>
+
+	<key>Casla</key>
+	<string>53.2891388,-9.551473700000001</string>
+
+	<key>Castlebaldwin</key>
+	<string>54.0789245,-8.377329899999999</string>
+
+	<key>Castlebellingham</key>
+	<string>53.8972244,-6.3904755</string>
+
+	<key>Castleblakeney</key>
+	<string>53.4313019,-8.4742359</string>
+
+	<key>Castleblayney</key>
+	<string>54.1178795,-6.7333768</string>
+
+	<key>Castlebridge</key>
+	<string>52.3837039,-6.4518939</string>
+
+	<key>Castlecomer</key>
+	<string>52.8054234,-7.2102187</string>
+
+	<key>Castleconnell</key>
+	<string>52.7128283,-8.502962699999999</string>
+
+	<key>Castlecove</key>
+	<string>51.779466,-10.0320098</string>
+
+	<key>Castledawson</key>
+	<string>53.3757931,-6.6067106</string>
+
+	<key>Castledermot</key>
+	<string>52.9120441,-6.8375731</string>
+
+	<key>Castlefin</key>
+	<string>54.802998,-7.597116</string>
+
+	<key>Castlegar</key>
+	<string>53.2992411,-9.0090381</string>
+
+	<key>Castlegregory</key>
+	<string>52.255731,-10.0172064</string>
+
+	<key>Castlehaven</key>
+	<string>51.536572,-9.207653000000001</string>
+
+	<key>Castleisland</key>
+	<string>52.2346204,-9.4618705</string>
+
+	<key>Castleknock</key>
+	<string>53.3734161,-6.3603938</string>
+
+	<key>Castlelyons</key>
+	<string>52.0908162,-8.2327552</string>
+
+	<key>Castlemahon</key>
+	<string>52.4283617,-9.009198700000001</string>
+
+	<key>Castlemaine</key>
+	<string>52.167351,-9.6987515</string>
+
+	<key>Castlemartyr</key>
+	<string>51.9091644,-8.0576294</string>
+
+	<key>Castleplunket</key>
+	<string>53.7501501,-8.3452684</string>
+
+	<key>Castlepollard</key>
+	<string>53.6813038,-7.2964706</string>
+
+	<key>Castlerea</key>
+	<string>53.7673149,-8.4879716</string>
+
+	<key>Castlerock</key>
+	<string>54.077548,-8.867347000000001</string>
+
+	<key>Castletown</key>
+	<string>52.9772665,-7.4963473</string>
+
+	<key>Castletown-Kinneigh</key>
+	<string>51.7672594,-8.9901871</string>
+
+	<key>Castletownbere</key>
+	<string>51.6503998,-9.914180999999999</string>
+
+	<key>Castletownroche</key>
+	<string>52.1711891,-8.4637329</string>
+
+	<key>Castletownshend</key>
+	<string>51.5384072,-9.254796799999999</string>
+
+	<key>Castlewarren</key>
+	<string>52.7117108,-7.1027358</string>
+
+	<key>Causeway</key>
+	<string>52.4134063,-9.7307579</string>
+
+	<key>Cavan</key>
+	<string>53.9942097,-7.3608957</string>
+
+	<key>Ceann Trá</key>
+	<string>52.1337743,-10.3589091</string>
+
+	<key>Celbridge</key>
+	<string>53.3383474,-6.5398376</string>
+
+	<key>Chapelizod</key>
+	<string>53.3476633,-6.3411396</string>
+
+	<key>Charlemont</key>
+	<string>53.3754076,-6.231886</string>
+
+	<key>Charlestown</key>
+	<string>53.9635224,-8.7919505</string>
+
+	<key>Charleville</key>
+	<string>52.3552652,-8.683684700000001</string>
+
+	<key>Cheekpoint</key>
+	<string>52.2703013,-6.9945952</string>
+
+	<key>Cherrywood</key>
+	<string>53.244362,-6.142235</string>
+
+	<key>Churchill</key>
+	<string>54.9899789,-7.8933199</string>
+
+	<key>Churchtown</key>
+	<string>52.2731262,-8.7295791</string>
+
+	<key>Clady</key>
+	<string>53.5928381,-6.7260813</string>
+
+	<key>Clane</key>
+	<string>53.2914018,-6.6888656</string>
+
+	<key>Clara</key>
+	<string>53.3421701,-7.6144016</string>
+
+	<key>Clarecastle</key>
+	<string>52.8145063,-8.962401399999999</string>
+
+	<key>Claregalway</key>
+	<string>53.3419652,-8.9458214</string>
+
+	<key>Clarina</key>
+	<string>52.6321316,-8.7263363</string>
+
+	<key>Clarinbridge</key>
+	<string>53.2293405,-8.881416400000001</string>
+
+	<key>Clashmore</key>
+	<string>52.0083015,-7.8185398</string>
+
+	<key>Cleariestown</key>
+	<string>52.27668,-6.5983908</string>
+
+	<key>Cleggan</key>
+	<string>53.5587704,-10.1140998</string>
+
+	<key>Clifden</key>
+	<string>52.2351602,-10.1821886</string>
+
+	<key>Cliffony</key>
+	<string>54.4280777,-8.4551616</string>
+
+	<key>Clogh</key>
+	<string>52.860918,-7.1659898</string>
+
+	<key>Cloghan</key>
+	<string>53.2268771,-7.8861978</string>
+
+	<key>Clogher</key>
+	<string>53.7592125,-9.230225600000001</string>
+
+	<key>Clogherhead</key>
+	<string>53.7910165,-6.2366245</string>
+
+	<key>Cloghroe</key>
+	<string>51.924993,-8.643976</string>
+
+	<key>Clohamon</key>
+	<string>52.6363437,-6.6206167</string>
+
+	<key>Clonakilty</key>
+	<string>51.6208666,-8.8942558</string>
+
+	<key>Clonard</key>
+	<string>53.4522756,-7.0189532</string>
+
+	<key>Clonaslee</key>
+	<string>53.1473401,-7.5239482</string>
+
+	<key>Clonbullogue</key>
+	<string>53.2602539,-7.0873284</string>
+
+	<key>Clonbur</key>
+	<string>53.5451866,-9.3617215</string>
+
+	<key>Clondalkin</key>
+	<string>53.3212892,-6.3946154</string>
+
+	<key>Clondulane</key>
+	<string>52.1420689,-8.215253199999999</string>
+
+	<key>Clonea Strand</key>
+	<string>52.096349,-7.5420831</string>
+
+	<key>Clonea-Power</key>
+	<string>52.2815042,-7.44428</string>
+
+	<key>Clonee</key>
+	<string>53.4097439,-6.4399407</string>
+
+	<key>Clonegal</key>
+	<string>52.6926039,-6.6451151</string>
+
+	<key>Clones</key>
+	<string>54.1830384,-7.2337144</string>
+
+	<key>Clonlara</key>
+	<string>52.7238322,-8.550597099999999</string>
+
+	<key>Clonmacnoise</key>
+	<string>53.323264,-7.9797034</string>
+
+	<key>Clonmany</key>
+	<string>55.2623468,-7.4100359</string>
+
+	<key>Clonmel</key>
+	<string>52.3556136,-7.6984216</string>
+
+	<key>Clonmore</key>
+	<string>54.1618806,-7.2363319</string>
+
+	<key>Clonoulty</key>
+	<string>52.600197,-7.9615509</string>
+
+	<key>Clonroche</key>
+	<string>52.4496644,-6.7181555</string>
+
+	<key>Clonsilla</key>
+	<string>53.3823,-6.4101772</string>
+
+	<key>Clonskeagh</key>
+	<string>53.31539,-6.2317763</string>
+
+	<key>Clontarf</key>
+	<string>53.3591346,-6.1962083</string>
+
+	<key>Clonygowan</key>
+	<string>53.1861683,-7.2817054</string>
+
+	<key>Cloonacool</key>
+	<string>54.1001242,-8.7787373</string>
+
+	<key>Cloondara</key>
+	<string>53.7332172,-7.9079989</string>
+
+	<key>Cloone</key>
+	<string>53.9474164,-7.7834441</string>
+
+	<key>Cloonfad</key>
+	<string>53.6877801,-8.752640899999999</string>
+
+	<key>Cloonsheerevagh</key>
+	<string>53.9624782,-8.087046000000001</string>
+
+	<key>Clough</key>
+	<string>52.464605,-6.619865</string>
+
+	<key>Cloughduv</key>
+	<string>51.8467696,-8.789926400000001</string>
+
+	<key>Cloughjordan</key>
+	<string>52.943421,-8.042956</string>
+
+	<key>Cloyne</key>
+	<string>51.8630196,-8.118918300000001</string>
+
+	<key>Coachford</key>
+	<string>51.9097761,-8.7922686</string>
+
+	<key>Cobh</key>
+	<string>51.8498307,-8.294384000000001</string>
+
+	<key>Coill Dubh</key>
+	<string>53.2923565,-6.8175209</string>
+
+	<key>Colehill</key>
+	<string>53.5992918,-7.679902</string>
+
+	<key>Coleraine</key>
+	<string>52.5213507,-7.8115796</string>
+
+	<key>Colligan</key>
+	<string>52.1384621,-7.6932691</string>
+
+	<key>Collon</key>
+	<string>53.7786906,-6.4810429</string>
+
+	<key>Collooney</key>
+	<string>54.184276,-8.494536999999999</string>
+
+	<key>Comber</key>
+	<string>54.5909261,-5.8076087</string>
+
+	<key>Cong</key>
+	<string>53.5434808,-9.2860075</string>
+
+	<key>Conna</key>
+	<string>52.0942504,-8.1081539</string>
+
+	<key>Connolly</key>
+	<string>52.8311624,-9.1802837</string>
+
+	<key>Convoy</key>
+	<string>54.8599104,-7.6642533</string>
+
+	<key>Cookstown</key>
+	<string>53.1872599,-6.151439</string>
+
+	<key>Coolafancy</key>
+	<string>53.3942063,-6.2925633</string>
+
+	<key>Coolaney</key>
+	<string>54.1709139,-8.603059</string>
+
+	<key>Coolboy</key>
+	<string>52.7607537,-6.463505</string>
+
+	<key>Coolderry</key>
+	<string>53.0129151,-7.8509221</string>
+
+	<key>Coolea</key>
+	<string>51.9280511,-9.2158412</string>
+
+	<key>Coolgreany</key>
+	<string>52.7643987,-6.2366301</string>
+
+	<key>Coolmine</key>
+	<string>53.2732899,-6.4520323</string>
+
+	<key>Coolnasmear</key>
+	<string>52.139542,-7.6476953</string>
+
+	<key>Coolock</key>
+	<string>53.3887878,-6.2013827</string>
+
+	<key>Cooraclare</key>
+	<string>52.7029696,-9.4193882</string>
+
+	<key>Cootehill</key>
+	<string>54.0742813,-7.0771007</string>
+
+	<key>Cordal</key>
+	<string>52.216312,-9.381099300000001</string>
+
+	<key>Corduff</key>
+	<string>53.3117731,-6.8223463</string>
+
+	<key>Cork City</key>
+	<string>51.8978719,-8.4710874</string>
+
+	<key>Cornelscourt</key>
+	<string>53.2671,-6.154651</string>
+
+	<key>Corofin</key>
+	<string>52.9464682,-9.0705233</string>
+
+	<key>Corrandulla</key>
+	<string>53.4015086,-8.9964899</string>
+
+	<key>Corroy</key>
+	<string>53.5843205,-8.1206747</string>
+
+	<key>Cortober</key>
+	<string>53.9384459,-8.1010214</string>
+
+	<key>Courtmacsherry</key>
+	<string>51.6343774,-8.7078275</string>
+
+	<key>Courtown</key>
+	<string>52.6448114,-6.2276103</string>
+
+	<key>Craanford</key>
+	<string>52.6814799,-6.389912</string>
+
+	<key>Craigavon</key>
+	<string>54.4481176,-6.3875786</string>
+
+	<key>Cratloe</key>
+	<string>52.6978497,-8.7590339</string>
+
+	<key>Craughwell</key>
+	<string>53.2256979,-8.7331357</string>
+
+	<key>Crecora</key>
+	<string>52.5730155,-8.6689433</string>
+
+	<key>Cree</key>
+	<string>52.7440453,-9.428451600000001</string>
+
+	<key>Creeslough</key>
+	<string>55.1225857,-7.9077896</string>
+
+	<key>Creggan</key>
+	<string>53.2878422,-7.8598147</string>
+
+	<key>Crinkill</key>
+	<string>53.0793673,-7.9019373</string>
+
+	<key>Croagh</key>
+	<string>54.6816154,-8.3380066</string>
+
+	<key>Croghan</key>
+	<string>53.9109901,-8.2203762</string>
+
+	<key>Crooke</key>
+	<string>52.2251314,-6.9754888</string>
+
+	<key>Crookhaven</key>
+	<string>51.4698839,-9.7192384</string>
+
+	<key>Crookstown</key>
+	<string>51.841773,-8.8302663</string>
+
+	<key>Croom</key>
+	<string>52.5190874,-8.7172915</string>
+
+	<key>Cross</key>
+	<string>52.5987146,-9.772520800000001</string>
+
+	<key>Crossabeg</key>
+	<string>52.3826441,-6.5020333</string>
+
+	<key>Crossbarry</key>
+	<string>51.8023382,-8.6427952</string>
+
+	<key>Crossdoney</key>
+	<string>53.9537549,-7.4351291</string>
+
+	<key>Crosshaven</key>
+	<string>51.8034485,-8.2984776</string>
+
+	<key>Crossmolina</key>
+	<string>54.1008596,-9.3175908</string>
+
+	<key>Crumlin</key>
+	<string>53.9782702,-6.4012417</string>
+
+	<key>Crusheen</key>
+	<string>52.9404398,-8.897309399999999</string>
+
+	<key>Culdaff</key>
+	<string>55.28859,-7.1630068</string>
+
+	<key>Cullen</key>
+	<string>52.9264672,-6.0562887</string>
+
+	<key>Cullenstown</key>
+	<string>52.2182718,-6.7158057</string>
+
+	<key>Cullohill</key>
+	<string>54.099536,-7.262612</string>
+
+	<key>Culmore</key>
+	<string>53.8727321,-8.8436307</string>
+
+	<key>Curracloe</key>
+	<string>52.3942259,-6.3889123</string>
+
+	<key>Curragha</key>
+	<string>53.5365806,-6.4445933</string>
+
+	<key>Currans</key>
+	<string>52.1962338,-9.548154</string>
+
+	<key>Currow</key>
+	<string>53.3200464,-7.9370429</string>
+
+	<key>Daingean</key>
+	<string>53.2960212,-7.2907099</string>
+
+	<key>Dalkey</key>
+	<string>53.2791329,-6.1056976</string>
+
+	<key>Darkley</key>
+	<string>53.9936331,-6.9174605</string>
+
+	<key>Darndale</key>
+	<string>53.3987526,-6.1880898</string>
+
+	<key>Dartry</key>
+	<string>54.106523,-7.0639326</string>
+
+	<key>Deansgrange</key>
+	<string>53.274995,-6.158289</string>
+
+	<key>Delgany</key>
+	<string>53.1337923,-6.0899426</string>
+
+	<key>Derrew</key>
+	<string>53.1992932,-8.302805599999999</string>
+
+	<key>Derrinturn</key>
+	<string>53.3395644,-6.9401259</string>
+
+	<key>Derry</key>
+	<string>51.5865616,-9.050049400000001</string>
+
+	<key>Derryadd</key>
+	<string>53.451769,-9.722597</string>
+
+	<key>Derrylaughan</key>
+	<string>53.8998711,-9.4744329</string>
+
+	<key>Derrymore</key>
+	<string>52.9219177,-7.7435109</string>
+
+	<key>Derrynane</key>
+	<string>52.6455794,-8.5887353</string>
+
+	<key>Derrytrasna</key>
+	<string>52.9920119,-7.2234113</string>
+
+	<key>Dingle</key>
+	<string>52.1433505,-10.2686507</string>
+
+	<key>Doagh</key>
+	<string>55.222334,-7.852854</string>
+
+	<key>Dollymount</key>
+	<string>53.3651234,-6.184673</string>
+
+	<key>Dolphin's Barn</key>
+	<string>53.3339184,-6.2907514</string>
+
+	<key>Donabate</key>
+	<string>53.48773,-6.160171</string>
+
+	<key>Donaghmede</key>
+	<string>53.3947,-6.16246</string>
+
+	<key>Donaghmore</key>
+	<string>52.8725165,-7.6000679</string>
+
+	<key>Donard</key>
+	<string>53.0220302,-6.6131279</string>
+
+	<key>Donegal</key>
+	<string>54.654487,-8.110714099999999</string>
+
+	<key>Doneraile</key>
+	<string>52.2163164,-8.586709300000001</string>
+
+	<key>Donnybrook</key>
+	<string>52.7253454,-8.810986</string>
+
+	<key>Donnycarney</key>
+	<string>53.3732544,-6.2133604</string>
+
+	<key>Donore</key>
+	<string>53.6916403,-6.4192711</string>
+
+	<key>Doohamlet</key>
+	<string>54.1286848,-6.8237722</string>
+
+	<key>Doolin</key>
+	<string>53.0160482,-9.377580099999999</string>
+
+	<key>Doon</key>
+	<string>52.6061176,-8.250529200000001</string>
+
+	<key>Doonbeg</key>
+	<string>52.7290231,-9.5265316</string>
+
+	<key>Doora</key>
+	<string>53.882155,-7.974214</string>
+
+	<key>Douglas</key>
+	<string>52.1130815,-9.835846099999999</string>
+
+	<key>Downhill</key>
+	<string>54.1162945,-9.1339714</string>
+
+	<key>Downings</key>
+	<string>53.2845097,-6.7591701</string>
+
+	<key>Downpatrick</key>
+	<string>53.3263171,-6.3019435</string>
+
+	<key>Dowra</key>
+	<string>54.189712,-8.0147016</string>
+
+	<key>Drimnagh</key>
+	<string>53.322782,-6.345918</string>
+
+	<key>Drimoleague</key>
+	<string>51.6587144,-9.2610226</string>
+
+	<key>Dripsey</key>
+	<string>51.916253,-8.749874</string>
+
+	<key>Drogheda</key>
+	<string>53.7167718,-6.3543536</string>
+
+	<key>Dromahane</key>
+	<string>52.1042439,-8.6912647</string>
+
+	<key>Dromcolliher</key>
+	<string>52.3415522,-8.9102975</string>
+
+	<key>Dromiskin</key>
+	<string>53.918805,-6.4007259</string>
+
+	<key>Dromod</key>
+	<string>51.8593549,-10.1100568</string>
+
+	<key>Dromore</key>
+	<string>54.7852182,-7.6922054</string>
+
+	<key>Dromore West</key>
+	<string>54.2494576,-8.8789775</string>
+
+	<key>Drum</key>
+	<string>54.1036849,-7.1423898</string>
+
+	<key>Drumahaire</key>
+	<string>54.230145,-8.301359</string>
+
+	<key>Drumcliffe</key>
+	<string>54.3103902,-8.4522233</string>
+
+	<key>Drumcondra</key>
+	<string>53.8500984,-6.6574524</string>
+
+	<key>Drumcong</key>
+	<string>54.0288897,-7.9733562</string>
+
+	<key>Drumconrath</key>
+	<string>53.852081,-6.655112</string>
+
+	<key>Drumkeeran</key>
+	<string>54.1704802,-8.142689799999999</string>
+
+	<key>Drumlish</key>
+	<string>53.8194609,-7.7708713</string>
+
+	<key>Drumquin</key>
+	<string>52.765376,-9.0253859</string>
+
+	<key>Drumshanbo</key>
+	<string>54.0482087,-8.039479699999999</string>
+
+	<key>Drumsna</key>
+	<string>53.9258485,-8.007725600000001</string>
+
+	<key>Duagh</key>
+	<string>52.4161413,-9.3900539</string>
+
+	<key>Duleek</key>
+	<string>53.6558249,-6.4157799</string>
+
+	<key>Dunboyne</key>
+	<string>53.420016,-6.4781851</string>
+
+	<key>Duncannon</key>
+	<string>52.2216443,-6.9306007</string>
+
+	<key>Duncormick</key>
+	<string>52.227385,-6.6543517</string>
+
+	<key>Dundalk</key>
+	<string>53.9999772,-6.4037354</string>
+
+	<key>Dunderry</key>
+	<string>53.6085781,-6.7741804</string>
+
+	<key>Dundonald</key>
+	<string>54.5950542,-5.7984676</string>
+
+	<key>Dundrum</key>
+	<string>52.559378,-8.0461563</string>
+
+	<key>Dunfanaghy</key>
+	<string>55.1831481,-7.9721045</string>
+
+	<key>Dungannon</key>
+	<string>51.5955747,-9.0923955</string>
+
+	<key>Dungarvan</key>
+	<string>52.0929887,-7.6254643</string>
+
+	<key>Dungloe</key>
+	<string>52.2351602,-10.1821886</string>
+
+	<key>Dungourney</key>
+	<string>51.9695531,-8.090356699999999</string>
+
+	<key>Dunhill</key>
+	<string>52.1712535,-7.2624189</string>
+
+	<key>Dunkineely</key>
+	<string>54.6319806,-8.360518600000001</string>
+
+	<key>Dunlavin</key>
+	<string>53.0573117,-6.7011072</string>
+
+	<key>Dunleer</key>
+	<string>53.8299123,-6.3948487</string>
+
+	<key>Dunmanway</key>
+	<string>51.7206101,-9.1120398</string>
+
+	<key>Dunmore</key>
+	<string>53.618118,-8.745762300000001</string>
+
+	<key>Dunmore East</key>
+	<string>52.1492182,-6.9946151</string>
+
+	<key>Dunshaughlin</key>
+	<string>53.5115548,-6.5404355</string>
+
+	<key>Durrow</key>
+	<string>52.8445207,-7.3935077</string>
+
+	<key>Durrus</key>
+	<string>51.626184,-9.514538</string>
+
+	<key>Dysart</key>
+	<string>53.3862553,-6.8125823</string>
+
+	<key>Dún Chaoin</key>
+	<string>52.1317609,-10.4540906</string>
+
+	<key>Dún Laoghaire</key>
+	<string>53.2922718,-6.1360263</string>
+
+	<key>Eadestown</key>
+	<string>53.2024172,-6.5779117</string>
+
+	<key>Easky</key>
+	<string>54.2855165,-8.9602612</string>
+
+	<key>East Wall</key>
+	<string>53.3528122,-6.2355249</string>
+
+	<key>Edenderry</key>
+	<string>53.3420393,-7.0495362</string>
+
+	<key>Edgeworthstown</key>
+	<string>53.6948028,-7.6053986</string>
+
+	<key>Edmondstown</key>
+	<string>53.9069488,-6.6152775</string>
+
+	<key>Effin</key>
+	<string>52.3597797,-8.664330400000001</string>
+
+	<key>Eglinton</key>
+	<string>53.274442,-9.0520911</string>
+
+	<key>Eglish</key>
+	<string>52.8538576,-7.6375363</string>
+
+	<key>Elphin</key>
+	<string>53.8448293,-8.1922599</string>
+
+	<key>Elton</key>
+	<string>52.4261345,-8.457531599999999</string>
+
+	<key>Emly</key>
+	<string>52.4632751,-8.350342899999999</string>
+
+	<key>Emo</key>
+	<string>53.0967007,-7.2082892</string>
+
+	<key>Emyvale</key>
+	<string>54.3418534,-6.959009</string>
+
+	<key>Enfield</key>
+	<string>53.4155241,-6.8309956</string>
+
+	<key>Ennis</key>
+	<string>52.8443498,-8.9829945</string>
+
+	<key>Enniscorthy</key>
+	<string>52.5011871,-6.5669624</string>
+
+	<key>Enniscrone</key>
+	<string>54.2151782,-9.0888002</string>
+
+	<key>Enniskean</key>
+	<string>51.73719,-8.9301526</string>
+
+	<key>Enniskerry</key>
+	<string>53.1920164,-6.1704756</string>
+
+	<key>Ennistymon</key>
+	<string>52.9329572,-9.3358072</string>
+
+	<key>Ennybegs</key>
+	<string>53.7759031,-7.7284998</string>
+
+	<key>Errill</key>
+	<string>52.860174,-7.6794466</string>
+
+	<key>Eslin Bridge</key>
+	<string>52.5037788,-6.569034</string>
+
+	<key>Eyeries</key>
+	<string>51.693802,-9.960530199999999</string>
+
+	<key>Eyrecourt</key>
+	<string>53.1992768,-8.1307296</string>
+
+	<key>Faha</key>
+	<string>52.6301043,-8.7838528</string>
+
+	<key>Fairview</key>
+	<string>53.3661623,-6.2398562</string>
+
+	<key>Faithlegg</key>
+	<string>52.228198,-7.026491</string>
+
+	<key>Falcarragh</key>
+	<string>55.1364409,-8.1040958</string>
+
+	<key>Fanad</key>
+	<string>55.2791667,-7.6466667</string>
+
+	<key>Fanore</key>
+	<string>53.1116455,-9.2910162</string>
+
+	<key>Farran</key>
+	<string>51.8757025,-8.718949</string>
+
+	<key>Farranfore</key>
+	<string>52.1712631,-9.550105800000001</string>
+
+	<key>Feakle</key>
+	<string>52.9238041,-8.647073199999999</string>
+
+	<key>Fedamore</key>
+	<string>52.5438158,-8.599355299999999</string>
+
+	<key>Feenagh</key>
+	<string>52.3894188,-8.8743135</string>
+
+	<key>Fenagh</key>
+	<string>52.7149699,-6.8468571</string>
+
+	<key>Fenit</key>
+	<string>52.2782261,-9.8614497</string>
+
+	<key>Fennagh</key>
+	<string>52.7149699,-6.8468571</string>
+
+	<key>Fenor</key>
+	<string>52.1612903,-7.2315416</string>
+
+	<key>Feohanagh</key>
+	<string>52.384068,-8.974504100000001</string>
+
+	<key>Ferbane</key>
+	<string>53.2719595,-7.8275388</string>
+
+	<key>Fermoy</key>
+	<string>52.1398416,-8.2665293</string>
+
+	<key>Ferns</key>
+	<string>52.591771,-6.4976543</string>
+
+	<key>Ferrybank</key>
+	<string>52.8009917,-6.1493555</string>
+
+	<key>Fethard</key>
+	<string>52.4656911,-7.6957373</string>
+
+	<key>Fethard-on-Sea</key>
+	<string>52.1916562,-6.8399158</string>
+
+	<key>Fews</key>
+	<string>52.2199013,-7.4582723</string>
+
+	<key>Finglas</key>
+	<string>53.391046,-6.2886568</string>
+
+	<key>Finuge</key>
+	<string>52.4236237,-9.543020200000001</string>
+
+	<key>Firhouse</key>
+	<string>52.6130965,-7.2363271</string>
+
+	<key>Flagmount, Freshford</key>
+	<string>52.7325542,-7.3981474</string>
+
+	<key>Forkill</key>
+	<string>53.7454834,-7.1620426</string>
+
+	<key>Foulkesmill</key>
+	<string>52.310548,-6.760424</string>
+
+	<key>Fountainstown</key>
+	<string>51.7822118,-8.335933900000001</string>
+
+	<key>Fourmilewater</key>
+	<string>52.2791638,-7.7526954</string>
+
+	<key>Foxford</key>
+	<string>53.9826976,-9.1120678</string>
+
+	<key>Foxrock</key>
+	<string>53.2688754,-6.1767127</string>
+
+	<key>Foynes</key>
+	<string>52.6124727,-9.106071099999999</string>
+
+	<key>Frenchpark</key>
+	<string>53.8699506,-8.405640200000001</string>
+
+	<key>Frosses</key>
+	<string>54.6689422,-8.2414027</string>
+
+	<key>Furbo</key>
+	<string>53.2494326,-9.2009706</string>
+
+	<key>Galbally</key>
+	<string>52.4019905,-8.2988219</string>
+
+	<key>Galmoy</key>
+	<string>52.784788,-7.5862078</string>
+
+	<key>Garrison</key>
+	<string>53.8385981,-7.3664292</string>
+
+	<key>Garristown</key>
+	<string>53.5664459,-6.3808097</string>
+
+	<key>Garryspillane</key>
+	<string>52.4072816,-8.374354</string>
+
+	<key>Garvagh</key>
+	<string>54.0094931,-7.9691067</string>
+
+	<key>Geashill</key>
+	<string>53.2346833,-7.3248443</string>
+
+	<key>Geevagh</key>
+	<string>54.1009848,-8.2525732</string>
+
+	<key>Gilford</key>
+	<string>54.304571,-7.030937</string>
+
+	<key>Gilnahirk</key>
+	<string>54.5776082,-5.837271</string>
+
+	<key>Glandore</key>
+	<string>51.5667797,-9.122969700000001</string>
+
+	<key>Glangevlin</key>
+	<string>54.1922665,-7.8978056</string>
+
+	<key>Glanmire</key>
+	<string>51.9051077,-8.4088031</string>
+
+	<key>Glanworth</key>
+	<string>52.1849615,-8.358507700000001</string>
+
+	<key>Glasheen</key>
+	<string>53.6301787,-6.2772472</string>
+
+	<key>Glaslough</key>
+	<string>54.3173641,-6.8957363</string>
+
+	<key>Glasnevin</key>
+	<string>53.3811858,-6.2786259</string>
+
+	<key>Glasthule</key>
+	<string>53.2871325,-6.1232688</string>
+
+	<key>Glenageary</key>
+	<string>53.2732275,-6.1135359</string>
+
+	<key>Glenamaddy</key>
+	<string>53.6082934,-8.5616</string>
+
+	<key>Glenamoy</key>
+	<string>54.246357,-9.714620999999999</string>
+
+	<key>Glenarm</key>
+	<string>53.3664061,-6.2573015</string>
+
+	<key>Glenavy</key>
+	<string>53.3107044,-6.2962617</string>
+
+	<key>Glenbeigh</key>
+	<string>52.0582144,-9.936608</string>
+
+	<key>Glenbrook</key>
+	<string>51.8613922,-8.3330032</string>
+
+	<key>Glencairn</key>
+	<string>52.6246937,-8.647976399999999</string>
+
+	<key>Glencolmcille</key>
+	<string>54.711063,-8.721983699999999</string>
+
+	<key>Glencree</key>
+	<string>53.2007231,-6.2960255</string>
+
+	<key>Glencullen</key>
+	<string>53.2228136,-6.2159186</string>
+
+	<key>Glendalough</key>
+	<string>52.3031056,-7.6399832</string>
+
+	<key>Glenealy</key>
+	<string>52.9665115,-6.1449739</string>
+
+	<key>Glenfarne</key>
+	<string>54.284095,-7.9864865</string>
+
+	<key>Glengad</key>
+	<string>55.333581,-7.201641</string>
+
+	<key>Glengarriff</key>
+	<string>51.7493304,-9.550431100000001</string>
+
+	<key>Glenmore</key>
+	<string>52.514309,-7.201824</string>
+
+	<key>Glenroe</key>
+	<string>52.3225905,-8.4066812</string>
+
+	<key>Glenties</key>
+	<string>54.7955232,-8.281321999999999</string>
+
+	<key>Glin</key>
+	<string>52.5704705,-9.285819</string>
+
+	<key>Glounthaune</key>
+	<string>51.9120262,-8.3331246</string>
+
+	<key>Glynn</key>
+	<string>52.5030564,-6.9058402</string>
+
+	<key>Gneeveguilla</key>
+	<string>52.1170527,-9.2701873</string>
+
+	<key>Goatstown</key>
+	<string>53.268306,-6.760454</string>
+
+	<key>Golden</key>
+	<string>52.4983493,-7.9809177</string>
+
+	<key>Goleen</key>
+	<string>51.4959069,-9.7041188</string>
+
+	<key>Goresbridge</key>
+	<string>52.6298159,-6.9938479</string>
+
+	<key>Gorey</key>
+	<string>52.673784,-6.2930652</string>
+
+	<key>Gormanston</key>
+	<string>53.632149,-6.234586</string>
+
+	<key>Gort</key>
+	<string>53.06831,-8.818089499999999</string>
+
+	<key>Gortahork</key>
+	<string>55.1176408,-8.133094699999999</string>
+
+	<key>Gortin</key>
+	<string>54.038503,-7.1471992</string>
+
+	<key>Gowran</key>
+	<string>52.6289827,-7.0667078</string>
+
+	<key>Graiguenamanagh</key>
+	<string>52.5423717,-6.9563459</string>
+
+	<key>Granagh</key>
+	<string>52.4501526,-8.752113700000001</string>
+
+	<key>Granard</key>
+	<string>53.7756497,-7.4953613</string>
+
+	<key>Grange</key>
+	<string>54.3931451,-8.5232905</string>
+
+	<key>Grangecon</key>
+	<string>52.9977776,-6.7451071</string>
+
+	<key>Grangeford</key>
+	<string>52.939866,-6.821692</string>
+
+	<key>Grangegorman</key>
+	<string>53.35662,-6.2790094</string>
+
+	<key>Greenan</key>
+	<string>53.8526036,-6.6466438</string>
+
+	<key>Greencastle</key>
+	<string>55.2055137,-6.9791785</string>
+
+	<key>Greenisland</key>
+	<string>52.6805556,-8.8044444</string>
+
+	<key>Greenore</key>
+	<string>54.0305202,-6.13257</string>
+
+	<key>Greyabbey</key>
+	<string>53.148804,-6.917666</string>
+
+	<key>Greystones</key>
+	<string>53.1391131,-6.0755357</string>
+
+	<key>Gulladuff</key>
+	<string>54.7425,-8.0480556</string>
+
+	<key>Gurteen/Gorteen</key>
+	<string>53.993434,-8.512136999999999</string>
+
+	<key>Gweedore</key>
+	<string>55.0516522,-8.232705599999999</string>
+
+	<key>Gweesalia</key>
+	<string>54.11183,-9.903309999999999</string>
+
+	<key>Hacketstown</key>
+	<string>52.865785,-6.558693</string>
+
+	<key>Halfway</key>
+	<string>51.8019466,-8.5731365</string>
+
+	<key>Harold's Cross</key>
+	<string>53.3256563,-6.2736746</string>
+
+	<key>Hawkfield</key>
+	<string>53.1981368,-6.8228133</string>
+
+	<key>Headford</key>
+	<string>53.4690274,-9.105393299999999</string>
+
+	<key>Helen's Bay</key>
+	<string>52.2654383,-6.3826925</string>
+
+	<key>Helvick Head</key>
+	<string>52.0527778,-7.5394444</string>
+
+	<key>Herbertstown</key>
+	<string>52.5150251,-8.4677764</string>
+
+	<key>Hillsborough</key>
+	<string>52.9640398,-7.8298846</string>
+
+	<key>Hilltown</key>
+	<string>53.3950217,-6.4658634</string>
+
+	<key>Hollyford</key>
+	<string>52.6334367,-8.111200999999999</string>
+
+	<key>Hollyfort</key>
+	<string>52.7164667,-6.3485555</string>
+
+	<key>Hollygrove</key>
+	<string>51.9238912,-8.174627299999999</string>
+
+	<key>Hollywood</key>
+	<string>53.0916505,-6.5953804</string>
+
+	<key>Holycross</key>
+	<string>52.6404213,-7.869497</string>
+
+	<key>Holywood</key>
+	<string>53.0916505,-6.5953804</string>
+
+	<key>Horse and Jockey</key>
+	<string>52.6160186,-7.7757374</string>
+
+	<key>Horseleap</key>
+	<string>53.466667,-8.666667</string>
+
+	<key>Hospital</key>
+	<string>52.4722946,-8.4316116</string>
+
+	<key>Howth</key>
+	<string>53.3868498,-6.0680424</string>
+
+	<key>Inagh</key>
+	<string>52.876193,-9.1718703</string>
+
+	<key>Inch</key>
+	<string>53.0034618,-6.9200057</string>
+
+	<key>Inchicore</key>
+	<string>53.3402,-6.315</string>
+
+	<key>Inistioge</key>
+	<string>52.48843,-7.0655176</string>
+
+	<key>Innishannon</key>
+	<string>51.7659263,-8.6583591</string>
+
+	<key>Inniskeen</key>
+	<string>54.0034067,-6.5830036</string>
+
+	<key>Inverin</key>
+	<string>53.2462035,-9.3651903</string>
+
+	<key>Irishtown</key>
+	<string>53.6621652,-8.893364200000001</string>
+
+	<key>Islandbridge</key>
+	<string>53.3482521,-6.3082981</string>
+
+	<key>Islandeady</key>
+	<string>53.830759,-9.3858538</string>
+
+	<key>Jamestown</key>
+	<string>53.926878,-8.029417499999999</string>
+
+	<key>Jenkinstown</key>
+	<string>54.0143633,-6.3142342</string>
+
+	<key>Jobstown</key>
+	<string>53.2789328,-6.4070601</string>
+
+	<key>Johnstown</key>
+	<string>52.7485457,-7.5569784</string>
+
+	<key>Johnswell</key>
+	<string>52.7028961,-7.1699672</string>
+
+	<key>Jonesborough</key>
+	<string>54.091822,-6.363423</string>
+
+	<key>Jordanstown</key>
+	<string>53.4371578,-6.81543</string>
+
+	<key>Julianstown</key>
+	<string>53.6744247,-6.2863653</string>
+
+	<key>Kanturk</key>
+	<string>52.1764414,-8.904036700000001</string>
+
+	<key>Keadue</key>
+	<string>54.0495107,-8.137109000000001</string>
+
+	<key>Keady</key>
+	<string>55.0854631,-7.2759834</string>
+
+	<key>Keash</key>
+	<string>54.0505387,-8.4430022</string>
+
+	<key>Keel</key>
+	<string>53.9757971,-10.0839173</string>
+
+	<key>Keenagh</key>
+	<string>53.6234585,-7.8160864</string>
+
+	<key>Kells</key>
+	<string>53.725821,-6.8791723</string>
+
+	<key>Kenmare</key>
+	<string>51.8768137,-9.584795099999999</string>
+
+	<key>Kentstown</key>
+	<string>53.6274068,-6.52502</string>
+
+	<key>Kerrykeel</key>
+	<string>55.1372819,-7.6664206</string>
+
+	<key>Kesh</key>
+	<string>54.0505387,-8.4430022</string>
+
+	<key>Keshcarrigan</key>
+	<string>54.0181554,-7.9445084</string>
+
+	<key>Kilbaha</key>
+	<string>52.5718146,-9.8594092</string>
+
+	<key>Kilbarrack</key>
+	<string>53.3885,-6.16712</string>
+
+	<key>Kilbeggan</key>
+	<string>53.3666932,-7.4962507</string>
+
+	<key>Kilbeheny</key>
+	<string>52.2941553,-8.205414899999999</string>
+
+	<key>Kilberry</key>
+	<string>53.0289417,-7.0149123</string>
+
+	<key>Kilbride</key>
+	<string>53.196855,-6.456876</string>
+
+	<key>Kilbrien</key>
+	<string>52.1890245,-7.6563424</string>
+
+	<key>Kilbrittain</key>
+	<string>51.6742407,-8.687926600000001</string>
+
+	<key>Kilcar</key>
+	<string>54.6327889,-8.5928474</string>
+
+	<key>Kilcock</key>
+	<string>53.4004103,-6.6680707</string>
+
+	<key>Kilcogy</key>
+	<string>53.8308275,-7.4270608</string>
+
+	<key>Kilcolgan</key>
+	<string>53.2124675,-8.8724306</string>
+
+	<key>Kilconnell</key>
+	<string>53.3296736,-8.401683</string>
+
+	<key>Kilcoo</key>
+	<string>52.9865041,-7.0367431</string>
+
+	<key>Kilcoole</key>
+	<string>53.1078779,-6.0667472</string>
+
+	<key>Kilcormac</key>
+	<string>53.1776334,-7.7273396</string>
+
+	<key>Kilcornan</key>
+	<string>53.504885,-7.775648</string>
+
+	<key>Kilcullen</key>
+	<string>53.1304185,-6.7456316</string>
+
+	<key>Kildalkey</key>
+	<string>53.5691671,-6.9068177</string>
+
+	<key>Kildangan</key>
+	<string>53.1038758,-7.0137494</string>
+
+	<key>Kildare</key>
+	<string>53.1598293,-6.9089975</string>
+
+	<key>Kildavin</key>
+	<string>52.6844954,-6.6866589</string>
+
+	<key>Kildimo</key>
+	<string>52.6234484,-8.810679</string>
+
+	<key>Kildress</key>
+	<string>53.1598293,-6.9089975</string>
+
+	<key>Kildysart</key>
+	<string>52.673766,-9.1095243</string>
+
+	<key>Kilfenora</key>
+	<string>52.9886534,-9.218554599999999</string>
+
+	<key>Kilfinane</key>
+	<string>52.359294,-8.4717476</string>
+
+	<key>Kilfinny</key>
+	<string>52.5117769,-8.8044247</string>
+
+	<key>Kilflynn</key>
+	<string>52.3507453,-9.622510500000001</string>
+
+	<key>Kilgarvan</key>
+	<string>51.9037251,-9.440075800000001</string>
+
+	<key>Kilglass</key>
+	<string>54.2309869,-9.061432699999999</string>
+
+	<key>Kilgobinet</key>
+	<string>51.9162131,-8.753413999999999</string>
+
+	<key>Kilkee</key>
+	<string>52.6781045,-9.6480465</string>
+
+	<key>Kilkeel</key>
+	<string>52.6781045,-9.6480465</string>
+
+	<key>Kilkelly</key>
+	<string>53.8725571,-8.848651500000001</string>
+
+	<key>Kilkenny</key>
+	<string>52.6537541,-7.2479833</string>
+
+	<key>Kilkerrin</key>
+	<string>53.553284,-8.567107</string>
+
+	<key>Kilkieran</key>
+	<string>52.6987924,-7.2004057</string>
+
+	<key>Kill</key>
+	<string>52.1793944,-7.3349836</string>
+
+	<key>Kill O' The Grange</key>
+	<string>53.2801425,-6.1590751</string>
+
+	<key>Killala</key>
+	<string>54.211451,-9.220242199999999</string>
+
+	<key>Killaloe</key>
+	<string>52.8067765,-8.441588400000001</string>
+
+	<key>Killanny</key>
+	<string>54.385238,-7.072717</string>
+
+	<key>Killargue</key>
+	<string>54.22944,-8.211342</string>
+
+	<key>Killarney</key>
+	<string>52.0597857,-9.506935199999999</string>
+
+	<key>Killashee</key>
+	<string>53.6817214,-7.8850566</string>
+
+	<key>Killea</key>
+	<string>52.1643096,-7.0019564</string>
+
+	<key>Killeedy</key>
+	<string>52.3857581,-9.0724363</string>
+
+	<key>Killeen</key>
+	<string>53.0891602,-7.9393525</string>
+
+	<key>Killeigh</key>
+	<string>53.2131735,-7.448935</string>
+
+	<key>Killenaule</key>
+	<string>52.5687416,-7.6735737</string>
+
+	<key>Killeshandra</key>
+	<string>54.0148617,-7.5264396</string>
+
+	<key>Killeshin</key>
+	<string>52.8505576,-6.9978264</string>
+
+	<key>Killester</key>
+	<string>53.3776024,-6.2069991</string>
+
+	<key>Killimer</key>
+	<string>52.6159395,-9.3906551</string>
+
+	<key>Killimor</key>
+	<string>53.1651321,-8.2889246</string>
+
+	<key>Killinaspick</key>
+	<string>52.3413982,-7.253109</string>
+
+	<key>Killincarrig</key>
+	<string>53.1431213,-6.0637223</string>
+
+	<key>Killiney</key>
+	<string>53.2533472,-6.1121514</string>
+
+	<key>Killinierin</key>
+	<string>52.729573,-6.280613</string>
+
+	<key>Killoe</key>
+	<string>53.756422,-7.6975762</string>
+
+	<key>Killorglin</key>
+	<string>52.1101834,-9.7896334</string>
+
+	<key>Killough</key>
+	<string>53.246822,-9.265494</string>
+
+	<key>Killybegs</key>
+	<string>54.6365443,-8.4451936</string>
+
+	<key>Killylea</key>
+	<string>54.1272182,-7.3968678</string>
+
+	<key>Kilmacanogue</key>
+	<string>53.1674935,-6.1364538</string>
+
+	<key>Kilmacow</key>
+	<string>52.3106472,-7.1730584</string>
+
+	<key>Kilmacrenan</key>
+	<string>55.0320881,-7.7755506</string>
+
+	<key>Kilmacthomas</key>
+	<string>52.2052368,-7.4268162</string>
+
+	<key>Kilmacud</key>
+	<string>53.2830101,-6.2239909</string>
+
+	<key>Kilmaine</key>
+	<string>53.5806361,-9.1245289</string>
+
+	<key>Kilmainham</key>
+	<string>53.342,-6.308</string>
+
+	<key>Kilmaley</key>
+	<string>52.8180275,-9.108698199999999</string>
+
+	<key>Kilmallock</key>
+	<string>52.3988947,-8.573310899999999</string>
+
+	<key>Kilmanahan</key>
+	<string>53.342,-6.308</string>
+
+	<key>Kilmead</key>
+	<string>53.0342471,-6.8984089</string>
+
+	<key>Kilmeaden</key>
+	<string>52.2341133,-7.2435707</string>
+
+	<key>Kilmeague</key>
+	<string>53.2586512,-6.8495169</string>
+
+	<key>Kilmeedy</key>
+	<string>52.4174419,-8.9183416</string>
+
+	<key>Kilmichael</key>
+	<string>51.833738,-9.039922499999999</string>
+
+	<key>Kilmihil</key>
+	<string>52.7221919,-9.317870900000001</string>
+
+	<key>Kilmoganny</key>
+	<string>52.462197,-7.3296967</string>
+
+	<key>Kilmore</key>
+	<string>52.2057913,-6.5496364</string>
+
+	<key>Kilmore Quay</key>
+	<string>52.175413,-6.584333</string>
+
+	<key>Kilmoyler</key>
+	<string>52.5166667,-7.5833333</string>
+
+	<key>Kilmuckridge</key>
+	<string>52.5107041,-6.2845297</string>
+
+	<key>Kilmurry McMahon</key>
+	<string>52.653556,-9.298847</string>
+
+	<key>Kilnaleck</key>
+	<string>53.8629832,-7.3209785</string>
+
+	<key>Kilnamanagh</key>
+	<string>54.17901,-8.523303</string>
+
+	<key>Kilnamartyra</key>
+	<string>51.8991561,-9.0826013</string>
+
+	<key>Kilnamona</key>
+	<string>52.26994,-8.13364</string>
+
+	<key>Kilpedder</key>
+	<string>53.1135882,-6.1049126</string>
+
+	<key>Kilronan</key>
+	<string>53.123708,-9.667458999999999</string>
+
+	<key>Kilrossanty</key>
+	<string>52.1804342,-7.5432745</string>
+
+	<key>Kilrush</key>
+	<string>52.6362963,-9.487203900000001</string>
+
+	<key>Kiltealy</key>
+	<string>52.5668394,-6.7422935</string>
+
+	<key>Kilteel</key>
+	<string>53.2351267,-6.5228196</string>
+
+	<key>Kilteely-Dromkeen</key>
+	<string>51.8743872,-8.9792367</string>
+
+	<key>Kiltegan</key>
+	<string>52.9055794,-6.6058051</string>
+
+	<key>Kilternan</key>
+	<string>53.2305945,-6.1957096</string>
+
+	<key>Kiltimagh</key>
+	<string>53.8501452,-9.000119</string>
+
+	<key>Kiltullagh</key>
+	<string>53.2749044,-8.6368422</string>
+
+	<key>Kiltyclogher</key>
+	<string>54.356373,-8.0378402</string>
+
+	<key>Kilumney</key>
+	<string>51.8675211,-8.6651934</string>
+
+	<key>Kilwatermoy</key>
+	<string>52.066894,-7.958182</string>
+
+	<key>Kilworth</key>
+	<string>52.1753326,-8.251416900000001</string>
+
+	<key>Kimmage</key>
+	<string>53.3114139,-6.3051122</string>
+
+	<key>Kingscourt</key>
+	<string>53.9038105,-6.807041</string>
+
+	<key>Kinlough</key>
+	<string>54.4496889,-8.2883532</string>
+
+	<key>Kinnegad</key>
+	<string>53.453764,-7.1001062</string>
+
+	<key>Kinnitty</key>
+	<string>53.0975399,-7.7243469</string>
+
+	<key>Kinsale</key>
+	<string>51.7064401,-8.523301999999999</string>
+
+	<key>Kinsalebeg</key>
+	<string>51.9533823,-7.8676995</string>
+
+	<key>Kinsealy</key>
+	<string>53.4249994,-6.1762369</string>
+
+	<key>Kinvara</key>
+	<string>53.1384138,-8.934208</string>
+
+	<key>Knightstown</key>
+	<string>51.9260337,-10.2875316</string>
+
+	<key>Knock</key>
+	<string>53.7941069,-8.919802000000001</string>
+
+	<key>Knockaderry</key>
+	<string>52.4640859,-8.966108</string>
+
+	<key>Knockananna</key>
+	<string>52.8728564,-6.4972569</string>
+
+	<key>Knockanore</key>
+	<string>53.9123865,-7.3894979</string>
+
+	<key>Knockatallon</key>
+	<string>54.2949301,-7.1500126</string>
+
+	<key>Knockavilla</key>
+	<string>51.8009536,-8.684166599999999</string>
+
+	<key>Knockbridge</key>
+	<string>53.9729423,-6.4854728</string>
+
+	<key>Knockcroghery</key>
+	<string>53.5757543,-8.0977902</string>
+
+	<key>Knockgraffon</key>
+	<string>52.406083,-7.922175</string>
+
+	<key>Knocklong</key>
+	<string>52.4342308,-8.406550899999999</string>
+
+	<key>Knocklyon</key>
+	<string>53.2805486,-6.3312694</string>
+
+	<key>Knockmore</key>
+	<string>54.0237209,-9.1739496</string>
+
+	<key>Knocknagoshel</key>
+	<string>52.3305961,-9.3794366</string>
+
+	<key>Knocknagree</key>
+	<string>52.1239619,-9.208165299999999</string>
+
+	<key>Knockraha</key>
+	<string>51.9568871,-8.342537699999999</string>
+
+	<key>Knocktopher</key>
+	<string>52.4818961,-7.212788</string>
+
+	<key>Knockvicar</key>
+	<string>54.001737,-8.194400999999999</string>
+
+	<key>Lacken</key>
+	<string>52.4001964,-6.877793</string>
+
+	<key>Lahinch</key>
+	<string>52.9315705,-9.3478938</string>
+
+	<key>Lanesborough</key>
+	<string>53.6739447,-7.9897614</string>
+
+	<key>Laragh</key>
+	<string>53.0088685,-6.2995516</string>
+
+	<key>Largydonnell</key>
+	<string>54.412708,-8.3127526</string>
+
+	<key>Larne</key>
+	<string>54.8551031,-5.8112545</string>
+
+	<key>Laurencetown</key>
+	<string>53.2367466,-8.1758647</string>
+
+	<key>Lawrencetown</key>
+	<string>53.2375911,-8.1737783</string>
+
+	<key>Laytown</key>
+	<string>53.679567,-6.240583</string>
+
+	<key>Leap</key>
+	<string>51.5816222,-9.143423500000001</string>
+
+	<key>Lecarrow</key>
+	<string>54.1464421,-8.098108</string>
+
+	<key>Leenaun</key>
+	<string>53.5948535,-9.6954963</string>
+
+	<key>Leitrim</key>
+	<string>53.9893255,-8.062922</string>
+
+	<key>Leixlip</key>
+	<string>53.361154,-6.489068</string>
+
+	<key>Lemybrien</key>
+	<string>52.1691747,-7.5217378</string>
+
+	<key>Leopardstown</key>
+	<string>53.2702856,-6.2016514</string>
+
+	<key>Lettercallow</key>
+	<string>53.2983203,-9.6922294</string>
+
+	<key>Letterfrack</key>
+	<string>53.55474,-9.951138</string>
+
+	<key>Letterkenny</key>
+	<string>54.9490373,-7.7342166</string>
+
+	<key>Lettermore</key>
+	<string>54.0738103,-7.1875633</string>
+
+	<key>Lifford</key>
+	<string>54.8344171,-7.4779249</string>
+
+	<key>Limerick</key>
+	<string>52.6638571,-8.626772600000001</string>
+
+	<key>Lios Póil</key>
+	<string>52.1420735,-10.1652261</string>
+
+	<key>Lisburn</key>
+	<string>53.3508875,-6.2725449</string>
+
+	<key>Liscannor</key>
+	<string>52.9395274,-9.3926322</string>
+
+	<key>Liscarroll</key>
+	<string>52.2614953,-8.8048167</string>
+
+	<key>Lisdoonvarna</key>
+	<string>53.0317957,-9.2908638</string>
+
+	<key>Lisduggan</key>
+	<string>52.2445148,-7.1444716</string>
+
+	<key>Lisgoold</key>
+	<string>51.9754751,-8.2165213</string>
+
+	<key>Lislea</key>
+	<string>54.0739145,-8.0974273</string>
+
+	<key>Lismire</key>
+	<string>52.2283863,-8.945488299999999</string>
+
+	<key>Lismore</key>
+	<string>52.1383174,-7.9302342</string>
+
+	<key>Lisronagh</key>
+	<string>52.4181494,-7.7013189</string>
+
+	<key>Lisryan</key>
+	<string>53.728115,-7.503415</string>
+
+	<key>Lisselton</key>
+	<string>52.4961328,-9.5773423</string>
+
+	<key>Lissycasey</key>
+	<string>52.7436563,-9.1596814</string>
+
+	<key>Listowel</key>
+	<string>52.4476869,-9.488242400000001</string>
+
+	<key>Littleton</key>
+	<string>52.641149,-7.740257</string>
+
+	<key>Lixnaw</key>
+	<string>52.4020409,-9.616086900000001</string>
+
+	<key>Lobinstown</key>
+	<string>53.7874554,-6.6521415</string>
+
+	<key>Lombardstown</key>
+	<string>52.1185249,-8.783006200000001</string>
+
+	<key>Longford</key>
+	<string>53.7258242,-7.7987351</string>
+
+	<key>Longstone</key>
+	<string>52.5087968,-8.3039918</string>
+
+	<key>Longwood</key>
+	<string>53.4542488,-6.9241927</string>
+
+	<key>Lorrha</key>
+	<string>53.093753,-8.122348799999999</string>
+
+	<key>Lough Gowna</key>
+	<string>53.85,-7.5666667</string>
+
+	<key>Loughgall</key>
+	<string>53.9188889,-9.871388899999999</string>
+
+	<key>Loughill</key>
+	<string>53.617447,-7.8100934</string>
+
+	<key>Loughinisland</key>
+	<string>54.9325,-8.215277800000001</string>
+
+	<key>Loughlinstown</key>
+	<string>53.251765,-6.140224</string>
+
+	<key>Loughmore</key>
+	<string>52.745507,-7.819153</string>
+
+	<key>Loughrea</key>
+	<string>53.2000301,-8.569611999999999</string>
+
+	<key>Louisburgh</key>
+	<string>53.7608421,-9.8087736</string>
+
+	<key>Louth</key>
+	<string>53.8682835,-6.4471113</string>
+
+	<key>Lucan</key>
+	<string>53.3575397,-6.4456022</string>
+
+	<key>Lullymore</key>
+	<string>53.2689957,-6.9425075</string>
+
+	<key>Lurgan</key>
+	<string>53.19785,-8.6431228</string>
+
+	<key>Lurganboy</key>
+	<string>54.3125914,-8.2153879</string>
+
+	<key>Lusk</key>
+	<string>53.5270445,-6.1648838</string>
+
+	<key>Lyre</key>
+	<string>52.080977,-8.861053800000001</string>
+
+	<key>Lyreacrompane</key>
+	<string>52.3511344,-9.4932917</string>
+
+	<key>Maam Cross</key>
+	<string>53.4558395,-9.5408738</string>
+
+	<key>Macroom</key>
+	<string>51.905312,-8.957858</string>
+
+	<key>Madden</key>
+	<string>53.252595,-6.1277849</string>
+
+	<key>Maghera</key>
+	<string>52.8785922,-9.126169300000001</string>
+
+	<key>Magherafelt</key>
+	<string>54.7554017,-6.6060286</string>
+
+	<key>Maghery</key>
+	<string>54.9268418,-8.445603699999999</string>
+
+	<key>Mahon Bridge</key>
+	<string>52.2039965,-7.5002748</string>
+
+	<key>Malahide</key>
+	<string>53.4526021,-6.1549183</string>
+
+	<key>Malin</key>
+	<string>55.2934898,-7.2636362</string>
+
+	<key>Mallow</key>
+	<string>52.1385965,-8.6462977</string>
+
+	<key>Manor Kilbride</key>
+	<string>53.1989937,-6.4671468</string>
+
+	<key>Manorcunningham</key>
+	<string>54.9523529,-7.6216772</string>
+
+	<key>Manorhamilton</key>
+	<string>54.3041056,-8.1748498</string>
+
+	<key>Maree</key>
+	<string>53.2316422,-8.949760700000001</string>
+
+	<key>Marino</key>
+	<string>53.3717599,-6.2381727</string>
+
+	<key>Markethill</key>
+	<string>53.4907925,-7.6708128</string>
+
+	<key>Maum</key>
+	<string>53.457512,-10.0424871</string>
+
+	<key>Mayfield</key>
+	<string>53.7191045,-9.020756799999999</string>
+
+	<key>Maynooth</key>
+	<string>53.3812167,-6.5922599</string>
+
+	<key>Mayo Abbey</key>
+	<string>53.9722509,-9.4862511</string>
+
+	<key>Meelick</key>
+	<string>52.700975,-8.653504699999999</string>
+
+	<key>Meelin</key>
+	<string>52.2635592,-9.032779100000001</string>
+
+	<key>Meeting of the Waters</key>
+	<string>52.8831889,-6.2298417</string>
+
+	<key>Menlough</key>
+	<string>53.3057588,-9.071959400000001</string>
+
+	<key>Middletown</key>
+	<string>53.8838764,-7.4771878</string>
+
+	<key>Midleton</key>
+	<string>51.9160695,-8.1816374</string>
+
+	<key>Milestone</key>
+	<string>52.673012,-8.080576000000001</string>
+
+	<key>Milford</key>
+	<string>55.0879069,-7.6985969</string>
+
+	<key>Millstreet</key>
+	<string>52.0596439,-9.0630094</string>
+
+	<key>Milltown</key>
+	<string>52.1451113,-9.7165397</string>
+
+	<key>Miltown Malbay</key>
+	<string>52.9292397,-9.346258199999999</string>
+
+	<key>Minane Bridge</key>
+	<string>51.7634626,-8.3718334</string>
+
+	<key>Mine Head</key>
+	<string>51.9919444,-7.5872222</string>
+
+	<key>Mitchelstown</key>
+	<string>52.2654423,-8.270937200000001</string>
+
+	<key>Moate</key>
+	<string>53.3951755,-7.7151378</string>
+
+	<key>Mohill</key>
+	<string>53.9224008,-7.8688395</string>
+
+	<key>Moira</key>
+	<string>54.012636,-6.4113404</string>
+
+	<key>Monagea</key>
+	<string>52.53305,-6.4783198</string>
+
+	<key>Monageer</key>
+	<string>52.53305,-6.4783198</string>
+
+	<key>Monaghan</key>
+	<string>54.2485304,-6.9691599</string>
+
+	<key>Monamolin</key>
+	<string>52.5550078,-6.3484642</string>
+
+	<key>Monard</key>
+	<string>52.5120812,-8.2262079</string>
+
+	<key>Monaseed</key>
+	<string>52.7227243,-6.3953823</string>
+
+	<key>Monasteraden</key>
+	<string>53.9426505,-8.4980631</string>
+
+	<key>Monasterevin</key>
+	<string>53.1394928,-7.0609221</string>
+
+	<key>Moneenroe</key>
+	<string>52.8297195,-7.1616608</string>
+
+	<key>Moneygall</key>
+	<string>52.8816309,-7.9559568</string>
+
+	<key>Moneymore</key>
+	<string>55.0293953,-8.1406045</string>
+
+	<key>Monivea</key>
+	<string>53.3755826,-8.702951799999999</string>
+
+	<key>Monkstown</key>
+	<string>51.850379,-8.333470999999999</string>
+
+	<key>Montenotte</key>
+	<string>51.90272,-8.4525098</string>
+
+	<key>Mooncoin</key>
+	<string>52.2956637,-7.2596413</string>
+
+	<key>Moone</key>
+	<string>52.9758729,-6.8163977</string>
+
+	<key>Mornington</key>
+	<string>53.7212606,-6.284014</string>
+
+	<key>Mothel</key>
+	<string>52.2984997,-7.4196261</string>
+
+	<key>Mount Mellaray</key>
+	<string>52.1898112,-7.844087</string>
+
+	<key>Mount Merrion</key>
+	<string>53.303683,-6.213421</string>
+
+	<key>Mountbellew</key>
+	<string>53.472261,-8.503233</string>
+
+	<key>Mountbolus</key>
+	<string>53.1974033,-7.6278081</string>
+
+	<key>Mountcollins</key>
+	<string>52.3193202,-9.2316818</string>
+
+	<key>Mountmellick</key>
+	<string>53.1175999,-7.3306318</string>
+
+	<key>Mountnugent</key>
+	<string>53.818668,-7.2562503</string>
+
+	<key>Mountrath</key>
+	<string>53.0007965,-7.4764021</string>
+
+	<key>Mountshannon</key>
+	<string>52.9325109,-8.431788600000001</string>
+
+	<key>Mourneabbey</key>
+	<string>52.0705138,-8.6372938</string>
+
+	<key>Moville</key>
+	<string>55.1887794,-7.0405921</string>
+
+	<key>Moy</key>
+	<string>53.464668,-6.75013</string>
+
+	<key>Moycullen</key>
+	<string>53.3390963,-9.1804162</string>
+
+	<key>Moydow</key>
+	<string>53.5772321,-8.172431899999999</string>
+
+	<key>Moynalty</key>
+	<string>53.7897837,-6.885629</string>
+
+	<key>Moyvane</key>
+	<string>52.5000401,-9.367311900000001</string>
+
+	<key>Muckanaghederdauhaulia</key>
+	<string>53.3376638,-9.5659036</string>
+
+	<key>Muff</key>
+	<string>55.0672403,-7.2691672</string>
+
+	<key>Muine Bheag</key>
+	<string>52.7030774,-6.9586558</string>
+
+	<key>Mulhuddart</key>
+	<string>53.4773552,-6.427116</string>
+
+	<key>Mulhussey</key>
+	<string>53.4371483,-6.6225206</string>
+
+	<key>Mullagh</key>
+	<string>53.8107056,-6.9518547</string>
+
+	<key>Mullaghbawn</key>
+	<string>53.9089281,-7.5598618</string>
+
+	<key>Mullaghbrack</key>
+	<string>53.9277533,-7.8135943</string>
+
+	<key>Mullaghglass</key>
+	<string>53.5968737,-9.9411541</string>
+
+	<key>Mullaghmore</key>
+	<string>54.4667691,-8.450082999999999</string>
+
+	<key>Mullinavat</key>
+	<string>52.3678659,-7.1709564</string>
+
+	<key>Mullingar</key>
+	<string>53.5247659,-7.3378658</string>
+
+	<key>Mulranny</key>
+	<string>53.9054451,-9.778708699999999</string>
+
+	<key>Mungret</key>
+	<string>52.6353727,-8.6909124</string>
+
+	<key>Murrintown</key>
+	<string>52.2871361,-6.5236746</string>
+
+	<key>Murroe</key>
+	<string>55.1621883,-8.0206137</string>
+
+	<key>Myshall</key>
+	<string>52.6870284,-6.7792528</string>
+
+	<key>Naas</key>
+	<string>53.2192615,-6.6615099</string>
+
+	<key>Nad</key>
+	<string>52.0708098,-8.836476599999999</string>
+
+	<key>Narraghmore</key>
+	<string>53.0490336,-6.830951</string>
+
+	<key>Naul</key>
+	<string>53.5851943,-6.2922304</string>
+
+	<key>Navan</key>
+	<string>53.6546019,-6.6888171</string>
+
+	<key>Nenagh</key>
+	<string>52.86589,-8.195389</string>
+
+	<key>New Inn</key>
+	<string>53.3021751,-8.487546500000001</string>
+
+	<key>New Ross</key>
+	<string>52.3958059,-6.9459646</string>
+
+	<key>Newbawn</key>
+	<string>52.9184517,-6.1925661</string>
+
+	<key>Newbliss</key>
+	<string>54.157979,-7.1366822</string>
+
+	<key>Newbridge</key>
+	<string>53.1804734,-6.7959252</string>
+
+	<key>Newcastle</key>
+	<string>53.300549,-6.4980805</string>
+
+	<key>Newcastle West</key>
+	<string>52.4502114,-9.0540989</string>
+
+	<key>Newcestown</key>
+	<string>51.7823652,-8.870118</string>
+
+	<key>Newmarket</key>
+	<string>52.2132336,-9.0010353</string>
+
+	<key>Newmarket-on-Fergus</key>
+	<string>52.7605282,-8.8957418</string>
+
+	<key>Newport</key>
+	<string>52.710492,-8.407088999999999</string>
+
+	<key>Newry</key>
+	<string>54.1780417,-6.3357687</string>
+
+	<key>Newtown</key>
+	<string>52.8623235,-7.1121125</string>
+
+	<key>Newtown Cunningham</key>
+	<string>54.9976525,-7.50624</string>
+
+	<key>Newtownabbey</key>
+	<string>54.684823,-5.9658685</string>
+
+	<key>Newtownards</key>
+	<string>54.5945489,-5.8407388</string>
+
+	<key>Newtownbutler</key>
+	<string>54.1790313,-7.2465013</string>
+
+	<key>Newtowncashel</key>
+	<string>53.5857366,-7.9412403</string>
+
+	<key>Newtownforbes</key>
+	<string>53.7679307,-7.8335912</string>
+
+	<key>Newtowngore</key>
+	<string>54.0433537,-7.6760037</string>
+
+	<key>Newtownhamilton</key>
+	<string>54.9509404,-7.4052163</string>
+
+	<key>Newtownmountkennedy</key>
+	<string>53.0911104,-6.1122035</string>
+
+	<key>Ninemilehouse</key>
+	<string>51.9697192,-7.7685794</string>
+
+	<key>Nobber</key>
+	<string>53.8198157,-6.7476599</string>
+
+	<key>Nohoval</key>
+	<string>51.7236753,-8.401362000000001</string>
+
+	<key>Nurney</key>
+	<string>53.0966655,-6.9482264</string>
+
+	<key>O'Briensbridge</key>
+	<string>52.7539552,-8.500397899999999</string>
+
+	<key>Ogonnelloe</key>
+	<string>52.8876773,-8.457440999999999</string>
+
+	<key>Old Leighlin</key>
+	<string>52.7369656,-7.0213766</string>
+
+	<key>Old Parish</key>
+	<string>52.0081529,-7.6354196</string>
+
+	<key>Oldbawn</key>
+	<string>53.277627,-6.364323</string>
+
+	<key>Oldcastle</key>
+	<string>53.7693464,-7.1625098</string>
+
+	<key>Omagh</key>
+	<string>54.6003046,-7.2984019</string>
+
+	<key>Omeath</key>
+	<string>54.0899931,-6.2582558</string>
+
+	<key>Ongar</key>
+	<string>53.3953784,-6.4388902</string>
+
+	<key>Oola</key>
+	<string>52.5325,-8.258859299999999</string>
+
+	<key>Oranmore</key>
+	<string>53.2688111,-8.9290175</string>
+
+	<key>Oughterard</key>
+	<string>53.4316611,-9.319043799999999</string>
+
+	<key>Oulart</key>
+	<string>52.501777,-6.3888537</string>
+
+	<key>Ovens</key>
+	<string>51.8785516,-8.6502246</string>
+
+	<key>Oylegate</key>
+	<string>52.4207893,-6.5288061</string>
+
+	<key>Pallasgreen</key>
+	<string>52.5691269,-8.339441900000001</string>
+
+	<key>Pallaskenry</key>
+	<string>52.6440497,-8.865416099999999</string>
+
+	<key>Palmerstown</key>
+	<string>53.2829387,-8.845488599999999</string>
+
+	<key>Passage East</key>
+	<string>52.236924,-6.9719184</string>
+
+	<key>Passage West</key>
+	<string>51.8697511,-8.336545900000001</string>
+
+	<key>Patrickswell</key>
+	<string>52.5966788,-8.7148948</string>
+
+	<key>Paulstown</key>
+	<string>52.6791904,-7.0214283</string>
+
+	<key>Peterswell</key>
+	<string>53.1113527,-8.7391899</string>
+
+	<key>Phibsborough</key>
+	<string>53.3594881,-6.2771091</string>
+
+	<key>Piltown</key>
+	<string>52.3497836,-7.324913</string>
+
+	<key>Portarlington</key>
+	<string>53.1590285,-7.1893436</string>
+
+	<key>Portlaoise</key>
+	<string>53.0343047,-7.3018665</string>
+
+	<key>Portlaw</key>
+	<string>52.2893253,-7.3146485</string>
+
+	<key>Portmagee</key>
+	<string>51.8830806,-10.3707568</string>
+
+	<key>Portobello</key>
+	<string>53.8863542,-8.2270691</string>
+
+	<key>Portumna</key>
+	<string>53.0925398,-8.220743300000001</string>
+
+	<key>Poulaphouca</key>
+	<string>53.1333333,-6.5166667</string>
+
+	<key>Poulpeasty</key>
+	<string>52.3619377,-6.6701185</string>
+
+	<key>Prosperous</key>
+	<string>53.2883615,-6.7536565</string>
+
+	<key>Quilty</key>
+	<string>52.8151401,-9.457598600000001</string>
+
+	<key>Quin</key>
+	<string>52.8158877,-8.8642004</string>
+
+	<key>Rahan</key>
+	<string>53.28113,-7.6205379</string>
+
+	<key>Rahara</key>
+	<string>53.5217721,-8.139593700000001</string>
+
+	<key>Raheen</key>
+	<string>53.8350426,-8.259607000000001</string>
+
+	<key>Raheny</key>
+	<string>53.526668,-6.148165</string>
+
+	<key>Ramelton</key>
+	<string>55.0368805,-7.649236</string>
+
+	<key>Randalstown</key>
+	<string>52.2310371,-6.498689</string>
+
+	<key>Ranelagh</key>
+	<string>53.649765,-8.195852</string>
+
+	<key>Raphoe</key>
+	<string>54.8736878,-7.6004822</string>
+
+	<key>Rathangan</key>
+	<string>53.2209151,-6.9937695</string>
+
+	<key>Rathbran</key>
+	<string>52.9838036,-6.7099833</string>
+
+	<key>Rathcoole</key>
+	<string>53.2815586,-6.4700456</string>
+
+	<key>Rathcormac</key>
+	<string>52.0801095,-8.283459199999999</string>
+
+	<key>Rathdowney</key>
+	<string>52.8569454,-7.5875146</string>
+
+	<key>Rathdrum</key>
+	<string>52.9305764,-6.2312316</string>
+
+	<key>Rathfarnham</key>
+	<string>53.2862296,-6.2733804</string>
+
+	<key>Rathgar</key>
+	<string>53.3154464,-6.2764126</string>
+
+	<key>Rathgormack</key>
+	<string>52.3042018,-7.4978682</string>
+
+	<key>Rathkeale</key>
+	<string>52.5236709,-8.938136099999999</string>
+
+	<key>Rathmichael</key>
+	<string>53.2357707,-6.1556564</string>
+
+	<key>Rathmines</key>
+	<string>53.3225046,-6.265662</string>
+
+	<key>Rathmolyon</key>
+	<string>53.4897785,-6.806953</string>
+
+	<key>Rathmore</key>
+	<string>52.0833222,-9.2177752</string>
+
+	<key>Rathmullan</key>
+	<string>55.0943362,-7.5372542</string>
+
+	<key>Rathnew</key>
+	<string>52.9959503,-6.0809966</string>
+
+	<key>Rathnure</key>
+	<string>52.4999098,-6.7695339</string>
+
+	<key>Rathvilly</key>
+	<string>52.8808315,-6.6950281</string>
+
+	<key>Ratoath</key>
+	<string>53.5087084,-6.4601017</string>
+
+	<key>Rearcross</key>
+	<string>52.6848434,-8.2366037</string>
+
+	<key>Recess</key>
+	<string>53.4712426,-9.727120899999999</string>
+
+	<key>Redcross</key>
+	<string>52.8899114,-6.1472319</string>
+
+	<key>Redhill</key>
+	<string>54.1003268,-7.3204631</string>
+
+	<key>Redhouse</key>
+	<string>52.5842162,-7.4248653</string>
+
+	<key>Rhode</key>
+	<string>53.3489892,-7.1962092</string>
+
+	<key>Rialto</key>
+	<string>53.3415718,-6.2863132</string>
+
+	<key>Richhill</key>
+	<string>52.678076,-8.508827</string>
+
+	<key>Ringsend</key>
+	<string>53.3410735,-6.2128364</string>
+
+	<key>Riverstick</key>
+	<string>51.7751919,-8.4937518</string>
+
+	<key>Riverstown</key>
+	<string>54.1310822,-8.392535799999999</string>
+
+	<key>Robertstown</key>
+	<string>53.2688307,-6.8172819</string>
+
+	<key>Rock</key>
+	<string>54.618784,-8.247292</string>
+
+	<key>Rockcorry</key>
+	<string>54.1164627,-7.0156847</string>
+
+	<key>Roosky</key>
+	<string>53.8309127,-7.9255742</string>
+
+	<key>Roscam</key>
+	<string>53.279485,-8.972464199999999</string>
+
+	<key>Roscommon</key>
+	<string>53.6279798,-8.188635</string>
+
+	<key>Roscrea</key>
+	<string>52.955471,-7.800671</string>
+
+	<key>Rosegreen</key>
+	<string>52.4693975,-7.8294991</string>
+
+	<key>Rosenallis</key>
+	<string>53.1353634,-7.4085924</string>
+
+	<key>Roslea</key>
+	<string>52.853397,-8.9967284</string>
+
+	<key>Rosmuck</key>
+	<string>53.3441698,-9.6043821</string>
+
+	<key>Rossaveal</key>
+	<string>53.2654981,-9.5606601</string>
+
+	<key>Rosscarbery</key>
+	<string>51.5782637,-9.0328734</string>
+
+	<key>Rosses Point</key>
+	<string>54.3062474,-8.567501099999999</string>
+
+	<key>Rossinver</key>
+	<string>54.4118474,-8.409366500000001</string>
+
+	<key>Rosslare</key>
+	<string>52.2730241,-6.3865618</string>
+
+	<key>Rosslare Harbour</key>
+	<string>52.2502086,-6.3399585</string>
+
+	<key>Rossmore</key>
+	<string>51.6708753,-8.9879648</string>
+
+	<key>Rossnowlagh</key>
+	<string>54.5547283,-8.189948100000001</string>
+
+	<key>Rostrevor</key>
+	<string>53.3061486,-6.2706807</string>
+
+	<key>Roundstone</key>
+	<string>53.3958251,-9.917600500000001</string>
+
+	<key>Roundwood</key>
+	<string>53.0628764,-6.2249699</string>
+
+	<key>Royal Oak</key>
+	<string>52.7009019,-6.9854553</string>
+
+	<key>Ruan</key>
+	<string>52.9289146,-8.9927887</string>
+
+	<key>Rush</key>
+	<string>53.5207111,-6.0934741</string>
+
+	<key>Saggart</key>
+	<string>53.2787669,-6.4423369</string>
+
+	<key>Sallins</key>
+	<string>53.2521733,-6.665464</string>
+
+	<key>Sallybrook</key>
+	<string>51.9331561,-8.4001871</string>
+
+	<key>Sallynoggin</key>
+	<string>53.27763,-6.141213</string>
+
+	<key>Saltmills</key>
+	<string>52.2259627,-6.8331052</string>
+
+	<key>Sandpit, County Louth</key>
+	<string>53.8682835,-6.4471113</string>
+
+	<key>Sandycove</key>
+	<string>54.2727398,-8.580531499999999</string>
+
+	<key>Sandyford</key>
+	<string>53.2767626,-6.2242592</string>
+
+	<key>Sandymount</key>
+	<string>53.3329407,-6.2123415</string>
+
+	<key>Santry</key>
+	<string>53.3989241,-6.2469989</string>
+
+	<key>Saul</key>
+	<string>53.3255223,-6.3003961</string>
+
+	<key>Scariff</key>
+	<string>52.9110719,-8.5297771</string>
+
+	<key>Scartaglen</key>
+	<string>52.1799366,-9.4026634</string>
+
+	<key>Schull</key>
+	<string>51.5245456,-9.550277299999999</string>
+
+	<key>Scotch Street</key>
+	<string>53.4225299,-7.9295324</string>
+
+	<key>Scotshouse</key>
+	<string>54.1221304,-7.24889</string>
+
+	<key>Scotstown</key>
+	<string>54.2777421,-7.0673968</string>
+
+	<key>Seaforde</key>
+	<string>53.9589593,-6.3688221</string>
+
+	<key>Shanagarry</key>
+	<string>51.8533136,-8.0212889</string>
+
+	<key>Shanagolden</key>
+	<string>52.5722838,-9.097879600000001</string>
+
+	<key>Shanahoe</key>
+	<string>52.9262923,-7.420797</string>
+
+	<key>Shanbally</key>
+	<string>51.8319574,-8.354863</string>
+
+	<key>Shanballymore</key>
+	<string>52.2202527,-8.4749474</string>
+
+	<key>Shankill</key>
+	<string>53.2213416,-6.1662865</string>
+
+	<key>Shannon</key>
+	<string>52.7107429,-8.878969100000001</string>
+
+	<key>Shannon Harbour</key>
+	<string>53.2215034,-7.9494206</string>
+
+	<key>Shannonbridge</key>
+	<string>53.2787072,-8.0465541</string>
+
+	<key>Shercock</key>
+	<string>53.9932084,-6.8970604</string>
+
+	<key>Shillelagh</key>
+	<string>52.7547465,-6.536144</string>
+
+	<key>Shinrone</key>
+	<string>52.9820321,-7.9260843</string>
+
+	<key>Shrule</key>
+	<string>53.520558,-9.087606900000001</string>
+
+	<key>Sixmilebridge</key>
+	<string>52.7419986,-8.7723496</string>
+
+	<key>Skehana</key>
+	<string>52.8518063,-7.79052</string>
+
+	<key>Skerries</key>
+	<string>53.580788,-6.1069911</string>
+
+	<key>Skibbereen</key>
+	<string>51.5487973,-9.263719099999999</string>
+
+	<key>Skreen</key>
+	<string>53.587283,-6.558129</string>
+
+	<key>Skryne</key>
+	<string>53.5856494,-6.5609831</string>
+
+	<key>Slane</key>
+	<string>53.7095678,-6.53999</string>
+
+	<key>Slieverue</key>
+	<string>54.0997392,-9.1074798</string>
+
+	<key>Smithborough</key>
+	<string>54.2215819,-7.097707</string>
+
+	<key>Smithfield</key>
+	<string>52.1043444,-8.742280600000001</string>
+
+	<key>Sneem</key>
+	<string>51.837322,-9.901869700000001</string>
+
+	<key>Spiddal</key>
+	<string>53.2442326,-9.307606</string>
+
+	<key>St Johnston</key>
+	<string>54.9360094,-7.4615678</string>
+
+	<key>St Mullin's</key>
+	<string>52.4833,-6.8999</string>
+
+	<key>Stamullen</key>
+	<string>53.6281659,-6.2615592</string>
+
+	<key>Staplestown</key>
+	<string>53.3305222,-6.7667952</string>
+
+	<key>Stepaside</key>
+	<string>53.2514551,-6.2117568</string>
+
+	<key>Stewartstown</key>
+	<string>45.0061571,-71.50786170000001</string>
+
+	<key>Stillorgan</key>
+	<string>53.2894582,-6.2006978</string>
+
+	<key>Stonetown</key>
+	<string>53.9644099,-6.6008383</string>
+
+	<key>Stoneybatter</key>
+	<string>53.3569284,-6.2905568</string>
+
+	<key>Stoneyford</key>
+	<string>52.5370678,-7.2292695</string>
+
+	<key>Strabane</key>
+	<string>54.8234317,-7.4683739</string>
+
+	<key>Stradbally</key>
+	<string>53.0163106,-7.1474121</string>
+
+	<key>Stradone</key>
+	<string>53.9828351,-7.236493</string>
+
+	<key>Straffan</key>
+	<string>53.3124855,-6.6081049</string>
+
+	<key>Strandhill</key>
+	<string>54.2675584,-8.595431899999999</string>
+
+	<key>Strangford</key>
+	<string>53.3558585,-6.2366231</string>
+
+	<key>Stranorlar</key>
+	<string>54.8049204,-7.7677392</string>
+
+	<key>Stratford-on-Slaney</key>
+	<string>52.9898315,-6.6741913</string>
+
+	<key>Strokestown</key>
+	<string>53.7768029,-8.1039903</string>
+
+	<key>Summerhill</key>
+	<string>53.4819072,-6.7308403</string>
+
+	<key>Suncroft</key>
+	<string>53.1077958,-6.8612026</string>
+
+	<key>Sutton</key>
+	<string>53.3897,-6.11027</string>
+
+	<key>Swanlinbar</key>
+	<string>54.1929365,-7.707479</string>
+
+	<key>Swinford</key>
+	<string>53.9442432,-8.946496700000001</string>
+
+	<key>Swords</key>
+	<string>53.4573436,-6.2193688</string>
+
+	<key>Taghmon</key>
+	<string>52.3216313,-6.6557368</string>
+
+	<key>Taghshinny</key>
+	<string>53.5923172,-7.6978819</string>
+
+	<key>Tallaght</key>
+	<string>53.2865744,-6.3705782</string>
+
+	<key>Tallow</key>
+	<string>52.0936574,-8.006865700000001</string>
+
+	<key>Tarbert</key>
+	<string>52.5720705,-9.376125699999999</string>
+
+	<key>Tarmonbarry</key>
+	<string>53.7421436,-7.9217454</string>
+
+	<key>Teelin</key>
+	<string>54.631959,-8.645638</string>
+
+	<key>Teemore</key>
+	<string>53.77125,-7.499505</string>
+
+	<key>Templeglantine</key>
+	<string>52.3919,-9.187419999999999</string>
+
+	<key>Templemore</key>
+	<string>52.79726,-7.837679</string>
+
+	<key>Templeogue</key>
+	<string>53.2980933,-6.3235114</string>
+
+	<key>Templepatrick</key>
+	<string>53.5228246,-7.6348329</string>
+
+	<key>Tempo</key>
+	<string>53.41291,-8.24389</string>
+
+	<key>Terenure</key>
+	<string>53.312154,-6.274979</string>
+
+	<key>Termon</key>
+	<string>53.968878,-8.304658999999999</string>
+
+	<key>Termonfeckin</key>
+	<string>53.761032,-6.2683023</string>
+
+	<key>The Coombe</key>
+	<string>53.3441611,-6.277046</string>
+
+	<key>The Swan</key>
+	<string>52.8888277,-7.1602443</string>
+
+	<key>Thomastown</key>
+	<string>52.5262059,-7.1386284</string>
+
+	<key>Threemilehouse</key>
+	<string>54.2166253,-7.0435685</string>
+
+	<key>Thurles</key>
+	<string>52.678829,-7.817564</string>
+
+	<key>Timahoe</key>
+	<string>52.9619596,-7.2033484</string>
+
+	<key>Timoleague</key>
+	<string>51.6434354,-8.7677955</string>
+
+	<key>Timolin</key>
+	<string>52.9884253,-6.8073695</string>
+
+	<key>Tinahely</key>
+	<string>52.798781,-6.4645251</string>
+
+	<key>Tinryland</key>
+	<string>52.7972656,-6.895291</string>
+
+	<key>Tipperary Town</key>
+	<string>52.4748756,-8.1572041</string>
+
+	<key>Togher</key>
+	<string>53.4766783,-6.8617629</string>
+
+	<key>Toome</key>
+	<string>54.0018663,-7.6799268</string>
+
+	<key>Toomevara</key>
+	<string>52.850368,-8.044513999999999</string>
+
+	<key>Toorlestraun</key>
+	<string>54.038239,-8.844799999999999</string>
+
+	<key>Touraneena</key>
+	<string>52.2012889,-7.7154329</string>
+
+	<key>Tourin</key>
+	<string>52.122149,-7.859955</string>
+
+	<key>Tourmakeady</key>
+	<string>53.6532491,-9.3681404</string>
+
+	<key>Tournafulla</key>
+	<string>52.351406,-9.146484600000001</string>
+
+	<key>Tower</key>
+	<string>51.9255162,-8.608900999999999</string>
+
+	<key>Tralee</key>
+	<string>52.2696106,-9.7001002</string>
+
+	<key>Tramore</key>
+	<string>52.1608623,-7.1524244</string>
+
+	<key>Trim</key>
+	<string>53.554327,-6.795441</string>
+
+	<key>Tuam</key>
+	<string>53.5148623,-8.851281</string>
+
+	<key>Tuamgraney</key>
+	<string>52.8969172,-8.542629</string>
+
+	<key>Tubber</key>
+	<string>53.3773917,-7.6615887</string>
+
+	<key>Tubbercurry</key>
+	<string>54.0514315,-8.7295509</string>
+
+	<key>Tulla</key>
+	<string>52.8688641,-8.757256099999999</string>
+
+	<key>Tullaghan</key>
+	<string>54.4689006,-8.3296955</string>
+
+	<key>Tullamore</key>
+	<string>53.2739084,-7.4945478</string>
+
+	<key>Tullaroan</key>
+	<string>52.6634309,-7.4405628</string>
+
+	<key>Tullow</key>
+	<string>52.801973,-6.735221</string>
+
+	<key>Tullyallen</key>
+	<string>53.736574,-6.4202693</string>
+
+	<key>Tulsk</key>
+	<string>53.7794601,-8.2551399</string>
+
+	<key>Tuosist</key>
+	<string>51.8024575,-9.7544529</string>
+
+	<key>Turlough</key>
+	<string>53.8832931,-9.217842900000001</string>
+
+	<key>Turloughmore</key>
+	<string>53.3993617,-8.130000900000001</string>
+
+	<key>Two-Mile Borris</key>
+	<string>52.6730438,-7.7125942</string>
+
+	<key>Tycor</key>
+	<string>52.2539893,-7.1299877</string>
+
+	<key>Tydavnet</key>
+	<string>54.2958703,-7.015644</string>
+
+	<key>Tyholland</key>
+	<string>52.9364266,-9.3962129</string>
+
+	<key>Tynan</key>
+	<string>53.3084116,-6.3750991</string>
+
+	<key>Tyrrelstown</key>
+	<string>53.4169694,-6.3955335</string>
+
+	<key>Union Hall</key>
+	<string>51.5580114,-9.138503399999999</string>
+
+	<key>Upperchurch</key>
+	<string>52.69829,-8.018445</string>
+
+	<key>Upperlands</key>
+	<string>54.5910735,-5.8275302</string>
+
+	<key>Upton</key>
+	<string>52.308629,-6.6858633</string>
+
+	<key>Urlingford</key>
+	<string>52.7205371,-7.5823196</string>
+
+	<key>Valentia Island</key>
+	<string>51.9107738,-10.3548996</string>
+
+	<key>Valleymount</key>
+	<string>53.09483,-6.524414</string>
+
+	<key>Vicarstown</key>
+	<string>53.0521103,-7.087902</string>
+
+	<key>Victoria Bridge</key>
+	<string>53.3466274,-6.2873895</string>
+
+	<key>Villierstown</key>
+	<string>52.0888861,-7.8516963</string>
+
+	<key>Virginia</key>
+	<string>53.8354186,-7.0855302</string>
+
+	<key>Walkinstown</key>
+	<string>53.3173,-6.33177</string>
+
+	<key>Walsh Island</key>
+	<string>53.2308072,-7.2228196</string>
+
+	<key>Warrenpoint</key>
+	<string>53.3611117,-6.2129999</string>
+
+	<key>Watch House Village</key>
+	<string>52.6937222,-6.6388451</string>
+
+	<key>Waterfall</key>
+	<string>51.855836,-8.553618</string>
+
+	<key>Waterford</key>
+	<string>52.2567868,-7.1292044</string>
+
+	<key>Watergrasshill</key>
+	<string>52.0118111,-8.346027100000001</string>
+
+	<key>Waterville</key>
+	<string>51.8274341,-10.1719813</string>
+
+	<key>Wellingtonbridge</key>
+	<string>52.2671381,-6.750845</string>
+
+	<key>Westmeath</key>
+	<string>53.5514254,-7.4026802</string>
+
+	<key>Wexford</key>
+	<string>52.3391609,-6.4601247</string>
+
+	<key>Whiddy</key>
+	<string>51.6875904,-9.500397599999999</string>
+
+	<key>Whitechurch</key>
+	<string>51.9811247,-8.516806000000001</string>
+
+	<key>Whitecross</key>
+	<string>53.6672098,-6.2768542</string>
+
+	<key>Whitegate</key>
+	<string>51.8270903,-8.2302441</string>
+
+	<key>Whitehall</key>
+	<string>53.7640338,-7.9222121</string>
+
+	<key>Whiting Bay</key>
+	<string>53.424522,-6.35561</string>
+
+	<key>Wicklow</key>
+	<string>52.9792384,-6.0422517</string>
+
+	<key>Williamstown</key>
+	<string>53.442023,-7.9483476</string>
+
+	<key>Windgap</key>
+	<string>52.4610801,-7.4005392</string>
+
+	<key>Windy Arbour</key>
+	<string>53.3028724,-6.2452326</string>
+
+	<key>Woodenbridge</key>
+	<string>52.8344947,-6.2444822</string>
+
+	<key>Woodford</key>
+	<string>53.0519535,-8.4008793</string>
+
+	<key>Woodstown</key>
+	<string>52.199549,-7.002919</string>
+
+	<key>Youghal</key>
+	<string>51.9532405,-7.8504759</string>
+
+</dict>
+</plist>

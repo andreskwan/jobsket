@@ -1,0 +1,26 @@
+
+{
+    "results":
+    {
+        "jobs":
+        [
+            {
+                "region":"Madrid",
+                "id":312,
+                "category":"Healthcare and Hospital",
+                "title":"Director Médico y de Desarrollo de Negocio",
+                "city":"Madrid"
+            },
+            {
+                "region":"Madrid",
+                "id":309,
+                "category":"Sales",
+                "title":"RESPONSABLE DE TIENDA Y SHOWROOM",
+                "city":"Madrid"
+            }
+        ]
+    },
+    "page":"1",
+    "pages":2,
+    "itemsPerPage":25
+}

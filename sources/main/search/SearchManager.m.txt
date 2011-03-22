@@ -1,0 +1,29 @@
+
+#import "SearchManager.h"
+
+@implementation SearchManager
+
+
+- (id) init {
+    self = [super init];
+    if (self != nil) {
+        // initialize resources
+    }
+    return self;
+}
+
+
+-(void) runQueryWithString: (NSString *) query {
+	NSURL *url = [NSURL URLWithString:query];
+	[self runQueryWithUrl:url];
+}
+
+
+-(void) runQueryWithUrl: (NSURL *) query {
+	
+	
+	
+}
+
+
+@end

@@ -1,0 +1,2000 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><script id="bug.surrogate.http://www.google-analytics.com/ga.js">var urchinTracker=function(){},_gat={_getTracker:function(){return{__noSuchMethod__:function(){},_link:function(o){if(o)location.href=o;},_linkByPost:function(){return true;},_getLinkerUrl:function(o){return o;},_trackEvent:function(){}}}}</script><head>
+
+	
+	
+		<link rel="shortcut icon" href="http://www.jobsket.es/images/favicon.ico" type="image/x-icon">
+	    <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
+		<link rel="stylesheet" href="search_files/jobsket-new.css">
+		
+             <title>Find job offers with our search engine - jobsket.com</title>
+        
+		
+        <script type="text/javascript" src="search_files/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="search_files/connection-min.js"></script>
+
+		
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="layout" content="jobsket">
+
+
+		<script type="text/javascript" src="search_files/selector-min.js"></script>
+        <script type="text/javascript" src="search_files/application.js"></script>
+
+		
+	<meta name="verify-v1" content="1OKyDQOk4YF/QF854nlbhWe9RFSxDg4JV3AY91Mrqw0=">
+
+   
+		<!--[if lt IE 7]>
+		<script defer type="text/javascript" src="/js/pngfix.js"></script>
+		<![endif]-->     
+		<style type="text/css">
+			.yui-skin-sam tr.ymod-expandedData div.ymod-expandedDataContent { background-color: #ffffff; padding: 2px 6px; }
+			th.yui-dt-hidden,tr.yui-dt-odd .yui-dt-hidden,tr.yui-dt-even .yui-dt-hidden {
+				display:none;
+			}			
+		</style>   
+    <script type="text/javascript" id="ghostery_close_script">function closeGhostery(){ var dgf = document.getElementById("__ghosteryfirefox"); dgf.style.display = 'none'; document.body.removeChild(dgf); }</script></head><body class="yui-skin-sam">
+      <div id="container">
+	        <div id="header">
+	            <div id="logo">
+	            	<a href="http://www.jobsket.es/home/index"><img src="search_files/jobsketes.png" title="Jobsket Home" alt="Jobsket"></a><span>Jobsket</span>
+	            </div>
+	            <div id="twittie">
+	            	<a href="http://www.twitter.com/jobsket"><img src="search_files/twittie.png" title="Follow us on Twitter" alt="Follow us on Twitter"></a>
+	            </div>	
+	            <div id="switchcountry">	            
+	            	<img src="search_files/ie.png" title="Switch to Jobsket Ireland" alt="Switch to Jobsket Ireland"> <a href="http://www.jobsket.ie/">Switch to Jobsket Ireland</a>
+	            	
+	            </div>	            
+	            <div id="signincont"><div id="signine">
+	<a href="http://ats.jobsket.es/login">Companies</a>
+</div>
+<div id="signin">
+	
+	    <a href="http://www.jobsket.es/login">Sign in</a>
+	    <span> | </span>
+	    <a href="http://www.jobsket.es/pricing">Register</a>    
+	
+</div></div>	            
+	        </div>
+
+	         <div id="contentwrapper">
+                 <div class="menu con">
+  	<ul>
+  			
+    		<li><a href="http://www.jobsket.es/home/index" title="Home">Home</a></li>
+    		<li><a href="http://www.jobsket.es/dashboard" title="DashBoard">DashBoard</a></li>
+    		<li class="act"><a href="http://www.jobsket.es/search" title="Find Jobs">Find Jobs</a></li>
+    		<li><a href="http://www.jobsket.es/trends/index" title="Trends">Trends</a></li>
+	    	<li><a href="http://www.jobsket.es/cvsearch" title="Search People">Search People</a></li>
+        
+      </ul>
+</div>
+				
+                
+<div id="vbusc">
+	
+
+	<form action="/search" method="get">
+	<div class="searchquotes" id="place-col">
+    <input name="keywords" id="keywords" value="java" class="cps" type="text">		
+	<label><i><span class="tverde">Enter comma separated terms: Programmer, Accountant, Java,...</span></i></label>				
+	</div>
+	<br>
+<a href="#" class="nar" id="viewFilter"><span id="viewFilterSpan">Hide filters</span></a><br>
+<div style="display: block;" class="cvfilters" id="showFilters">
+	<div class="col1">
+		<div class="row">
+			<div class="lbl">
+				<label for="region">Place</label>
+			</div>
+			<div class="fld">
+				<select name="place" class="select" id="place">
+<option selected="selected" value="0"></option>
+<option value="2">Álava</option>
+<option value="3">Albacete</option>
+<option value="4">Alicante</option>
+<option value="5">Almería</option>
+<option value="6">Asturias</option>
+<option value="7">Ávila</option>
+<option value="8">Badajoz</option>
+<option value="9">Balears (Illes)</option>
+<option value="10">Barcelona</option>
+<option value="11">Burgos</option>
+<option value="12">Cáceres</option>
+<option value="13">Cádiz</option>
+<option value="14">Cantabria</option>
+<option value="15">Castellón</option>
+<option value="16">Ceuta</option>
+<option value="17">Ciudad Real</option>
+<option value="18">Córdoba</option>
+<option value="19">Coruña (A)</option>
+<option value="20">Cuenca</option>
+<option value="21">Girona</option>
+<option value="22">Granada</option>
+<option value="23">Guadalajara</option>
+<option value="24">Guipúzcoa</option>
+<option value="25">Huelva</option>
+<option value="26">Huesca</option>
+<option value="27">Jaén</option>
+<option value="28">León</option>
+<option value="29">Lleida</option>
+<option value="30">Lugo</option>
+<option value="31">Madrid</option>
+<option value="32">Málaga</option>
+<option value="33">Melilla</option>
+<option value="34">Murcia</option>
+<option value="35">Navarra</option>
+<option value="36">Ourense</option>
+<option value="37">Palencia</option>
+<option value="38">Palmas (Las)</option>
+<option value="39">Pontevedra</option>
+<option value="40">Rioja (La)</option>
+<option value="41">Salamanca</option>
+<option value="42">Santa Cruz de Tenerife</option>
+<option value="43">Segovia</option>
+<option value="44">Sevilla</option>
+<option value="45">Soria</option>
+<option value="1">Spain</option>
+<option value="46">Tarragona</option>
+<option value="47">Teruel</option>
+<option value="48">Toledo</option>
+<option value="49">Valencia</option>
+<option value="50">Valladolid</option>
+<option value="51">Vizcaya</option>
+<option value="52">Zamora</option>
+<option value="53">Zaragoza</option>
+</select>
+			</div>
+		</div>		
+		<div class="row">
+			<div class="lbl">
+				<label for="region">Category</label>
+			</div>
+			<div class="fld">
+				<select name="category" class="select" id="category">
+<option selected="selected" value="0"></option>
+<option value="3">Administración</option>
+<option value="4">Arquitectura y Diseño</option>
+<option value="5">Atención al Cliente</option>
+<option value="16">Comercial</option>
+<option value="6">Construcción y Ingeniería</option>
+<option value="14">Construcción y Inmobiliaria</option>
+<option value="7">Finanzas y Banca</option>
+<option value="9">Hostelería</option>
+<option value="11">Legal</option>
+<option value="17">Logística y Almacén</option>
+<option value="13">Marketing</option>
+<option value="12">Oficios</option>
+<option value="18">Otros</option>
+<option value="10">Recursos Humanos</option>
+<option value="8">Sanidad y Salud</option>
+<option value="2">Tecnologías de la Información</option>
+<option value="15">Venta al Detalle</option>
+</select>
+			</div>
+		</div>		
+	</div>
+	<div class="col2">
+		<div class="row">
+			<div class="lbl">
+				<label for="maxsalary">Min Salary</label>
+			</div>
+			<div class="fld">
+				<input id="minsalary" name="minsalary" class="cps-small" type="text">
+				<label for="minsalary1"> € (gross/year)</label>
+			</div>
+		</div>
+		<div class="row">
+			<div class="lbl">
+				<label for="maxsalary">Max Salary</label>
+			</div>
+			<div class="fld">
+				<input id="maxsalary" name="maxsalary" class="cps-small" type="text">
+				<label for="maxsalary1"> € (gross/year)</label>
+			</div>
+		</div>
+	</div>
+	<div class="col3">
+		<div class="row">
+			<div class="lbl">
+				<label for="experience">Experience</label>
+			</div>
+			<div class="fld">
+				<select name="experience" class="select" id="experience">
+<option selected="selected" value=""></option>
+<option value="Without experience">Without experience</option>
+<option value="1 or less years in experience">1 or less years in experience</option>
+<option value="1-2 years in experience">1-2 years in experience</option>
+<option value="2-3 years in experience">2-3 years in experience</option>
+<option value="3-5 years in experience">3-5 years in experience</option>
+<option value="5-10 years in experience">5-10 years in experience</option>
+<option value="More than 10 years in experience">More than 10 years in experience</option>
+</select>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+      YAHOO.util.Event.onDOMReady(function () {
+      	YAHOO.util.Dom.setStyle('showFilters', 'display', 'none');
+        updateFilter  = function () {
+          var paramsQuery = "?place="+YAHOO.util.Dom.get("place").value +
+ 							"&maxsalary="+YAHOO.util.Dom.get("maxsalary").value +
+ 							"&minsalary="+YAHOO.util.Dom.get("minsalary").value +  
+ 							"&category="+YAHOO.util.Dom.get("category").value +         
+          					"&skills="+YAHOO.util.Dom.get("skills").value;
+          					
+         	 window.location="/search/search"+paramsQuery;
+        };
+ 
+
+        YAHOO.util.Event.on('filterButton','click',function (e) {
+            updateFilter();
+        });
+        
+         YAHOO.util.Event.on('viewFilter','click',function (e) {
+	        var currentStyle = YAHOO.util.Dom.getStyle('showFilters','display');
+	        if(currentStyle == "none") {
+	       	 	YAHOO.util.Dom.get("viewFilterSpan").innerHTML='Hide filters';
+	        	YAHOO.util.Dom.setStyle('showFilters', 'display', 'block');
+	        } else {
+   	 			YAHOO.util.Dom.get("viewFilterSpan").innerHTML='Show filters';
+	        	YAHOO.util.Dom.setStyle('showFilters', 'display', 'none');
+	        }
+	    });
+        
+      });
+         
+    </script>
+	<br class="brr"> 
+	<input value="Search!" class="bt-nar-busc button" type="submit">				
+</form>
+
+</div>
+
+<div id="rowrap5" class="con">
+
+  <div class="jobs">
+  	
+	    <span class="found">24 job offers found.</span><br>
+	    <br>
+	
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/birchman-group/consultor_senior_siebel_crm">Consultor Senior SIEBEL CRM</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/birchman-group">Birchman Group</a>
+            	<br>
+            	<span class="place">Barcelona - 12/07/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Birchman Consulting, consultora informática de 
+implantaciones CRM precisa incorporar CONSULTORES SENIOR de SIEBEL para 
+nuestros proyectos focalizados en la gestión de cliente: tanto en el 
+proceso de venta como de servicio y marketing.
+
+Se valorará experiencia en proyectos de Siebel versión 7 y 8. T
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-crm">  CRM </a></span>  
+                        
+                        
+                 		<span style="color: red;">30,161€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.14%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-marketing-con-crm"> Marketing CRM </a></span>  
+                        
+                 		<span style="color: green;">30,000€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">100%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-consultor-con-crm"> Consultor CRM </a></span>  
+                        
+                        
+                 		<span style="color: red;">31,015€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.25%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/birchman-group/consultor_junior_siebel_crm">Consultor Junior SIEBEL CRM</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/birchman-group">Birchman Group</a>
+            	<br>
+            	<span class="place">Barcelona - 12/07/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Birchman Consulting, consultora informática de 
+implantaciones CRM precisa incorporar CONSULTORES JUNIOR de SIEBEL para 
+nuestros proyectos focalizados en la gestión de cliente: tanto en el 
+proceso de venta como de servicio y marketing.
+
+Se valorará experiencia en proyectos de Siebel versión 7 y 8.
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-consultor-con-crm"> Consultor CRM </a></span>  
+                        
+                        
+                 		<span style="color: red;">31,015€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.25%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-consultor-con-crm"> Consultor CRM </a></span>  
+                        
+                        
+                 		<span style="color: red;">31,015€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.25%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/birchman-group/consultor_senior_portales_web">Consultor Senior Portales Web</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/birchman-group">Birchman Group</a>
+            	<br>
+            	<span class="place">Barcelona - 07/07/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			&lt;!--[if gte mso 9]&gt;
+ <w:worddocument>
+ <w:view>Normal</w:view>
+ <w:zoom>0</w:zoom>
+ <w:trackmoves>
+ <w:trackformatting>
+ <w:hyphenationzone>21</w:hyphenationzone>
+ <w:punctuationkerning>
+ <w:validateagainstschemas>
+ <w:saveifxmlinvalid>false</w:saveifxmlinvalid>
+ <w:ignoremixedcontent>
+             	
+			</w:ignoremixedcontent></w:validateagainstschemas></w:punctuationkerning></w:trackformatting></w:trackmoves></w:worddocument></div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-abap">  ABAP </a></span>  
+                        
+                        
+                 		<span style="color: red;">30,088€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.45%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-consultor-con-abap"> Consultor ABAP </a></span>  
+                        
+                 		<span style="color: green;">30,884€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.27%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-uml">  UML </a></span>  
+                        
+                        
+                 		<span style="color: red;">26,370€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.06%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/birchman-group/programador_abap">Programador ABAP</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/birchman-group">Birchman Group</a>
+            	<br>
+            	<span class="place">Barcelona - 06/07/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			Birchman realiza proyectos de implantación 
+SAP
+"Llave-en-mano" para clientes en diferentes sectores en España, en
+Europa y en el resto del mundo.
+
+Queremos reforzar nuestro equipo en 
+Barcelona
+incorporando un profesional en programación ABAP que quiere crecer en el mundo de la consultoría S
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-scrum-en-barcelona">Barcelona Desarrollador Scrum </a></span>  
+                        
+                 		<span style="color: green;">25,166€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">2.46%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-scrum"> Desarrollador Scrum </a></span>  
+                        
+                 		<span style="color: green;">25,002€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.41%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/birchman-group/consultor_jboss_seam___scrum">Consultor JBoss SEAM / SCRUM</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/birchman-group">Birchman Group</a>
+            	<br>
+            	<span class="place">Barcelona - 30/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Buscamos una persona con unos 3 anos de experiencia en Java
+ y con JBoss SEAM para trabajar en un proyecto gestionado con 
+SCRUM.Requerimientos:	Java
+SEAM
+SCRUMExperiencia:	De 2 a 3 años de experienciaOtros:	Se valoran otros 
+conocimientos tecnicos, de gestion de cliente/equipo/proyecto, de sus 
+dotes 
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-seam">  Seam </a></span>  
+                        
+                        
+                 		<span style="color: red;">27,454€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-2.3%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-jboss">  JBoss </a></span>  
+                        
+                 		<span style="color: green;">26,235€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.06%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-consultor"> Consultor  </a></span>  
+                        
+                        
+                 		<span style="color: red;">29,224€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.39%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/ceromat-sl/tecnico_de_sistemas%2C_experto_en_entorno_unix_y_linux">Técnico de Sistemas, experto en entorno Unix y Linux</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/ceromat-sl">Ceromat SL</a>
+            	<br>
+            	<span class="place">Madrid - 24/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Técnico de Sistemas, experto en entorno Unix y Linux
+Con experiencia, certificaciones y cursos en:
+-	Linux, distribuciones SUSE , RedHat y Ubuntu.
+-	Sun OS.
+-	Oracle 9i y 10i, bases de datos (ideal si también SQL)
+-	Administrador de filer Network Appliance
+-	NetBackup, Back up
+-	VMWare, Virt
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-oracle"> Desarrollador Oracle </a></span>  
+                        
+                        
+                 		<span style="color: red;">23,538€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.13%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-administrativo-con-oracle"> Administrativo Oracle </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">0€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-de-base-de-datos-con-oracle"> Analista de Base de datos Oracle </a></span>  
+                        
+                        
+                 		<span style="color: red;">26,981€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.5%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/original-zone-of-market-sl/jefe_de_proyecto_en_java">Jefe de Proyecto en Java</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/original-zone-of-market-sl">Original Zone of Market, S.L.</a>
+            	<br>
+            	<span class="place">Sevilla - 22/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+             			Necesitamos cubrir un puesto de Jefe de Proyectos en 
+Java usando Oracle como base de Datos relacional para un cliente de la 
+Administración PúblicaRequerimientos:	Java, OracleExperiencia:	De 3 a 5 
+años de experienciaOtros:	
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-oracle">  Oracle </a></span>  
+                        
+                 		<span style="color: green;">24,997€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.12%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/original-zone-of-market-sl/analista_programador_en_java">Analista/Programador en Java</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/original-zone-of-market-sl">Original Zone of Market, S.L.</a>
+            	<br>
+            	<span class="place">Sevilla - 22/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+             			Precisamos cubrir dos puestos de Analista / Programador 
+en Java con demostrada experiencia en el uso de Oracle para un puesto en
+ la administración públicaRequerimientos:	Java, Oracle, 
+JdeveloperExperiencia:	De 2 a 3 años de experienciaOtros:	
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-java"> Desarrollador Java </a></span>  
+                        
+                 		<span style="color: green;">22,831€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-programador-con-java"> Analista Programador Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,761€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.12%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-con-java"> Analista Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">26,531€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.17%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/original-zone-of-market-sl/experto_en_soluciones_iphone">Experto en soluciones Iphone</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/original-zone-of-market-sl">Original Zone of Market, S.L.</a>
+            	<br>
+            	<span class="place">Sevilla - 22/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Para un proyecto de gran envergadura usando el entorno 
+Iphone, precisamos de un experto en Anlálisis y Programación en dicha 
+plataforma. Adicionalmente se empleará también terminales con sistemas 
+operativos Android.Requerimientos:	Experiencia en programación en el 
+entorno Apple. Conocimiento demost
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-de-base-de-datos-con-java"> Analista de Base de datos Java </a></span>  
+                        
+                 		<span style="color: green;">25,900€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">5.24%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-net">  net </a></span>  
+                        
+                        
+                 		<span style="color: red;">23,932€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.56%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-net"> Desarrollador net </a></span>  
+                        
+                 		<span style="color: green;">23,235€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.06%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/anova/administrador_plataforma_de_formacion">Administrador Plataforma de formación</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/anova">Anova</a>
+            	<br>
+            	<span class="place">Madrid - 14/06/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			Responsable técnico de plataforma de e-learning, encargado 
+de administrar todos los perfiles que colaboran dentro de la misma, 
+incluyendo altas y bajas de los alumnos matriculados. Implementar 
+contenidos formativos en diferentes soportes, resolución de incidencias 
+técnicas y desarrollo de pautas par
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-oracle"> Desarrollador Oracle </a></span>  
+                        
+                        
+                 		<span style="color: red;">23,538€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.13%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador"> Desarrollador  </a></span>  
+                        
+                 		<span style="color: green;">22,590€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-medico"> Médico  </a></span>  
+                        
+                 		<span style="color: green;">33,546€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.24%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/biko2-2006-sl/desarrollador_senior_java">Desarrollador senior JAVA</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/biko2-2006-sl">BIKO2 2006, S.L.</a>
+            	<br>
+            	<span class="place">Guipúzcoa - 28/05/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Se busca un desarrollador JAVA con experiencia para 
+incorporarse a un equipo de trabajo ágil, para el sector de aplicaciones
+ de gestión.
+Se integrará en un equipo de profesionales que trabajan con metodología 
+Scrum, y realizando esfuerzos en la mejora continua.Requerimientos:	
+Requisitos mínimos:
+- 
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-java-con-java"> Desarrollador Java Java </a></span>  
+                        
+                 		<span style="color: green;">22,564€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-java"> Desarrollador Java </a></span>  
+                        
+                 		<span style="color: green;">22,831€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/biko2-2006-sl/desarrollador_junior_java">Desarrollador junior JAVA</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/biko2-2006-sl">BIKO2 2006, S.L.</a>
+            	<br>
+            	<span class="place">Guipúzcoa - 28/05/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Buscamos desarrolladores JAVA para integrarse en equipo de 
+trabajo consolidado. Se integrará en el mismo con metodología de trabajo
+ ágil, Scrum, implantada en Biko. Integrandose en el area de desarrollo 
+de Banca de la empresa, participando en proyectos de una importante 
+envergadura.
+
+
+
+Requerimient
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-spring">  Spring </a></span>  
+                        
+                 		<span style="color: green;">25,810€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.04%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-spring"> Desarrollador Spring </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,750€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.18%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador"> Desarrollador  </a></span>  
+                        
+                 		<span style="color: green;">22,590€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/baratz/webmaster">Webmaster</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/baratz">Baratz</a>
+            	<br>
+            	<span class="place">Madrid - 23/04/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Necesitamos incorporar a nuestra organización profesionales
+ con talento para el Área de I+D y Proyectos. Webmaster con experiencia 
+demostrable para el mantenimiento de los sitios web de la compañía. 
+
+Buscamos personas con potencial para desarrollar una amplia carrera 
+profesional. 
+
+Buscamos profes
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-de-base-de-datos"> Analista de Base de datos  </a></span>  
+                        
+                        
+                 		<span style="color: red;">25,740€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.17%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-javascript">  JavaScript </a></span>  
+                        
+                 		<span style="color: green;">21,457€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-flash">  Flash </a></span>  
+                        
+                        
+                 		<span style="color: red;">21,429€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-1.2%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/aubergin-tecnologies-sl/programadores__analistas_programadores_banksphere">Programadores/ Analistas Programadores Banksphere</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/aubergin-tecnologies-sl">Aubergin Tecnologies S.l</a>
+            	<br>
+            	<span class="place">Madrid - 26/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Aubergin Tecnologies S.L precisa para un importante proyecto del sector banca ubicado en Madrid y/o alrededores. 
+
+PROGRAMADORES/ ANALISTAS PROGRAMADORES BANKSPHERE 
+
+Experiencia al menos 2 años en proyectos de Banksphere y Java 
+
+
+Incorporacion Inmediata  
+    
+Requerimientos:	Experiencia en progr
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-en-madrid">Madrid   </a></span>  
+                        
+                 		<span style="color: green;">21,195€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.16%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java-en-madrid">Madrid  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">25,225€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.24%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/aubergin-tecnologies-sl/tester">Tester</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/aubergin-tecnologies-sl">Aubergin Tecnologies S.l</a>
+            	<br>
+            	<span class="place">Alicante - 26/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+             			Aubergin Tecnologies S.L precisa para un importante proyecto ubicado en Alicante.
+
+TESTER
+
+Requerimientos:	Experiencia al menos 2 años en definición, ejecución pruebas. Incidencias; Arquitectura Java 
+
+Buen Nivel de ingles 
+ 
+ 
+Experiencia:	De 2 a 3 años de experienciaOtros:	
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-ingeniero-qa-con-java"> Ingeniero QA Java </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">0€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-ingles">  Inglés </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">21,909€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-ingles-en-alicante">Alicante  Inglés </a></span>  
+                        
+                        
+                 		<span style="color: red;">18,262€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-5.73%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/aubergin-tecnologies-sl/analista_testing">Analista Testing</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/aubergin-tecnologies-sl">Aubergin Tecnologies S.l</a>
+            	<br>
+            	<span class="place">Alicante - 26/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			Aubergin Tecnologies S.L precisa para un importante proyecto
+ ubicado en Alicante. ANALISTA TESTING 
+Requerimientos:
+Experiencia al menos 5 años en Definicion, ejecucion y seguimiento de 
+las pruebas, incidencias, UML, Arquitectura Java. Buen nivel de inglés
+Experiencia:
+De 5 a 10 años de experien
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-ingles">  Inglés </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">21,909€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-ingles-en-alicante">Alicante  Inglés </a></span>  
+                        
+                        
+                 		<span style="color: red;">18,262€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-5.73%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-en-alicante">Alicante   </a></span>  
+                        
+                 		<span style="color: green;">23,007€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/aubergin-tecnologies-sl/jefe_de_equipo_test_y_calidad_software">Jefe de Equipo Test y Calidad Software</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/aubergin-tecnologies-sl">Aubergin Tecnologies S.l</a>
+            	<br>
+            	<span class="place">Alicante - 26/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         				Aubergin Tecnologies S.L precisa para un importante 
+proyecto ubicado en Alicante.
+
+JEFE DE EQUIPO TEST y CALIDAD DE SOFTWARE.
+
+
+
+
+Requerimientos:	Experiencia en Planificación y gestión de pruebas; 
+Metodologías de desarrollo; UML; Arquitectura Java; Gestión de equipos
+Buen nIvel de Ingles. 
+ 
+ 
+Expe
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador"> Desarrollador  </a></span>  
+                        
+                 		<span style="color: green;">22,590€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-en-alicante">Alicante Desarrollador  </a></span>  
+                        
+                 		<span style="color: green;">20,286€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.95%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/tecnocom-sa/analista_funcional_senior_java_">ANALISTA FUNCIONAL SENIOR JAVA </a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/tecnocom-sa">TECNOCOM, S.A.</a>
+            	<br>
+            	<span class="place">Coruña (A) - 17/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			
+
+
+El Grupo Tecnocom es una empresa española líder en el sector de las TICs
+ (Tecnologías de la Información y las Comunicaciones), con más de 5.000 
+profesionales a nivel mundial y una facturación pro-forma de 450 
+millones de euros. Cotiza en bolsa desde el año 1987 y cuenta entre sus 
+clientes con 
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-con-java"> Analista Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">26,531€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.17%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-java"> Desarrollador Java </a></span>  
+                        
+                 		<span style="color: green;">22,831€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.07%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/tecnocom-sa/programador_aplicaciones_web_j2ee">Programador aplicaciones web J2EE</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/tecnocom-sa">TECNOCOM, S.A.</a>
+            	<br>
+            	<span class="place">Coruña (A) - 17/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			
+El Grupo Tecnocom es una empresa española líder en el sector de las TICs
+ (Tecnologías de la
+de 5.000 profesionales a nivel mundial y una facturación pro-forma de 
+450 millones de euros. Cotiza entre sus clientes con 23 de las empresas 
+que forman el IBEX 35.
+Queremos hacerte partícipe de nuestro p
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-tecnologias-agiles">  Tecnologías Ágiles </a></span>  
+                        
+                 		<span style="color: green;">33,171€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.2%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-tecnologias-agiles"> Desarrollador Tecnologías Ágiles </a></span>  
+                        
+                 		<span style="color: green;">33,138€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.32%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-db2">  DB2 </a></span>  
+                        
+                 		<span style="color: green;">26,795€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.28%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/mp-consultors/arquitecto_analista_java_%2B_ingles">ARQUITECTO ANALISTA JAVA + INGLÉS</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/mp-consultors">MP CONSULTORS</a>
+            	<br>
+            	<span class="place">Barcelona - 11/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			
+	Importante multinacional ubicada en Barcelona precisa:
+
+ANALISTA / ARQUITECTO JAVA
+
+Las funciones:
+- Toma de requerimientos funcionales junto con los clientes.
+- Elaboración del diseño conceptual.
+- Redacción de Casos de Uso.
+- Elaboración del diseño arquitectónico
+- Redacción de diseños
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-con-ejb"> Analista EJB </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,000€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-1.12%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-con-ejb"> Desarrollador EJB </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">24,891€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-arquitecto-de-software-con-ejb"> Arquitecto de software EJB </a></span>  
+                        
+                        
+                 		<span style="color: red;">27,065€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.51%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/mp-consultors/analista_programador__net_%281_2_jornada%3A_6_horas%29">ANALISTA PROGRAMADOR .NET (1/2 JORNADA: 6 HORAS)</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/mp-consultors">MP CONSULTORS</a>
+            	<br>
+            	<span class="place">Barcelona - 11/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			
+
+	Importante empresa catalana del sector de la moda en fuerte fase de expansión y crecimiento precisa incorporar:
+
+ANALISTA PROGRAMADOR JUNIOR
+
+Con experiencia en entornos LAMP (Linux) o WISA (Windows) en desarrollos Web, WebServices, . net y en Microsoft SQL.
+
+Funciones:
+•Análisis y Desar
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-programador-con-java"> Analista Programador Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,761€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.12%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-asp">  ASP </a></span>  
+                        
+                 		<span style="color: green;">22,855€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.26%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-analista-con-asp"> Analista ASP </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">0€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/blackslot-sl/analista_programador_php">Analista programador php</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/blackslot-sl">Blackslot SL</a>
+            	<br>
+            	<span class="place">Vizcaya - 06/03/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			
+	Buscamos un analista desarrollador web con experiencia trabajando en 
+php, apasionado de las tecnologías web e internet para trabajar en 
+nuestra plantilla.
+
+Somos una startup ubicada en Barakaldo (Bilbao) que realizamos proyectos
+ SaaS, redes sociales, i+d tanto propios como para clientes.
+
+Se 
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-como-desarrollador-en-vizcaya">Vizcaya Desarrollador  </a></span>  
+                        
+                 		<span style="color: green;">23,162€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.39%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-symfony">  Symfony </a></span>  
+                        
+                 		<span style="color: green;">23,754€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.96%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-symfony-en-vizcaya">Vizcaya  Symfony </a></span>  
+                        
+                        
+                        
+                 		<span style="color: blue;">0€</span> 
+                            <img src="search_files/equal.gif" border="0">
+                            <span style="color: blue;">0%</span>
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/abiquo/java_architecht">Java Architect</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/abiquo">abiquo</a>
+            	<br>
+            	<span class="place">Barcelona - 26/01/2010</span>
+            	
+            		<br>
+            				                    		
+            			<b>Salary:</b> From 40000€ to 60000€
+            		
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			What we look for in every employeeGet it doneWe value 
+aptitude and attitude as well as experience. We value the ability to get
+ things done with the highest standards.There’s no I in cultureOur 
+company is based around small, dynamic teams working with agile 
+methodologies. You should work well with ot
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-scrum">  Scrum </a></span>  
+                        
+                 		<span style="color: green;">26,147€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.19%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java">  Java </a></span>  
+                        
+                        
+                 		<span style="color: red;">24,915€</span> 
+                            <img src="search_files/down.gif" border="0">
+                            <span style="color: red;">-0.89%</span>
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-tecnologias-agiles">  Tecnologías Ágiles </a></span>  
+                        
+                 		<span style="color: green;">33,171€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.2%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+        <div class="job">
+        	<div class="title">
+        		<a href="http://www.jobsket.es/trabajo/abiquo/q_%26_a_testing_engineer">Q &amp; A Testing Engineer</a>
+        	</div>
+        	<div class="jobinfo">
+            	<b>Company:</b> <a href="http://www.jobsket.es/trabajos/abiquo">abiquo</a>
+            	<br>
+            	<span class="place">Barcelona - 09/01/2010</span>
+            	
+             	<br>
+         	</div>
+         	<div class="content">
+         		
+             	
+         			Titulo: Q &amp; A Testing Engineer 
+Descripción: We’re on the lookout for several engineers to help us build
+ the best cloud computing platform on the market. Be part of the 
+Barcelona development team that is passionate about building terrific 
+tools, solving our customers’ challenges and giving back to t
+             	
+			</div>
+			<div class="quotes">
+             	
+             		<span class="related">Related quotes:</span><br>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-java-en-barcelona">Barcelona  Java </a></span>  
+                        
+                 		<span style="color: green;">27,344€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.16%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-tecnologias-agiles">  Tecnologías Ágiles </a></span>  
+                        
+                 		<span style="color: green;">33,171€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.2%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 	  <div class="quote">
+                 		<span style="color: blue;"><a href="http://www.jobsket.es/trabajos-con-tecnologias-agiles-en-barcelona">Barcelona  Tecnologías Ágiles </a></span>  
+                        
+                 		<span style="color: green;">35,741€</span> 
+                            <img src="search_files/up.gif" border="0">
+                            <span style="color: green;">0.18%</span>
+                        
+                        
+                         			                     		
+                 		<br>
+                 	  </div>
+                 	
+                 
+                 
+			</div>
+         </div>
+     	<br class="brr">
+     
+     <br class="brr">
+     <br>
+  			 <div id="pagination">
+		     	 
+		          
+					<a href="http://www.jobsket.es/search?keywords=java&amp;page=1&amp;max=25&amp;place=&amp;category=&amp;minsalary=&amp;maxsalary=">
+						<strong>1</strong>
+					</a>
+				
+				
+	        </div>
+	    <input id="skills" value="" type="hidden">
+  </div>
+
+
+             </div>
+      </div>
+	  <div id="footer">
+	  	<span>Copyright © by Jobsket,S.L. - <a href="http://www.jobsket.es/about">About us</a> | <a href="http://ats.jobsket.es/">Enterprise Solutions</a> | <a href="http://www.jobsket.es/privacy">Privacy Policy</a> | <a href="http://www.jobsket.es/terms">Terms and Conditions</a> | <a href="http://www.jobsket.es/press">Press</a> | <a href="http://www.jobsket.es/contact">Contact</a> | <a href="http://www.jobsket.es/home/help">Help</a> | <a href="http://ats.jobsket.es/tour" alt="Jobsket Tour" title="Jobsket Tour">Tour</a> | <a href="http://blog.jobsket.com/" target="_blank">Blog</a> | <a href="http://www.jobsket.es/partners">Partnerships</a></span>
+  		<p>
+<a href="http://www.jobsket.es/search?lang=es">Español</a> |
+<a href="http://www.jobsket.es/search?lang=en" class="selected">English</a>
+</p>
+	  </div>
+<script type="text/javascript">
+YAHOO.util.Event.addListener(window, 'load', function() {
+	YAHOO.util.Connect.asyncRequest('POST', '/session/header', {success: function(o){YAHOO.util.Dom.get('signincont').innerHTML = o.responseText;}, failure: function(o){}}, null);
+});
+</script>
+        
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="search_files/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	
+	     var pageTracker = _gat._getTracker("UA-4345854-1");
+	
+
+	pageTracker._trackPageview();
+} catch(err) {}</script>
+        
+<script type="text/javascript">
+var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com"
+document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
+</script><script src="search_files/tab.js" type="text/javascript"></script>
+<script type="text/javascript">
+UserVoice.Tab.show({ 
+  host: 'jobsket.uservoice.com', 
+  forum: 'general', 
+  alignment: 'left',
+  background_color:'#f00', 
+  text_color: 'white',
+  hover_color: '#06C'
+})
+</script>
+
+    </div></body></html>

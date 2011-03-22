@@ -1,0 +1,74 @@
+
+#import "SearchManager2.h"
+
+@implementation SearchManager2
+
+
+- (id) initWithManager:(CoreDataAbstractManager*)cdMgr {
+    self = [super init];
+    if (self != nil){
+		cdManager = cdMgr;
+		searchDao = [[SearchDao alloc] initWithManager:cdManager];
+    }
+    return self;
+}
+
+
+/**
+ * Initialize using a persistent manager.
+ */
+- (id) init {
+	return [self initWithManager:[CoreDataPersistentManager sharedInstance]];
+}
+
+
+/**
+ * Return a SearchMo object with the given URL.
+ * If the object is cached return that, otherwise download.
+ */
+- (SearchMo*) searchOrCreate:(NSString *) query {
+	
+	//BOOL isEmpty = ([query length]==0) 
+	//if (()) return;
+	
+	debug(@"Running query for %@", query);
+	
+	// search by URL
+	NSURL *url = [NSURL URLWithString:[NSString stringWithFormat:@"http://www.jobsket.es/search?keywords=%@",query]];
+	NSString *sUrl = [url absoluteString];
+    SearchMo *searchMo = [searchDao findByUrl:sUrl];
+	
+	// no hits, build one
+    if (searchMo == nil) {
+	
+		// TODO: should read from the network
+		// download fresh data
+		debug(@"Cache fail, so getting a new SearchMo from a file");
+        NSData *data = [FileReader dataWithFilename:@"jobsket-search" andExtension:@"html"];
+		
+        // parse
+        NSMutableSet *jobs = [[JobSearchParser new] parseJobs:data];
+		
+        // build the search object
+		searchMo = [searchDao createWithDate:[NSDate date] andKeywords:query];
+		searchMo.favorite = [NSNumber numberWithBool:NO];
+		searchMo.jobs = jobs;
+			
+		[searchDao save];
+		
+        debug(@"Returning new: %@", [searchMo describe]);
+    } else {
+		debug(@"Returning from cache: %@", [searchMo describe]);
+	}
+	
+	return searchMo;
+}
+
+
+- (NSArray*) searchByFavorite:(NSNumber*)favorite {
+	return [searchDao findByFavorite:favorite];
+}
+
+
+
+@end

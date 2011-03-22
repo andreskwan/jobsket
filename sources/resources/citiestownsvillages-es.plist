@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>A Coruña</key><string>43.3708731,-8.395835</string>
+	<key>Abadiño</key><string>43.15,-2.6102778</string>
+	<key>Abanto y Ciérbana-Abanto Zierbena</key><string>43.3147222,-3.0719444</string>
+	<key>Abaran</key><string>38.2051397,-1.3971809</string>
+	<key>Abrera</key><string>41.5160856,1.9021424</string>
+	<key>Ajangiz</key><string>43.301,-2.671</string>
+	<key>Albacete</key><string>38.997652,-1.860070</string>
+	<key>Alcalá de Henares</key><string>40.481663,-3.364136</string>
+	<key>Alcaucin</key><string>36.9026303,-4.114147</string>
+	<key>Alcazar de San Juan</key><string>39.3899254,-3.2101372</string>
+	<key>Alcobendas</key><string>40.5475437,-3.6420912</string>
+	<key>Alcorcón</key><string>40.3491158,-3.8288109</string>
+	<key>Alcorcón</key><string>40.349116,-3.828811</string>
+	<key>Alcoy</key><string>38.7020091,-0.4771982</string>
+	<key>Alfarnate</key><string>36.9951108,-4.2606559</string>
+	<key>Alfarnatejo</key><string>36.979352,-4.2725276</string>
+	<key>Algarrobo</key><string>36.7721563,-4.0393136</string>
+	<key>Alhama de Murcia</key><string>37.8510117,-1.4246662</string>
+	<key>Alhaurin de la Torre</key><string>36.6683574,-4.5529671</string>
+	<key>Alhaurin El Grande</key><string>36.6418564,-4.6914471</string>
+	<key>Alicante</key><string>38.3452032,-0.481006</string>
+	<key>Almachar</key><string>36.8085897,-4.2174092</string>
+	<key>Almería</key><string>36.840164,-2.467922</string>
+	<key>Almunecar</key><string>36.7345403,-3.6907361</string>
+	<key>Alonsotegi</key><string>43.2451862,-2.9887015</string>
+	<key>Alzira</key><string>39.1515899,-0.4404637</string>
+	<key>Amorebieta-Etxano</key><string>43.2261038,-2.7126284</string>
+	<key>Amoroto</key><string>43.3285,-2.5125</string>
+	<key>Antigua</key><string>28.4234731,-14.0145503</string>
+	<key>Arakaldo</key><string>43.1495502,-2.9250864</string>
+	<key>Aranjuez</key><string>40.0320927,-3.6032879</string>
+	<key>Arantzazu</key><string>43.1529041,-2.7904302</string>
+	<key>Archez</key><string>36.8373916,-3.9901862</string>
+	<key>Areatza</key><string>43.1210794,-2.7677714</string>
+	<key>Arenas</key><string>40.2087167,-5.0911407</string>
+	<key>Arganda del Rey</key><string>40.3009506,-3.4380798</string>
+	<key>Arrankudiaga</key><string>43.1735028,-2.9178861</string>
+	<key>Arratzu</key><string>43.311667,-2.638611</string>
+	<key>Arrecife</key><string>28.9595062,-13.5476012</string>
+	<key>Arrieta</key><string>43.340362,-2.769799</string>
+	<key>Arrigorriaga</key><string>43.2075202,-2.8878387</string>
+	<key>Arroyo de la Miel</key><string>36.595234,-4.5733681</string>
+	<key>Arroyo Vaquero</key><string>36.4044094,-5.1891876</string>
+	<key>Artea</key><string>43.133718,-2.784141</string>
+	<key>Artzentales</key><string>43.240556,-3.241389</string>
+	<key>Asturias</key><string>43.2504393,-5.9832577</string>
+	<key>Atalaya Isdabe</key><string>36.4626706,-5.0112787</string>
+	<key>Atxondo</key><string>43.130342,-2.585079</string>
+	<key>Aulesti</key><string>43.296084,-2.5633553</string>
+	<key>Badajoz</key><string>38.8785967,-6.9702834</string>
+	<key>Badalona</key><string>41.450137,2.247419</string>
+	<key>Bahia Dorada</key><string>36.396889,-5.1974557</string>
+	<key>Bakio</key><string>43.4277778,-2.8113889</string>
+	<key>Balmaseda</key><string>43.1928663,-3.1969419</string>
+	<key>Barakaldo</key><string>43.2972222,-2.9916667</string>
+	<key>Barcelona</key><string>41.387917,2.1699187</string>
+	<key>Barrika</key><string>43.406384,-2.962425</string>
+	<key>Basauri</key><string>43.2333333,-2.8833333</string>
+	<key>Bedia</key><string>43.209374,-2.804965</string>
+	<key>Begues</key><string>41.3310099,1.9219869</string>
+	<key>Bell-Lloc d'Urgell</key><string>41.6294011,0.7808905</string>
+	<key>Bellpuig</key><string>41.6260709,1.0092164</string>
+	<key>Benahavis</key><string>36.5244648,-5.0463051</string>
+	<key>Benalmadena Costa</key><string>36.5999866,-4.5366226</string>
+	<key>Benalmadena Pueblo</key><string>36.5881855,-4.5680493</string>
+	<key>Benamara Estepona</key><string>36.4651123,-5.0299057</string>
+	<key>Benamocarra</key><string>36.7912043,-4.1599681</string>
+	<key>Beneixama</key><string>38.6999523,-0.7661394</string>
+	<key>Benemargosa</key><string>36.8320781,-4.1923899</string>
+	<key>Benidorm</key><string>38.5370431,-0.1290771</string>
+	<key>Berango</key><string>43.3658988,-2.9963564</string>
+	<key>Bermeo</key><string>43.4204219,-2.7221583</string>
+	<key>Berriatua</key><string>43.3166667,-2.4666667</string>
+	<key>Berriz</key><string>43.1939233,-2.5891648</string>
+	<key>Betancuria</key><string>28.4243823,-14.0564614</string>
+	<key>Bilbao</key><string>43.256963,-2.923441</string>
+	<key>Bizkaia</key><string>43.2204286,-2.6983868</string>
+	<key>Boadilla del Monte</key><string>40.4052478,-3.8769914</string>
+	<key>Bubión</key><string>36.9488258,-3.3567415</string>
+	<key>Buenas Noches</key><string>36.4037076,-5.5720875</string>
+	<key>Buenavista</key><string>28.370286,-16.8502412</string>
+	<key>Burgos</key><string>42.3408747,-3.699731</string>
+	<key>Burgos</key><string>42.340875,-3.699731</string>
+	<key>Burjassot</key><string>39.5105098,-0.4149856</string>
+	<key>Busturia</key><string>43.383,-2.697</string>
+	<key>Caleta de Velez</key><string>36.7497527,-4.0728661</string>
+	<key>Calpe</key><string>38.6465999,0.0455365</string>
+	<key>Cancelada Playa</key><string>36.4640096,-5.0233819</string>
+	<key>Cancelada</key><string>36.4610385,-5.0548141</string>
+	<key>Canillas de Aceituno</key><string>36.8734494,-4.0820419</string>
+	<key>Canillas de Albaida</key><string>36.8460735,-3.987585</string>
+	<key>Cantabria</key><string>43.1828396,-3.9878427</string>
+	<key>Cartagena</key><string>37.6056505,-0.9912944</string>
+	<key>Cartagena</key><string>37.605651,-0.991294</string>
+	<key>Casares</key><string>36.4433288,-5.2735192</string>
+	<key>Castelldefels</key><string>41.2803885,1.9767745</string>
+	<key>Castellón de la Plana</key><string>39.986068,-0.036024</string>
+	<key>Castellón</key><string>39.9860683,-0.0360242</string>
+	<key>Cerro Artola</key><string>36.4944274,-4.7562078</string>
+	<key>Ceuta</key><string>35.8882871,-5.3161949</string>
+	<key>Ciudad Alta</key><string>28.659051,-17.791189</string>
+	<key>Ciudad Real</key><string>38.9860963,-3.9272629</string>
+	<key>Ciérbana-Zierbena</key><string>43.345952,-3.0888554</string>
+	<key>Collado Villalba</key><string>40.6272562,-4.0085868</string>
+	<key>Colmenar Viejo</key><string>40.6589526,-3.7660432</string>
+	<key>Colmenar</key><string>40.107583,-3.387693</string>
+	<key>Comares</key><string>36.8487228,-4.2470609</string>
+	<key>Competa</key><string>36.8329954,-3.9748723</string>
+	<key>Cordoba</key><string>37.884727,-4.779152</string>
+	<key>Cornellà de Llobregat</key><string>41.3556129,2.0704325</string>
+	<key>Coslada</key><string>40.425936,-3.5654639</string>
+	<key>Cuenca</key><string>40.0718353,-2.1340053</string>
+	<key>Cueva de Nerja</key><string>36.7646161,-3.8409434</string>
+	<key>Cutar</key><string>36.8306928,-4.228007</string>
+	<key>Cáceres</key><string>39.4761789,-6.3707604</string>
+	<key>Cádiz</key><string>36.5296879,-6.2926569</string>
+	<key>Córdoba</key><string>37.8847267,-4.7791517</string>
+	<key>Daimuz</key><string>38.9699972,-0.1538377</string>
+	<key>Derio</key><string>43.302,-2.8818333</string>
+	<key>Dima</key><string>43.143389,-2.751464</string>
+	<key>Donostia-San Sebastián</key><string>43.320200,-1.979286</string>
+	<key>Durango</key><string>43.1690679,-2.6326552</string>
+	<key>Ea</key><string>43.3801347,-2.5855932</string>
+	<key>El Borge</key><string>36.8144604,-4.2348901</string>
+	<key>El Castillo</key><string>37.6915997,-6.3142992</string>
+	<key>El Chaparral</key><string>36.5098094,-4.6555011</string>
+	<key>El Masnou</key><string>41.4793117,2.3192438</string>
+	<key>El Perelló</key><string>40.8754335,0.7124032</string>
+	<key>El Pilar de Benavista</key><string>28.1309876,-15.6422656</string>
+	<key>El Prat de Llobregat</key><string>41.3304758,2.0931486</string>
+	<key>El Vedat de Torrent</key><string>39.4220389,-0.488838</string>
+	<key>Elantxobe</key><string>43.4034223,-2.6398003</string>
+	<key>Elche</key><string>38.267176,-0.695220</string>
+	<key>Elorrio</key><string>43.1303865,-2.5421552</string>
+	<key>Elviria</key><string>36.4972273,-4.7839571</string>
+	<key>Erandio</key><string>43.307458,-2.946418</string>
+	<key>Ereño</key><string>43.3569444,-2.6216667</string>
+	<key>Ermua</key><string>43.1866423,-2.5026072</string>
+	<key>Errigoiti</key><string>43.3187087,-2.7253445</string>
+	<key>Esplugues de Llobregat</key><string>41.3775143,2.0880846</string>
+	<key>Estepona</key><string>36.4247747,-5.144903</string>
+	<key>Etxebarri</key><string>43.2471794,-2.8901388</string>
+	<key>Etxebarria</key><string>43.2541456,-2.4773537</string>
+	<key>Forua</key><string>43.333712,-2.678589</string>
+	<key>Frigiliana</key><string>36.792517,-3.8980763</string>
+	<key>Fruiz</key><string>43.3288889,-2.7833333</string>
+	<key>Fuengirola</key><string>36.5390044,-4.6243528</string>
+	<key>Fuenlabrada</key><string>40.283873,-3.800329</string>
+	<key>Fuente Camacho</key><string>37.0992388,-4.2559124</string>
+	<key>Galdakao</key><string>43.2305556,-2.8458333</string>
+	<key>Galdames</key><string>43.255,-3.0963889</string>
+	<key>Gamiz-Fika</key><string>43.311728,-2.810701</string>
+	<key>Gandia</key><string>38.9690215,-0.1851868</string>
+	<key>Garay</key><string>43.1947222,-2.6097222</string>
+	<key>Gatika</key><string>43.3638889,-2.8719444</string>
+	<key>Gautegiz Arteaga</key><string>43.353104,-2.650985</string>
+	<key>Gavà</key><string>41.3031677,2.0032133</string>
+	<key>Gernika-Lumo</key><string>43.3170732,-2.6789751</string>
+	<key>Getafe</key><string>40.3049763,-3.7326773</string>
+	<key>Getxo</key><string>43.3441667,-3.0063889</string>
+	<key>Gijón</key><string>43.545261,-5.661926</string>
+	<key>Girona</key><string>41.9817957,2.8236999</string>
+	<key>Gizaburuaga</key><string>43.3319444,-2.5361111</string>
+	<key>Gordexola</key><string>43.1786111,-3.0727778</string>
+	<key>Gorliz</key><string>43.4166667,-2.9333333</string>
+	<key>Granada</key><string>37.1764874,-3.5979291</string>
+	<key>Granollers</key><string>41.6082128,2.2877888</string>
+	<key>Guadalajara</key><string>40.629816,-3.1664931</string>
+	<key>Guadalmina</key><string>36.4721089,-5.0036196</string>
+	<key>Guipúzcoa</key><string>43.0756299,-2.2236667</string>
+	<key>Güeñes</key><string>43.2103205,-3.0953169</string>
+	<key>Haría</key><string>29.1465119,-13.4976965</string>
+	<key>Huelva</key><string>37.257101,-6.949555</string>
+	<key>Huesca</key><string>42.1401024,-0.408898</string>
+	<key>Humanes de Madrid</key><string>40.2495404,-3.8272058</string>
+	<key>Ibarrangelu</key><string>43.390215,-2.633802</string>
+	<key>Igorre</key><string>43.1658333,-2.7761111</string>
+	<key>Islas Baleares</key><string>39.5341789,2.8577105</string>
+	<key>Ispaster</key><string>43.362954,-2.544635</string>
+	<key>Iurreta</key><string>43.1767046,-2.6337772</string>
+	<key>Iznate</key><string>36.7761154,-4.1835601</string>
+	<key>Izurtza</key><string>43.152273,-2.6419778</string>
+	<key>Jaén</key><string>37.7657389,-3.7895177</string>
+	<key>Jerez de la Frontera</key><string>36.686562,-6.137173</string>
+	<key>Jumilla</key><string>38.4759497,-1.3220319</string>
+	<key>Karrantza-Valle de Carranza</key><string>43.2448177,-3.3755408</string>
+	<key>Kortezubi</key><string>43.335982,-2.654319</string>
+	<key>L'Hospitalet de Llobregat</key><string>41.359583,2.099704</string>
+	<key>La Herradura</key><string>36.7359335,-3.7392588</string>
+	<key>La Llagosta</key><string>41.5132133,2.1932462</string>
+	<key>La Oliva</key><string>28.610399,-13.9288029</string>
+	<key>La Rioja</key><string>42.2870733,-2.539603</string>
+	<key>La Zubia</key><string>37.1206136,-3.5846685</string>
+	<key>Lanestosa</key><string>43.2211686,-3.4391483</string>
+	<key>Larrabetzu</key><string>43.2609734,-2.7961746</string>
+	<key>Las Lagunas de Mijas</key><string>36.5384128,-4.6358022</string>
+	<key>Las Palmas de Gran Canaria</key><string>28.124823,-15.430006</string>
+	<key>Las Palmas</key><string>28.1248227,-15.4300065</string>
+	<key>Las Rozas de Madrid</key><string>40.4932791,-3.875189</string>
+	<key>Laukiz</key><string>43.3533333,-2.9061111</string>
+	<key>Leganés</key><string>40.326422,-3.7589882</string>
+	<key>Leioa</key><string>43.3260969,-2.9877041</string>
+	<key>Lekeitio</key><string>43.3655092,-2.5033436</string>
+	<key>Lemoa</key><string>43.2087592,-2.7741164</string>
+	<key>Lemoiz</key><string>43.413244,-2.902253</string>
+	<key>Lezama</key><string>43.2721667,-2.8321667</string>
+	<key>León</key><string>42.5998764,-5.571752</string>
+	<key>Lleida</key><string>41.6141518,0.6257825</string>
+	<key>Logroño</key><string>42.465776,-2.449995</string>
+	<key>Loiu</key><string>43.315,-2.9383333</string>
+	<key>Lorca</key><string>37.6713082,-1.6987916</string>
+	<key>Lugo</key><string>43.0120868,-7.5558514</string>
+	<key>Macharaviaya</key><string>36.7623942,-4.2139793</string>
+	<key>Madrid</key><string>40.4166909,-3.7003454</string>
+	<key>Madrid</key><string>40.416691,-3.700345</string>
+	<key>Majadahonda</key><string>40.4728332,-3.8723044</string>
+	<key>Mallabia</key><string>43.1896506,-2.5299686</string>
+	<key>Manilva</key><string>36.3770605,-5.2492715</string>
+	<key>Marbella</key><string>36.5099367,-4.8863523</string>
+	<key>Markina-Xemein</key><string>43.270604,-2.4971553</string>
+	<key>Maruri-Jatabe</key><string>43.382772,-2.874989</string>
+	<key>Mataró</key><string>41.5375002,2.4452776</string>
+	<key>Mañaria</key><string>43.1374845,-2.6611352</string>
+	<key>Melilla</key><string>35.2923388,-2.9387938</string>
+	<key>Mendata</key><string>43.2833333,-2.6333333</string>
+	<key>Mendexa</key><string>43.3463889,-2.4833333</string>
+	<key>Meñaka</key><string>43.364464,-2.801795</string>
+	<key>Mijas Costa</key><string>36.5048939,-4.6805046</string>
+	<key>Mijas</key><string>36.5956989,-4.6376188</string>
+	<key>Mislata</key><string>39.4762376,-0.4193065</string>
+	<key>Montcada i Reixac</key><string>41.4823096,2.1885045</string>
+	<key>Montornès del Vallès</key><string>41.5425435,2.2637794</string>
+	<key>Morga</key><string>43.297932,-2.752739</string>
+	<key>Mundaka</key><string>43.4073349,-2.6983217</string>
+	<key>Mungia</key><string>43.3544099,-2.8467141</string>
+	<key>Munitibar-Arbatzegi Gerrikaitz</key><string>43.2653323,-2.591845</string>
+	<key>Murcia</key><string>37.983445,-1.129890</string>
+	<key>Murueta</key><string>43.354463,-2.684153</string>
+	<key>Muskiz</key><string>43.3233333,-3.1216667</string>
+	<key>Muxika</key><string>43.289668,-2.692941</string>
+	<key>Málaga</key><string>36.719646,-4.420019</string>
+	<key>Móstoles</key><string>40.322771,-3.865741</string>
+	<key>Nabarniz</key><string>43.3215972,-2.5844</string>
+	<key>Navalcarnero</key><string>40.2878105,-4.013766</string>
+	<key>Navarra</key><string>42.6953909,-1.6760691</string>
+	<key>Nerja</key><string>36.74503,-3.8766489</string>
+	<key>Nueva Andalucia</key><string>36.498716,-4.9633503</string>
+	<key>Ojon</key><string>36.5642428,-4.8564921</string>
+	<key>Olesa de Montserrat</key><string>41.5434007,1.8881533</string>
+	<key>Ondarroa</key><string>43.3206977,-2.4204748</string>
+	<key>Orduña</key><string>42.9944489,-3.0096225</string>
+	<key>Orozko</key><string>43.1086111,-2.9111111</string>
+	<key>Ortuella</key><string>43.3113702,-3.0559517</string>
+	<key>Otxandio</key><string>43.0404471,-2.6545837</string>
+	<key>Ourense</key><string>42.3400086,-7.8646408</string>
+	<key>Oviedo</key><string>43.360259,-5.844758</string>
+	<key>Paiporta</key><string>39.4284465,-0.4188691</string>
+	<key>Palencia</key><string>42.0124584,-4.5311748</string>
+	<key>Palma de Mallorca</key><string>39.569506,2.649966</string>
+	<key>Pamplona</key><string>42.817991,-1.644215</string>
+	<key>Parla</key><string>40.2375383,-3.7727413</string>
+	<key>Periana</key><string>36.9269437,-4.1873042</string>
+	<key>Pinto</key><string>40.2445452,-3.6960129</string>
+	<key>Plentzia</key><string>43.4044298,-2.9501018</string>
+	<key>Pontevedra</key><string>42.4336191,-8.648053000000001</string>
+	<key>Portugalete</key><string>43.3206637,-3.0202518</string>
+	<key>Pozuelo de Alarcón</key><string>40.4351952,-3.8130616</string>
+	<key>Puerto Banus</key><string>36.4873085,-4.9554159</string>
+	<key>Puerto de La Duquesa</key><string>36.3402747,-5.2374323</string>
+	<key>Puerto del Rosario</key><string>28.4965033,-13.8622068</string>
+	<key>Puertollano</key><string>38.6860347,-4.1121461</string>
+	<key>Pájara and Tuineje</key><string>28.3241706,-14.0475849</string>
+	<key>Rincon de la Victoria</key><string>36.7156658,-4.2755042</string>
+	<key>Riogordo</key><string>36.9149055,-4.2936216</string>
+	<key>Rivas-Vaciamadrid</key><string>40.3296966,-3.5169413</string>
+	<key>Ronda</key><string>36.7419619,-5.1664119</string>
+	<key>Sabadell</key><string>41.548620,2.107421</string>
+	<key>Sagunto</key><string>39.6801381,-0.2782788</string>
+	<key>Salamanca</key><string>40.9649717,-5.6630471</string>
+	<key>Salamanca</key><string>40.964972,-5.663047</string>
+	<key>Salares</key><string>36.8549603,-4.0243931</string>
+	<key>San Bartolomé</key><string>27.924613,-15.5730022</string>
+	<key>San Cristóbal de La Laguna</key><string>28.488116,-16.314776</string>
+	<key>San Fernando de Henares</key><string>40.4255347,-3.5366938</string>
+	<key>San Luis de Sabinillas</key><string>36.366684,-5.2254221</string>
+	<key>San Pedro de Alcántara</key><string>36.4869249,-4.9904052</string>
+	<key>San Pedro</key><string>41.0756456,-4.2684704</string>
+	<key>San Sebastián de los Reyes</key><string>40.5475111,-3.6263943</string>
+	<key>San Sebastián</key><string>43.320737,-1.984421</string>
+	<key>Sant Boi de Llobregat</key><string>41.3473838,2.0431027</string>
+	<key>Sant Feliu de Llobregat</key><string>41.3809381,2.0451716</string>
+	<key>Sant Joan Despí</key><string>41.3676893,2.0560645</string>
+	<key>Sant Just Desvern</key><string>41.3857565,2.0755444</string>
+	<key>Sant Pere de Ribes</key><string>41.2590969,1.7754176</string>
+	<key>Sant Vicenç dels Horts</key><string>41.3936202,2.0098697</string>
+	<key>Santa Coloma de Cervelló</key><string>41.3668404,2.0150828</string>
+	<key>Santa Cruz de Tenerife</key><string>28.469810,-16.254856</string>
+	<key>Santander</key><string>43.460960,-3.807934</string>
+	<key>Santurtzi</key><string>43.3287106,-3.0317723</string>
+	<key>Sayalonga</key><string>36.7979865,-4.0118988</string>
+	<key>Sedella</key><string>36.8628937,-4.0330698</string>
+	<key>Segovia</key><string>40.9494272,-4.1192092</string>
+	<key>Sestao</key><string>43.3096349,-3.0069397</string>
+	<key>Sevilla</key><string>37.382640,-5.996295</string>
+	<key>Sitges</key><string>41.2347823,1.8112222</string>
+	<key>Sodupe</key><string>43.2010442,-3.0498932</string>
+	<key>Sondika</key><string>43.300468,-2.924341</string>
+	<key>Sopelana</key><string>43.3789178,-2.9830019</string>
+	<key>Sopuerta</key><string>43.2627778,-3.1525</string>
+	<key>Soria</key><string>41.7635982,-2.4649206</string>
+	<key>Sueca</key><string>39.2026363,-0.3106423</string>
+	<key>Sukarrieta</key><string>43.3953415,-2.696367</string>
+	<key>Tarragona</key><string>41.118663,1.245330</string>
+	<key>Teguise</key><string>29.0594165,-13.5602969</string>
+	<key>Terrassa</key><string>41.560953,2.010440</string>
+	<key>Teruel</key><string>40.3441099,-1.1069096</string>
+	<key>Tinajo</key><string>29.0664367,-13.6769516</string>
+	<key>Toledo</key><string>39.8567775,-4.0244759</string>
+	<key>Torre del Mar</key><string>36.7418998,-4.0942411</string>
+	<key>Torrejón de Ardoz</key><string>40.4589042,-3.4797713</string>
+	<key>Torremolinos</key><string>36.6217866,-4.5002731</string>
+	<key>Torrent</key><string>39.436883,-0.4653109</string>
+	<key>Torrox</key><string>36.7584541,-3.9526166</string>
+	<key>Totalan</key><string>36.7652842,-4.2970441</string>
+	<key>Tres Cantos</key><string>40.5990717,-3.7122577</string>
+	<key>Trucios-Turtzioz</key><string>43.2726783,-3.2885455</string>
+	<key>Tías</key><string>28.9530452,-13.6530272</string>
+	<key>Ubide</key><string>43.026832,-2.688209</string>
+	<key>Ugao-Miraballes</key><string>43.1799893,-2.9025077</string>
+	<key>Urduliz</key><string>43.3796667,-2.962</string>
+	<key>Utiel and Aldea de Estenas</key><string>39.5676179,-1.2033853</string>
+	<key>Valdemoro</key><string>40.1926932,-3.679874</string>
+	<key>Valdepeñas</key><string>38.7605285,-3.3841045</string>
+	<key>Valencia</key><string>39.4702393,-0.3768049</string>
+	<key>Valladolid</key><string>41.6529473,-4.7283877</string>
+	<key>Valle de Trápaga-Trapagaran</key><string>43.3031076,-3.0355479</string>
+	<key>Velez-Málaga</key><string>36.7786441,-4.1006749</string>
+	<key>Vigo</key><string>42.231356,-8.712447</string>
+	<key>Viladecans</key><string>41.316006,2.0201987</string>
+	<key>Vilanova i la Geltrú</key><string>42.8464063,-2.6678929</string>
+	<key>Villamartin</key><string>36.8613237,-5.641834</string>
+	<key>Villanueva de la Cañada</key><string>40.4468114,-4.0053552</string>
+	<key>Villaviciosa de Odón</key><string>40.3571015,-3.9005897</string>
+	<key>Villena</key><string>38.6363457,-0.8661389</string>
+	<key>Vinuela</key><string>36.8628019,-4.1413311</string>
+	<key>Vitoria-Gasteiz</key><string>42.846406,-2.667893</string>
+	<key>Vizcaya</key><string>43.2569629,-2.9234409</string>
+	<key>Xativa</key><string>38.9888691,-0.5156137</string>
+	<key>Yaiza</key><string>28.9524668,-13.7652634</string>
+	<key>Yecla</key><string>38.6152379,-1.1180169</string>
+	<key>Zaldibar</key><string>43.17097,-2.5471299</string>
+	<key>Zalla</key><string>43.2140087,-3.1352226</string>
+	<key>Zamora</key><string>41.5036834,-5.7437781</string>
+	<key>Zamudio</key><string>43.2833333,-2.8666667</string>
+	<key>Zaragoza</key><string>41.656287,-0.876538</string>
+	<key>Zaratamo</key><string>43.211505,-2.8736256</string>
+	<key>Zeanuri</key><string>43.099664,-2.749615</string>
+	<key>Zeberio</key><string>43.1527778,-2.8527778</string>
+	<key>Ziortza-Bolibar</key><string>43.2498204,-2.5501745</string>
+	<key>Álava</key><string>42.9099989,-2.6983868</string>
+	<key>Ávila</key><string>40.6564225,-4.7003224</string>
+</dict>
+</plist>

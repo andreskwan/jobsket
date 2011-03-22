@@ -1,0 +1,66 @@
+
+#import "MapVC2.h"
+
+
+@implementation MapVC
+
+@synthesize mapView = _mapView;
+@synthesize locationManager;
+@synthesize searchMo;
+
+
+- (void)setCurrentLocation:(CLLocation *)location {
+	MKCoordinateRegion region = {{0.0f, 0.0f}, {0.0f, 0.0f}};
+	region.center = location.coordinate;
+	region.span.longitudeDelta = 0.15f;
+	region.span.latitudeDelta = 0.15f;
+	[self.mapView setRegion:region animated:YES];
+}
+
+
+#pragma mark -
+#pragma mark CLLocationManagerDelegate
+
+- (void)locationManager:(CLLocationManager *)manager 
+    didUpdateToLocation:(CLLocation *)newLocation
+           fromLocation:(CLLocation *)oldLocation {
+	debug(@"latitude: ", [NSString stringWithFormat:@"%3.5f", newLocation.coordinate.latitude]);
+	debug(@"longitude: ", [NSString stringWithFormat:@"%3.5f", newLocation.coordinate.longitude]);
+	//[locationManager startUpdatingLocation];
+}
+
+
+#pragma mark -
+#pragma mark UIViewController
+
+
+- (void)viewDidLoad {
+	// start CLLocationManager
+	locationManager = [[[CLLocationManager alloc] init] autorelease];
+	locationManager.desiredAccuracy = kCLLocationAccuracyThreeKilometers;
+	locationManager.distanceFilter = 10.0f;
+    locationManager.delegate = self;
+	[locationManager startUpdatingLocation];
+	
+    [super viewDidLoad];
+}
+
+
+- (void)didReceiveMemoryWarning {
+    [super didReceiveMemoryWarning];
+}
+
+
+- (void)viewDidUnload {
+    [super viewDidUnload];
+}
+
+
+#pragma mark NSObject
+
+- (void)dealloc {
+    self.mapView = nil;
+    [super dealloc];
+}
+
+@end

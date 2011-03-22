@@ -1,0 +1,19 @@
+
+#import <Foundation/Foundation.h>
+#import "CoreDataPersistentManager.h"
+#import "JobSearchParser.h"
+#import "SearchDao.h"
+#import "SearchMo.h"
+#import "FileReader.h"
+
+
+@interface SearchManager2 : NSObject {
+@private
+	CoreDataAbstractManager *cdManager;
+	SearchDao *searchDao;
+}
+
+- (SearchMo*) searchOrCreate:(NSString *) query;
+- (NSArray*) searchByFavorite:(NSNumber*)favorite;
+
+@end

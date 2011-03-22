@@ -1,0 +1,15 @@
+{
+    "companies":
+    [
+        {
+              "region" : "Coruña (a)",
+                "logo" : "http://ats.jobsket.com/site/logo/2",
+             "address" : "C. Saavedra Meneses Nº107 2ºI",
+                "name" : "Jobsket S.L.",
+            "postcode" : "15300",
+                 "key" : "jobsket-sl",
+             "country" : "España",
+                "city" : "Betanzos"
+        }
+    ]
+}
