@@ -785,7 +785,6 @@
 		3A61118012DB0B5400A6AFA4 /* search-madrid.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "search-madrid.json"; sourceTree = "<group>"; };
 		3A61871812E07AC100AF9B6A /* GHUnit-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GHUnit-Info.plist"; sourceTree = "<group>"; };
 		3A61875812E07E3B00AF9B6A /* GHUnit_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GHUnit_Prefix.pch; sourceTree = "<group>"; };
-		3A64C3BB12D28EA800DC95B6 /* jobsket API.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "jobsket API.txt"; sourceTree = "<group>"; };
 		3A67171C132D8462006BBF12 /* ico-radar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ico-radar.png"; path = "sources/resources/images/ico-radar.png"; sourceTree = SOURCE_ROOT; };
 		3A67171D132D8462006BBF12 /* ico-radar@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ico-radar@2x.png"; path = "sources/resources/images/ico-radar@2x.png"; sourceTree = SOURCE_ROOT; };
 		3A67171E132D8462006BBF12 /* ico-warning.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ico-warning.png"; path = "sources/resources/images/ico-warning.png"; sourceTree = SOURCE_ROOT; };
@@ -1307,7 +1306,6 @@
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				3ACDA542125D99AC006F0DDE /* test */,
-				3A64C3BB12D28EA800DC95B6 /* jobsket API.txt */,
 				3A36ADD11286F90900399465 /* README.txt */,
 			);
 			name = Jobsket;
