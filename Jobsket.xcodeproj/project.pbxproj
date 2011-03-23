@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3A11FB8B131F5CA1007439E3 /* location.png in Resources */ = {isa = PBXBuildFile; fileRef = 3A11FB8A131F5CA1007439E3 /* location.png */; };
+		3A13B98B133A211E00FEB7A7 /* SynthesizeSingleton.h in Sources */ = {isa = PBXBuildFile; fileRef = 3A13B98A133A211700FEB7A7 /* SynthesizeSingleton.h */; };
 		3A144BB9133508FF00F11C4B /* JobsketSearchParameters_es.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3A144BB8133508FF00F11C4B /* JobsketSearchParameters_es.plist */; };
 		3A144D031335132C00F11C4B /* ExperiencePickerView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A144D021335132C00F11C4B /* ExperiencePickerView.m */; };
 		3A172F511328EA420080FA6A /* TabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A172F501328EA420080FA6A /* TabBarController.m */; };
@@ -719,6 +720,8 @@
 		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		288765070DF74369002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		3A11FB8A131F5CA1007439E3 /* location.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = location.png; sourceTree = "<group>"; };
+		3A13B989133A20EC00FEB7A7 /* README.mdown */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.mdown; sourceTree = "<group>"; };
+		3A13B98A133A211700FEB7A7 /* SynthesizeSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SynthesizeSingleton.h; sourceTree = "<group>"; };
 		3A144BB8133508FF00F11C4B /* JobsketSearchParameters_es.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = JobsketSearchParameters_es.plist; sourceTree = "<group>"; };
 		3A144D011335132C00F11C4B /* ExperiencePickerView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ExperiencePickerView.h; sourceTree = "<group>"; };
 		3A144D021335132C00F11C4B /* ExperiencePickerView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ExperiencePickerView.m; sourceTree = "<group>"; };
@@ -747,7 +750,6 @@
 		3A30F9901336BE2B00A88CEC /* PNG_SEARCH_CANCEL_SEL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PNG_SEARCH_CANCEL_SEL.png; sourceTree = "<group>"; };
 		3A30F9911336BE2B00A88CEC /* PNG_SEARCH_CANCEL_UNSEL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PNG_SEARCH_CANCEL_UNSEL.png; sourceTree = "<group>"; };
 		3A36ADCF1286F8F600399465 /* jobs1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = jobs1.json; sourceTree = "<group>"; };
-		3A36ADD11286F90900399465 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		3A36ADFE1286FE5D00399465 /* search-java1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "search-java1.html"; sourceTree = "<group>"; };
 		3A36ADFF1286FE5D00399465 /* search-java.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "search-java.html"; sourceTree = "<group>"; };
 		3A36AE2F1287049600399465 /* search-java2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "search-java2.html"; sourceTree = "<group>"; };
@@ -1063,7 +1065,6 @@
 		3A9FD6D1132A9A9300AE4602 /* ATMTextLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ATMTextLayer.h; sourceTree = "<group>"; };
 		3A9FD6D2132A9A9300AE4602 /* ATMTextLayer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ATMTextLayer.m; sourceTree = "<group>"; };
 		3AA951861262E53700378046 /* Jobsket3_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Jobsket3_Prefix.pch; sourceTree = "<group>"; };
-		3AA9AE2413380B8000C05349 /* SynthesizeSingleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SynthesizeSingleton.h; path = ../../../../../../../Desktop/i18nApp/main/code/generic/patterns/SynthesizeSingleton.h; sourceTree = "<group>"; };
 		3AAA68C51284D9AA00F6CEDB /* SearchManagerTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchManagerTest.m; sourceTree = "<group>"; };
 		3AB2C84912A111C100EFBF2D /* ComLocLookupTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ComLocLookupTest.m; sourceTree = "<group>"; };
 		3AB4D2D4132A9C22007BC752 /* CoreAudio.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreAudio.framework; path = System/Library/Frameworks/CoreAudio.framework; sourceTree = SDKROOT; };
@@ -1302,11 +1303,11 @@
 		29B97314FDCFA39411CA2CEA /* Jobsket */ = {
 			isa = PBXGroup;
 			children = (
+				3A13B989133A20EC00FEB7A7 /* README.mdown */,
 				3A96BDA51318FF570059DA0B /* sources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
 				3ACDA542125D99AC006F0DDE /* test */,
-				3A36ADD11286F90900399465 /* README.txt */,
 			);
 			name = Jobsket;
 			sourceTree = "<group>";
@@ -1836,7 +1837,7 @@
 		3A96BEA71318FF570059DA0B /* patterns */ = {
 			isa = PBXGroup;
 			children = (
-				3AA9AE2413380B8000C05349 /* SynthesizeSingleton.h */,
+				3A13B98A133A211700FEB7A7 /* SynthesizeSingleton.h */,
 				3A96BEA81318FF570059DA0B /* Singleton.h */,
 				3A96BEA91318FF570059DA0B /* Singleton.m */,
 			);
@@ -3219,6 +3220,7 @@
 				3A2A141E1336DAF2000166CC /* Query.h in Sources */,
 				3A2A141F1336DAF2000166CC /* Query.m in Sources */,
 				3A2A14201336DAF2000166CC /* SearchManager.h in Sources */,
+				3A13B98B133A211E00FEB7A7 /* SynthesizeSingleton.h in Sources */,
 				3A2A14211336DAF2000166CC /* SearchManager.m in Sources */,
 				3A2A14221336DAF2000166CC /* CompanyDao.h in Sources */,
 				3A2A14231336DAF2000166CC /* CompanyDao.m in Sources */,
