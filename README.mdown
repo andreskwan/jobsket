@@ -1,4 +1,4 @@
-Jobsket.com client.
+[Jobsket Mobile](http://itunes.apple.com/app/jobsket-mobile/id431523186) is a [Jobsket](http://www.jobsket.com) client for your iPhone.
 
 ![](https://github.com/j4n0/jobsket/raw/master/pages/ss02.png)
 ![](https://github.com/j4n0/jobsket/raw/master/pages/ss01.png)
